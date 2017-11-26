@@ -33,3 +33,6 @@
 
 # Atom Editor
 *.cson
+
+# vi Editor
+*.swp
