@@ -18,9 +18,11 @@ docker run -d -p 9000:9000 \
 
 ## Postgres
 
-**Image:** postgres:latest
+**Image:** t08094a/alarmmonitor_postgres ([Modifiziertes Postgres Image](./x86/postgres/Dockerfile))
 
-**GitHub:** https://hub.docker.com/_/postgres/
+**GitHub:**
+- https://hub.docker.com/_/postgres/ (Original Postgres Docker Webseite)
+- https://hub.docker.com/r/t08094a/alarmmonitor_postgres/ (Modifizites Postgres Docker Image)
 
 Folgende Einstellungen sind zu tätigen (beim Start oder über \*.yml):
 Umgebungsvariablen (ENV)
