@@ -1,3 +1,8 @@
+# Betriebssystem für RaspberryPi um Docker Container auszuführen
+
+[resinOS](https://resinos.io/)
+[Getting Started](https://resinos.io/docs/raspberrypi3/gettingstarted/)
+
 # Verwaltung von Containern
 
 ## Portainer
@@ -18,7 +23,7 @@ docker run -d -p 9000:9000 \
 
 ## Postgres
 
-**Image:** t08094a/alarmmonitor_postgres ([Modifiziertes Postgres Image](./x86/postgres/Dockerfile))
+**Image:** t08094a/alarmmonitor\_postgres ([Modifiziertes Postgres Image](./x86/postgres/Dockerfile))
 
 **GitHub:**
 - https://hub.docker.com/_/postgres/ (Original Postgres Docker Webseite)
@@ -29,7 +34,7 @@ Umgebungsvariablen (ENV)
 
 | ENV                | Wert           |
 | :----------------- | :------------- |
-| POSTGRES_PASSWORD  | xxx            |
+| POSTGRES\_PASSWORD  | xxx            |
 
 Um die Datenbank-Daten zu persistieren, so dass diese einen Neustart des Containers überleben ist ein Volumn anzulegen:
 
