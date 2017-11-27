@@ -23,7 +23,7 @@ docker run -d -p 9000:9000 \
 
 ## Postgres
 
-**Image:** t08094a/alarmmonitor\_postgres ([Modifiziertes Postgres Image](./x86/postgres/Dockerfile))
+**Image:** t08094a/alarmmonitor\_postgres ([Modifiziertes Postgres Image](./postgres/Dockerfile-x86))
 
 **GitHub:**
 - https://hub.docker.com/_/postgres/ (Original Postgres Docker Webseite)

@@ -1,0 +1,66 @@
+version: '3'
+
+services:
+    db:
+        image: t08094a/alarmmonitor_postgres:arm64
+        environment:
+            - "POSTGRES_PASSWORD=a#SS2kgH3rk+G~af"
+            - "constraint:instance=db"
+        ports:
+            - 5432:5432
+        volumes:
+            - db-data:/var/lib/postgresql/data
+        deploy:
+            placements: [node.role == manager]
+            restart_policy:
+                condition: always
+        networks:
+            - alarmnet
+
+    #TODO: anpassen für ARM64
+    dbadmin:
+        image: dpage/pgadmin4:latest
+        ports:
+            - 5001:80
+        environment:
+            - "PGADMIN_DEFAULT_EMAIL=container@pgadmin.org"
+            - "PGADMIN_DEFAULT_PASSWORD=a#SS2kgH3rk+G~af"
+            - "PGADMIN_SERVER_NAME=pgadmin4"
+            - "PGADMIN_ENABLE_TLS=False"
+            - "contraint:instance=dbadmin"
+        depends_on:
+            - db
+        networks:
+            - alarmnet
+        deploy:
+            restart_policy:
+                condition: on-failure
+
+    mqttserver:
+        image: rabbitmq:latest
+        ports:
+            - 5002:80
+        networks:
+            - alarmnet
+
+    app:
+        image: t08094a/alarmMonitor_App:arm64
+        # build works only with compose, not with stack deploy
+        # build: .
+        ports:
+            - "5000:80"
+        volumes:
+            - .:/code
+        depends_on:
+            - db
+        networks:
+            - alarmnet
+        deploy:
+            restart_policy:
+                condition: on-failure
+
+networks:
+    alarmnet:
+
+volumes:
+    db-data:

@@ -2,7 +2,7 @@ version: '3'
 
 services:
     db:
-        image: t08094a/alarmmonitor_postgres:latest
+        image: t08094a/alarmmonitor_postgres:x86
         environment:
             - "POSTGRES_PASSWORD=a#SS2kgH3rk+G~af"
             - "constraint:instance=db"
@@ -43,7 +43,7 @@ services:
             - alarmnet
 
     app:
-        image: t08094a/alarmMonitor_App
+        image: t08094a/alarmMonitor_App:x86
         # build works only with compose, not with stack deploy
         # build: .
         ports:
