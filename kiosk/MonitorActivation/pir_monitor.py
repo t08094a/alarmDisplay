@@ -2,10 +2,13 @@ import sys
 from time import time, sleep
 from subprocess import call
 from RPi import GPIO
+import logging
 
 # https://www.modmypi.com/blog/raspberry-pi-gpio-sensing-motion-detection
 # https://raspberry.tips/raspberrypi-tutorials/bewegungsmelder-am-raspberry-pi-auslesen/
 # https://tutorials-raspberrypi.de/raspberry-pi-bewegungsmelder-sensor-pir/
+
+LOGGER = logging.getLogger(__name__)
 
 class PirWatcher():
 
@@ -15,13 +18,13 @@ class PirWatcher():
     def __init__(self):
         # https://raspberrypi.stackexchange.com/questions/12966/what-is-the-difference-between-board-and-bcm-for-gpio-pin-numbering#12967
         GPIO.setmode(GPIO.BOARD)
-        GPIO.setup(PIR_PIN, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
+        GPIO.setup(self.PIR_PIN, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
 
-        stop_running = False
-        turned_off = False
-        last_motion_time = time()
+        self.stop_running = False
+        self.turned_off = False
+        self.last_motion_time = time()
 
-    def __motion_detected(PIR_PIN):
+    def motion_detected(self, channel):
         """
         Link the callback to the correct pin. So this method gets
         called when a motion is detected.
@@ -29,7 +32,7 @@ class PirWatcher():
         
         LOGGER.info('motion detected')
         
-        turn_on()
+        self.turn_on()
 
     def start(self):
         """
@@ -39,21 +42,21 @@ class PirWatcher():
         LOGGER.info('Start motion detection ...')
 
         # bouncetime=300: sets a time of 300 ms during which time a second interrupt will be ignored
-        GPIO.add_event_detect(PIR_GPIO, GPIO.RISING, callback=__motion_detected, bouncetime=300)
+        GPIO.add_event_detect(self.PIR_PIN, GPIO.RISING, callback=self.motion_detected, bouncetime=300)
 
         try:
-            while stop_running == False:
+            while self.stop_running == False:
                 # sleep for 60 sec
-                time.sleep(60)
+                sleep(60)
         except KeyboardInterrupt:
-            cleanup()
+            self.cleanup()
 
     def stop(self):
-        cleanup()
+        self.cleanup()
 
     def cleanup(self):
-        GPIO.remove_event_detected(PIR_GPIO)
-        stop_running = True
+        GPIO.remove_event_detect(self.PIR_PIN)
+        self.stop_running = True
         GPIO.cleanup()
 
     def turn_on(self):
