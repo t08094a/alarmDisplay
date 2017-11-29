@@ -1,8 +1,8 @@
 import sys
-from time import time, sleep
+import time
+import logging
 from subprocess import call
 from RPi import GPIO
-import logging
 
 # https://www.modmypi.com/blog/raspberry-pi-gpio-sensing-motion-detection
 # https://raspberry.tips/raspberrypi-tutorials/bewegungsmelder-am-raspberry-pi-auslesen/
@@ -16,13 +16,12 @@ class PirWatcher():
     SHUTOFF_DELAY = 60
 
     def __init__(self):
-        # https://raspberrypi.stackexchange.com/questions/12966/what-is-the-difference-between-board-and-bcm-for-gpio-pin-numbering#12967
         GPIO.setmode(GPIO.BOARD)
         GPIO.setup(self.PIR_PIN, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
 
         self.stop_running = False
         self.turned_off = False
-        self.last_motion_time = time()
+        self.last_motion_time = time.time()
 
     def motion_detected(self, channel):
         """
@@ -33,6 +32,11 @@ class PirWatcher():
         LOGGER.info('motion detected')
         
         self.turn_on()
+
+        #if self.turned_off:
+        #    self.turn_on()
+        #else:
+        #    self.turn_off()
 
     def start(self):
         """
@@ -47,7 +51,7 @@ class PirWatcher():
         try:
             while self.stop_running == False:
                 # sleep for 60 sec
-                sleep(60)
+                time.sleep(30)
         except KeyboardInterrupt:
             self.cleanup()
 
@@ -61,6 +65,8 @@ class PirWatcher():
 
     def turn_on(self):
         call('vcgencmd display_power 1', shell=True)
+        self.turned_off = False
 
-    #def turn_off(self):
-    #    call('vcgencmd display_power 0', shell=True)
+    def turn_off(self):
+        call('vcgencmd display_power 0', shell=True)
+        self.turned_off = True
