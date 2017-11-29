@@ -8,6 +8,9 @@ Als Sensor wird ein HC-SR501 eingesetzt. Es ist jedoch auch jeder x-beliebige PI
 ## Bewegungsmelder PIR
 
 ### PIR anschließen
+
+<img src="pir.png" alt="Verdrahtung" width="400px">
+
 - VCC an Pin 2 (5V)
 - OUT an Pin 16 (GPIO 23)
 - GND an Pin 6 (Ground)
