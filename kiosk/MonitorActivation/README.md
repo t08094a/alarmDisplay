@@ -9,7 +9,7 @@ Als Sensor wird ein HC-SR501 eingesetzt. Es ist jedoch auch jeder x-beliebige PI
 
 ### PIR anschließen
 
-<img src="pir.png" alt="Verdrahtung" width="400px">
+<img src="assets/pir.png" alt="Verdrahtung" width="400px">
 
 - VCC an Pin 2 (5V)
 - OUT an Pin 8 (GPIO 14)
