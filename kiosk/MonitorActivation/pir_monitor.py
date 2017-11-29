@@ -9,7 +9,7 @@ from RPi import GPIO
 
 class PirWatcher():
 
-    PIR_PIN = 7
+    PIR_PIN = 8 # GPIO PIN: 14
     SHUTOFF_DELAY = 60
 
     def __init__(self):
