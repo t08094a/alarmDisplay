@@ -1,6 +1,7 @@
 import sys
 import time
 import logging
+import screen_activator
 from subprocess import call
 from RPi import GPIO
 
@@ -8,10 +9,9 @@ from RPi import GPIO
 # https://raspberry.tips/raspberrypi-tutorials/bewegungsmelder-am-raspberry-pi-auslesen/
 # https://tutorials-raspberrypi.de/raspberry-pi-bewegungsmelder-sensor-pir/
 
-LOGGER = logging.getLogger(__name__)
-
 class PirWatcher():
 
+    LOGGER = logging.getLogger(__name__)
     PIR_PIN = 8 # GPIO PIN: 14
     SHUTOFF_DELAY = 60
 
@@ -23,6 +23,8 @@ class PirWatcher():
         self.turned_off = False
         self.last_motion_time = time.time()
 
+        self.screen_activator = new screen_activator()
+
     def motion_detected(self, channel):
         """
         Link the callback to the correct pin. So this method gets
@@ -31,12 +33,7 @@ class PirWatcher():
         
         LOGGER.info('motion detected')
         
-        self.turn_on()
-
-        #if self.turned_off:
-        #    self.turn_on()
-        #else:
-        #    self.turn_off()
+        self.screen_activator.activate()
 
     def start(self):
         """
