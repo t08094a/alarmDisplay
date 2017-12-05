@@ -11,11 +11,11 @@ class ScreenActivator(object):
 
         LOGGER.info('activate monitor')
 
-        # force display activation if screenserver is currently active
-        subprocess.call('vcgencmd display_power 1')
+        # activate HDMI and deactivate screensaver
+        subprocess.call('vcgencmd display_power 1 && xscreensaver-command -deactivate', shell=True, env={'DISPLAY': ':0'})
 
     def deactivate(self):
 
         LOGGER.info('deactivate monitor')
 
-        subprocess.call('vcgencmd display_power 0')
+        subprocess.call('xscreensaver-command -activate && vcgencmd display_power 0', shell=True, env={'DISPLAY': ':0'})
