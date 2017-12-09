@@ -39,3 +39,6 @@
 
 # vi Editor
 *.swp
+
+# PyCharm
+.idea/
