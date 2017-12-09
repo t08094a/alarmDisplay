@@ -1,4 +1,4 @@
-FROM arm64v8/node:latest
+FROM arm64v8/node:alpine
 
 WORKDIR /app
 
