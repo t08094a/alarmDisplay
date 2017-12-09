@@ -2,8 +2,9 @@ FROM arm64v8/node:latest
 
 WORKDIR /app
 
-RUN npm install -g nodemon
+#RUN npm install -g nodemon
 
+# install simple monitor script for use during development of a node.js app
 #ADD package.json /app/package.json
 
 RUN npm config set registry http://registry.npmjs.org
