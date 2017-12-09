@@ -1,0 +1,13 @@
+{
+  "name": "AlarmDisplayApp",
+  "version": "1.0.0",
+  "description": "Alarm display app based on Node.js and Docker",
+  "author": "Jochen Fähnlein <jochen.faehnlein@ff-ipsheim.de>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}

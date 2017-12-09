@@ -1,23 +1,34 @@
 FROM arm64v8/node:alpine
 
+# create app directory
 WORKDIR /app
 
 # install simple monitor script for use during development of a node.js app
 #RUN npm install -g nodemon
 
-#ADD package.json /app/package.json
+# install app dependencies
+# a wildcard is used to ensure both package.json and package-lock.json are copied where available (npm@5+)
+ADD package*.json ./
 
-RUN npm config set registry http://registry.npmjs.org
+#RUN npm config set registry http://registry.npmjs.org
+
 RUN npm install && npm ls
+# if buidling code or production:
+#RUN npm install --only=production && npm ls
+
 #RUN mv /app/node_modules /node_modules
 
 #ADD . /app
 
-ENV PORT 80
-EXPOSE 80
+# bundle app source
+COPY . .
 
-ENV NODE_ENV=production
+#ENV PORT 80
+EXPOSE 8080
 
-CMD ["node", "index.js"]
+#ENV NODE_ENV=production
+
+#CMD ["node", "index.js"]
+CMD [ "npm", "start" ]
 
 USER node
