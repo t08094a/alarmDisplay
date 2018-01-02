@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """
 Set up the kiosk environment on Raspian.
 """
