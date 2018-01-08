@@ -1,3 +1,8 @@
-<p>
-  navigation works!
-</p>
+<h1>{{ title }}</h1>
+
+<!-- This creates a google map -->
+<agm-map [zoom]="zoom" [zoomControl]="false" mapTypeId="roadmap"
+         [disableDoubleClickZoom]="true" [streetViewControl]="false"
+         [usePanning]="true" (mapClick)="onMapClicked($event)" >
+    <agm-direction *ngIf="dir" [origin]="dir.origin" [destination]="dir.destination" [travelMode]="dir.travelMode"></agm-direction>
+</agm-map>

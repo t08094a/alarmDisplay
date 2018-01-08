@@ -1,0 +1,67 @@
+docker hub: https://hub.docker.com/u/arm64v8/
+
+nodejs: https://hub.docker.com/r/arm64v8/node/
+rabbitmq: https://hub.docker.com/r/arm64v8/rabbitmq/
+openjdk: https://hub.docker.com/r/arm64v8/openjdk/
+
+
+portainer:
+    Verwaltung von Docker Images
+
+    raspi: portainer/portainer:arm
+    amd64: portainer/portainer
+
+    https://portainer.readthedocs.io/en/latest/deployment.html
+
+    manage local docker images
+    docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v /opt/dockerData/portainer/portainer -H unix:///var/run/docker.sock
+
+postgres:
+    raspi: https://hub.docker.com/r/arm64v8/postgres/
+    amd64: https://hub.docker.com/_/postgres/
+
+    start:
+    $ docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -d postgres
+    
+    connect from an application:
+    $ docker run --name some-app --link some-postgres:postgres -d application-that-uses-postgres
+
+    exposes port 5432
+
+    username: postgres
+    password: a#SS2kgH3rk+G~af
+
+    ENV:
+        POSTGRES_PASSWORD: a#SS2kgH3rk+G~af 
+
+    Volumes:
+        pgdata -> /var/lib/postgresql/data
+
+pgadmin:
+    NUR amd64: https://hub.docker.com/r/dpage/pgadmin4/
+
+    docker run -e "PGADMIN_DEFAULT_EMAIL=container@pgadmin.org" -e "PGADMIN_DEFAULT_PASSWORD=a#SS2kgH3rk+G~af" -d dpage/pgadmin4
+
+
+    username: container@pgadmin.org
+    password: a#SS2kgH3rk+G~af
+
+
+Raspi im Kiosk Mode:
+    - Raspian installieren
+    - ssh aktivieren
+    - cron-apt installieren
+    - watchdog installieren
+    - Kiosk einrichten:
+        * in ~/.config/lxsession/LXDE-pi/autostart
+          #@xscreensaver -no-splash
+
+          # reset chromium to clean shut down if crashed
+          @sed -i 's/"exited_cleanly": false/"exited_cleanly": true/' ~/.config/chromium/Default/Preferences
+          @xset s off
+          @xset s noblank
+          @xset -dpms
+
+          @chromium-browser --noerrordialogs --kiosk http://www.xxx.zz
+
+    - mosquitto :
