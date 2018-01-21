@@ -13,7 +13,7 @@ import { GMapsService } from './gmaps-service.service';
 export class NavigationComponent implements OnInit {
 
   public title = 'Einsatz Navigation';
-  public zoom = 15;
+  public zoom = 17;
   public dir = undefined;
 
   private origin = { lat: 49.526558948981595, lng: 10.483931601047516};
@@ -39,20 +39,16 @@ export class NavigationComponent implements OnInit {
       .subscribe(
         result => {
             this.__zone.run(() => {
-                let destination_lat = result.lat();
-                let destination_lng = result.lng();
+                const destinationLatLng = {lat: result.lat(), lng: result.lng()};
 
-                console.log('LatLng for ', this.address, ': ', destination_lat, ', ', destination_lng);
+                console.log('LatLng for ', this.address, ': ', destinationLatLng);
 
                 this.dir = {
                     origin: this.origin,
-                    destination: new google.maps.LatLng(destination_lat, destination_lng),
+                    destination: destinationLatLng,
                     travelMode: google.maps.TravelMode.DRIVING
                 };
-
-                // this.gMapsService.panBy(this.target_lat, this.target_lng);
-                this.gMapsService.setZoom(15);
-            })
+            });
         },
         error => console.log(error),
         () => console.log('Geocoding completed!')

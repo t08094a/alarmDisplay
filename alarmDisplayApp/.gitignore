@@ -1,5 +1,8 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
+# exclude environment.ts with the personal API key
+environment.ts
+
 # compiled output
 /dist
 /tmp

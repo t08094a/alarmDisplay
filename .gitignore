@@ -1,3 +1,6 @@
+# exclude environment.ts with the personal API key
+alarmDisplayApp/src/environments/environment.ts
+
 # Prerequisites
 *.d
 
