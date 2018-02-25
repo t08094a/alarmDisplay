@@ -1,3 +1,8 @@
-<p>
-  hydrantplan works!
-</p>
+<h1>{{title}}</h1>
+
+<div class="map"
+     leaflet
+     [leafletOptions]="options"
+     [leafletLayersControl]="layersControl"
+     (leafletMapReady)="onMapReady($event)">
+</div>

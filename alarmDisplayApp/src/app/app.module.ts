@@ -2,6 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { AgmCoreModule } from '@agm/core';
 import { AgmDirectionModule } from 'agm-direction';
+import { LeafletModule } from '@asymmetrik/ngx-leaflet';
 
 import { AppComponent } from './app.component';
 import { AlarmInfoComponent } from './alarm-info/alarm-info.component';
@@ -23,7 +24,8 @@ import { environment } from '../environments/environment.prod';
     AgmCoreModule.forRoot({
       apiKey: environment.googleMapsKey
     }),
-    AgmDirectionModule
+    AgmDirectionModule,
+    LeafletModule.forRoot()
   ],
   providers: [],
   bootstrap: [AppComponent]
