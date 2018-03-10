@@ -5,6 +5,7 @@ environment.ts
 
 # compiled output
 /dist
+/dist-server
 /tmp
 /out-tsc
 
@@ -33,6 +34,7 @@ environment.ts
 /coverage
 /libpeerconnection.log
 npm-debug.log
+yarn-error.log
 testem.log
 /typings
 

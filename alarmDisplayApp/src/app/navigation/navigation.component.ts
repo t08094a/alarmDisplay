@@ -2,6 +2,7 @@ import { Component, NgZone, NgModule, OnInit } from '@angular/core';
 import { GoogleMapsAPIWrapper,  LatLngLiteral,   MouseEvent,   MapsAPILoader} from '@agm/core';
 import { } from 'googlemaps';
 import { GMapsService } from './gmaps-service.service';
+// import {} from 'agm-direction';
 
 @Component({
   selector: 'app-navigation',
@@ -9,7 +10,6 @@ import { GMapsService } from './gmaps-service.service';
   styleUrls: ['./navigation.component.css'],
   providers: [ GMapsService ]
 })
-
 export class NavigationComponent implements OnInit {
 
   public title = 'Einsatz Navigation';
@@ -41,7 +41,7 @@ export class NavigationComponent implements OnInit {
             this.__zone.run(() => {
                 const destinationLatLng = {lat: result.lat(), lng: result.lng()};
 
-                console.log('LatLng for ', this.address, ': ', destinationLatLng);
+                console.log(`LatLng for ${this.address}: ${destinationLatLng}`);
 
                 this.dir = {
                     origin: this.origin,
