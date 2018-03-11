@@ -1,7 +1,7 @@
 import { MarkerCreatorService } from './services/marker-creator.service';
 import { Component, OnInit } from '@angular/core';
 // tslint:disable-next-line:max-line-length
-import { icon, latLng, Map, marker, point, polyline, tileLayer, TileLayer, LeafletEvent, LeafletMouseEvent, Popup, Layer, Marker, LayerGroup } from 'leaflet';
+import { icon, latLng, Map, marker, point, polyline, tileLayer, TileLayer, LeafletEvent, LeafletMouseEvent, Popup, Layer, Marker, LayerGroup, circle } from 'leaflet';
 import { OverpassService } from './services/overpass.service';
 
 @Component({
@@ -34,18 +34,23 @@ export class HydrantplanComponent implements OnInit {
     })
   });
 
+  private radiusCircle = circle(this.ziel.getLatLng(), {
+      radius: 100
+    });
+
   layersControl = {
     baseLayers: {
       'Google Maps': this.googleMaps,
       'OpenStreetMap': this.openStreetMap
     },
     overlays: {
-      'Ziel': this.ziel
+      'Ziel': this.ziel,
+      'Einsatzradius': this.radiusCircle
     }
   };
 
   options = {
-    layers: [this.openStreetMap],
+    layers: [this.openStreetMap, this.ziel, this.radiusCircle],
     zoom: 15,
     center: latLng([49.526558948981595, 10.483931601047516])
   };
@@ -61,8 +66,9 @@ export class HydrantplanComponent implements OnInit {
     public onMapReady(map: Map): void {
     this.map = map;
 
-    map.panTo(this.ziel.getLatLng());
-    map.setZoom(17);
+    map.setView(this.ziel.getLatLng(), 17);
+
+    this.radiusCircle.setLatLng(this.ziel.getLatLng());
 
     this.markerCreator.mapToHydrantMarker(this.overpassService.getHydrantMarkers(map.getBounds()))
         .then(m => {
