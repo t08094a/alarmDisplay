@@ -13,29 +13,19 @@ export class HydrantplanComponent implements OnInit {
 
   public title = 'Hydrantenplan';
 
-  googleMaps: TileLayer = tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
+  private googleMaps: TileLayer = tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
     maxZoom: 20,
     subdomains: ['mt0', 'mt1', 'mt2', 'mt3'],
     detectRetina: true
   });
 
-  openStreetMap: TileLayer = tileLayer('https://{s}.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png', {
+  private openStreetMap: TileLayer = tileLayer('https://{s}.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png', {
     attribution: '',
     detectRetina: true,
     maxZoom: 18
   });
 
-  ziel: Marker = marker([49.527352, 10.487624], {
-    icon: icon({
-      iconSize: [25, 41],
-      iconAnchor: [13, 41],
-      iconUrl: '../../assets/red-marker-icon.png',
-      // iconUrl: 'leaflet/marker-icon.png',
-      shadowUrl: 'leaflet/marker-shadow.png'
-    })
-  });
-
-  start: Marker = marker([49.526558948981595, 10.483931601047516], {
+  private ziel: Marker = marker([49.527352, 10.487624], {
     icon: icon({
       iconSize: [25, 41],
       iconAnchor: [13, 41],
@@ -44,25 +34,18 @@ export class HydrantplanComponent implements OnInit {
     })
   });
 
-  route = polyline([
-    [49.526558948981595, 10.483931601047516],
-    [49.527352, 10.487624]
-  ]);
-
   layersControl = {
     baseLayers: {
       'Google Maps': this.googleMaps,
       'OpenStreetMap': this.openStreetMap
     },
     overlays: {
-      'Ziel': this.ziel,
-      'Start': this.start,
-      'Route': this.route
+      'Ziel': this.ziel
     }
   };
 
   options = {
-    layers: [this.openStreetMap, this.route, this.ziel, this.start],
+    layers: [this.openStreetMap],
     zoom: 15,
     center: latLng([49.526558948981595, 10.483931601047516])
   };
@@ -78,15 +61,10 @@ export class HydrantplanComponent implements OnInit {
     public onMapReady(map: Map): void {
     this.map = map;
 
-    const bounds = this.route.getBounds();
+    map.panTo(this.ziel.getLatLng());
+    map.setZoom(17);
 
-    map.fitBounds(bounds, {
-      padding: point(24, 24),
-      maxZoom: 17,
-      animate: true
-    });
-
-    this.markerCreator.mapToHydrantMarker(this.overpassService.getHydrantMarkers(bounds))
+    this.markerCreator.mapToHydrantMarker(this.overpassService.getHydrantMarkers(map.getBounds()))
         .then(m => {
           const group = new LayerGroup(m);
           console.log(this.layersControl.overlays);
