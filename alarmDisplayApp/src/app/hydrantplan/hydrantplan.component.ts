@@ -1,7 +1,7 @@
 import { MarkerCreatorService } from './services/marker-creator.service';
 import { Component, OnInit } from '@angular/core';
 // tslint:disable-next-line:max-line-length
-import { icon, latLng, Map, marker, point, polyline, tileLayer, TileLayer, LeafletEvent, LeafletMouseEvent, Popup, Layer, Marker, LayerGroup, circle } from 'leaflet';
+import { icon, latLng, Map, marker, point, polyline, tileLayer, TileLayer, LeafletEvent, LeafletMouseEvent, Popup, Layer, Marker, LayerGroup, circle, layerGroup, MapOptions } from 'leaflet';
 import { OverpassService } from './services/overpass.service';
 
 @Component({
@@ -12,6 +12,8 @@ import { OverpassService } from './services/overpass.service';
 export class HydrantplanComponent implements OnInit {
 
   public title = 'Hydrantenplan';
+
+  private zoomLevel = 17;
 
   private googleMaps: TileLayer = tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
     maxZoom: 20,
@@ -49,10 +51,11 @@ export class HydrantplanComponent implements OnInit {
     }
   };
 
-  options = {
+  options: MapOptions = {
     layers: [this.openStreetMap, this.ziel, this.radiusCircle],
     zoom: 15,
-    center: latLng([49.526558948981595, 10.483931601047516])
+    center: latLng([49.526558948981595, 10.483931601047516]),
+    zoomControl: null
   };
 
   private map: Map;
@@ -66,7 +69,7 @@ export class HydrantplanComponent implements OnInit {
     public onMapReady(map: Map): void {
     this.map = map;
 
-    map.setView(this.ziel.getLatLng(), 17);
+    map.setView(this.ziel.getLatLng(), this.zoomLevel);
 
     this.radiusCircle.setLatLng(this.ziel.getLatLng());
 
@@ -75,6 +78,7 @@ export class HydrantplanComponent implements OnInit {
           const group = new LayerGroup(m);
           console.log(this.layersControl.overlays);
           map.addLayer(group);
+        //   this.layersControl.overlays.
         })
         .catch(error => console.log(error));
 
