@@ -1,8 +1,8 @@
-import { MarkerCreatorService } from './services/marker-creator.service';
 import { Component, OnInit } from '@angular/core';
 // tslint:disable-next-line:max-line-length
 import { icon, latLng, Map, marker, point, polyline, tileLayer, TileLayer, LeafletEvent, LeafletMouseEvent, Popup, Layer, Marker, LayerGroup, circle, layerGroup, MapOptions } from 'leaflet';
 import { OverpassService } from './services/overpass.service';
+import { MarkerCreatorService } from './services/marker-creator.service';
 
 @Component({
   selector: 'app-hydrantplan',
@@ -76,9 +76,8 @@ export class HydrantplanComponent implements OnInit {
     this.markerCreator.mapToHydrantMarker(this.overpassService.getHydrantMarkers(map.getBounds()))
         .then(m => {
           const group = new LayerGroup(m);
-          console.log(this.layersControl.overlays);
           map.addLayer(group);
-        //   this.layersControl.overlays.
+          this.layersControl.overlays['Hydranten'] = group;
         })
         .catch(error => console.log(error));
 
