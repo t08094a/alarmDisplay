@@ -6,13 +6,14 @@ import { AgmDirectionModule } from 'agm-direction';
 import { LeafletModule } from '@asymmetrik/ngx-leaflet';
 
 import { AppComponent } from './app.component';
-import { AlarmInfoComponent } from './alarm-info/alarm-info.component';
-import { HydrantplanComponent } from './hydrantplan/hydrantplan.component';
+import { AlarmInfoComponent } from './latest-alarm-view/alarm-info/alarm-info.component';
+import { HydrantplanComponent } from './latest-alarm-view/hydrantplan/hydrantplan.component';
 import { CommonInfoComponent } from './common-info/common-info.component';
-import { NavigationComponent } from './navigation/navigation.component';
-import { OverpassService } from './hydrantplan/services/overpass.service';
-import { MarkerCreatorService } from './hydrantplan/services/marker-creator.service';
+import { NavigationComponent } from './latest-alarm-view/navigation/navigation.component';
+import { OverpassService } from './latest-alarm-view/hydrantplan/services/overpass.service';
+import { MarkerCreatorService } from './latest-alarm-view/hydrantplan/services/marker-creator.service';
 import { environment } from '../environments/environment.prod';
+import { LatestAlarmViewComponent } from './latest-alarm-view/latest-alarm-view.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { environment } from '../environments/environment.prod';
     AlarmInfoComponent,
     HydrantplanComponent,
     CommonInfoComponent,
-    NavigationComponent
+    NavigationComponent,
+    LatestAlarmViewComponent
   ],
   imports: [
     BrowserModule,
