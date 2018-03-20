@@ -14,6 +14,8 @@ import { OverpassService } from './latest-alarm-view/hydrantplan/services/overpa
 import { MarkerCreatorService } from './latest-alarm-view/hydrantplan/services/marker-creator.service';
 import { environment } from '../environments/environment.prod';
 import { LatestAlarmViewComponent } from './latest-alarm-view/latest-alarm-view.component';
+import { InfoViewComponent } from './common-info/info-view/info-view.component';
+import { TermineViewComponent } from './common-info/termine-view/termine-view.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +24,9 @@ import { LatestAlarmViewComponent } from './latest-alarm-view/latest-alarm-view.
     HydrantplanComponent,
     CommonInfoComponent,
     NavigationComponent,
-    LatestAlarmViewComponent
+    LatestAlarmViewComponent,
+    InfoViewComponent,
+    TermineViewComponent
   ],
   imports: [
     BrowserModule,
