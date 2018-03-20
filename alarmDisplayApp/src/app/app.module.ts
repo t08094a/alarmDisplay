@@ -16,6 +16,7 @@ import { environment } from '../environments/environment.prod';
 import { LatestAlarmViewComponent } from './latest-alarm-view/latest-alarm-view.component';
 import { InfoViewComponent } from './common-info/info-view/info-view.component';
 import { TermineViewComponent } from './common-info/termine-view/termine-view.component';
+import { EventService } from './common-info/termine-view/event-service';
 
 @NgModule({
   declarations: [
@@ -39,7 +40,8 @@ import { TermineViewComponent } from './common-info/termine-view/termine-view.co
   ],
   providers: [
     OverpassService,
-    MarkerCreatorService
+    MarkerCreatorService,
+    EventService
   ],
   bootstrap: [AppComponent]
 })

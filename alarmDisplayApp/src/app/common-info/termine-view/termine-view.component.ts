@@ -1,3 +1,5 @@
+import { EventItem } from './event-item';
+import { EventService } from './event-service';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
@@ -7,30 +9,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class TermineViewComponent implements OnInit {
 
-    public events: Event[];
+    public events: EventItem[];
 
-    constructor() {}
+    constructor(private eventService: EventService) {
+    }
 
     ngOnInit() {
-        this.events = [
-            {
-                title: '1. Termin',
-                description: 'Inhalt...',
-                date: new Date(2018, 4, 16, 09, 0),
-                location: 'Feuerwehr Ipsheim'
-            },
-            {
-                title: '2. Termin',
-                description: 'Inhalt...',
-                date: new Date(2018, 5, 4, 09, 0)
-            }
-        ];
+        this.eventService.getEvents().then(evts => this.events = evts);
     }
-}
-
-export interface Event {
-    title: string;
-    description?: string;
-    date: Date;
-    location?: string;
 }

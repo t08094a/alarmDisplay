@@ -1,3 +1,9 @@
-<p>
-  termine-view works!
-</p>
+<h1>Terminübersicht</h1>
+
+<div class="termine">
+    <div class="termin" *ngFor="let event of events" >
+        <p class="eventTitle">{{ event.date | date: 'dd.MM.yyyy' }} {{ event.title }}</p>
+        <p *ngIf="event.location" >{{ event.location }}</p>
+        <p *ngIf="event.description">{{ event.description }}</p>
+    </div>
+</div>
