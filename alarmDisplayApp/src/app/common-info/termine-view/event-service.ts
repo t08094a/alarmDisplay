@@ -6,7 +6,7 @@ import { Injectable } from '@angular/core';
 export class EventService {
     constructor(private http: HttpClient) {}
 
-    public getEvents(): Promise<EventItem[]> {
+    public getEvents(startDate: Date, count: number): Promise<EventItem[]> {
         const events: EventItem[] = [
             {
                 title: '1. Termin',

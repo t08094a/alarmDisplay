@@ -15,6 +15,7 @@ export class TermineViewComponent implements OnInit {
     }
 
     ngOnInit() {
-        this.eventService.getEvents().then(evts => this.events = evts);
+        const startDate = new Date();
+        this.eventService.getEvents(startDate, 5).then(evts => this.events = evts);
     }
 }
