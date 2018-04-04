@@ -1,3 +1,23 @@
-<p>
-  alarm-info works!
-</p>
+<h1>Einsatzinfo</h1>
+
+<div *ngIf="alarmInfo">
+    <div *ngIf="alarmInfo.Alarmzeit">
+        Alarmzeit: {{alarmInfo.Alarmzeit | date: 'HH:mm'}} Uhr
+    </div>
+
+    <div *ngIf="alarmInfo.Einsatzort">
+        Einsatzort: {{alarmInfo.Einsatzort}}
+    </div>
+
+    <div *ngIf="alarmInfo.Schlagwort">
+        Schlagwort: {{alarmInfo.Schlagwort}}
+    </div>
+
+    <div *ngIf="alarmInfo.Prioritaet">
+        Priorität: {{alarmInfo.Prioritaet}}
+    </div>
+
+    <div *ngIf="alarmInfo.Bemerkung">
+        Bemerkung: {{alarmInfo.Bemerkung}}
+    </div>
+</div>
