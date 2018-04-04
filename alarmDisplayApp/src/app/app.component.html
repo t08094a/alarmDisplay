@@ -1,10 +1,17 @@
 <!--The content below is only a placeholder and can be replaced.-->
-<div style="text-align:center">
-  <h1>{{ title }}</h1>
+<div mat-app-background>
+    <mat-tab-group class="tab-group">
+        <mat-tab label="Alarm">
+            <div class="tab-content">
+                <app-latest-alarm-view></app-latest-alarm-view>
+            </div>
+        </mat-tab>
+        <mat-tab label="Allgemeine Infos">
+            <div class="tab-content">
+                <app-common-info></app-common-info>
+            </div>
+        </mat-tab>
+    </mat-tab-group>
 </div>
-
-<app-latest-alarm-view></app-latest-alarm-view>
-
-<app-common-info></app-common-info>
 
 <span class="version-info">Current build: {{ appVersion }}</span>

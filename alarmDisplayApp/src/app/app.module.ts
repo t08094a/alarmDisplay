@@ -1,9 +1,11 @@
 import { HttpClientModule } from '@angular/common/http';
 import { BrowserModule } from '@angular/platform-browser';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { NgModule } from '@angular/core';
 import { AgmCoreModule } from '@agm/core';
 import { AgmDirectionModule } from 'agm-direction';
 import { LeafletModule } from '@asymmetrik/ngx-leaflet';
+import { MatTabsModule } from '@angular/material';
 
 import { AppComponent } from './app.component';
 import { AlarmInfoComponent } from './latest-alarm-view/alarm-info/alarm-info.component';
@@ -19,30 +21,28 @@ import { TermineViewComponent } from './common-info/termine-view/termine-view.co
 import { EventService } from './common-info/termine-view/services/event-service';
 
 @NgModule({
-  declarations: [
-    AppComponent,
-    AlarmInfoComponent,
-    HydrantplanComponent,
-    CommonInfoComponent,
-    NavigationComponent,
-    LatestAlarmViewComponent,
-    InfoViewComponent,
-    TermineViewComponent
-  ],
-  imports: [
-    BrowserModule,
-    HttpClientModule,
-    AgmCoreModule.forRoot({
-      apiKey: environment.googleMapsKey
-    }),
-    AgmDirectionModule,
-    LeafletModule.forRoot()
-  ],
-  providers: [
-    OverpassService,
-    MarkerCreatorService,
-    EventService
-  ],
-  bootstrap: [AppComponent]
+    declarations: [
+        AppComponent,
+        AlarmInfoComponent,
+        HydrantplanComponent,
+        CommonInfoComponent,
+        NavigationComponent,
+        LatestAlarmViewComponent,
+        InfoViewComponent,
+        TermineViewComponent
+    ],
+    imports: [
+        BrowserModule,
+        HttpClientModule,
+        AgmCoreModule.forRoot({
+            apiKey: environment.googleMapsKey
+        }),
+        AgmDirectionModule,
+        LeafletModule.forRoot(),
+        BrowserAnimationsModule,
+        MatTabsModule
+    ],
+    providers: [OverpassService, MarkerCreatorService, EventService],
+    bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {}
