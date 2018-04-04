@@ -1,5 +1,5 @@
-import { environment } from './../../../environments/environment';
-import { EventItem } from './event-item';
+import { environment } from './../../../../environments/environment';
+import { EventItem } from './../event-item';
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs/Observable';

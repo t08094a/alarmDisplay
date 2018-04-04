@@ -16,7 +16,7 @@ import { environment } from '../environments/environment.prod';
 import { LatestAlarmViewComponent } from './latest-alarm-view/latest-alarm-view.component';
 import { InfoViewComponent } from './common-info/info-view/info-view.component';
 import { TermineViewComponent } from './common-info/termine-view/termine-view.component';
-import { EventService } from './common-info/termine-view/event-service';
+import { EventService } from './common-info/termine-view/services/event-service';
 
 @NgModule({
   declarations: [
