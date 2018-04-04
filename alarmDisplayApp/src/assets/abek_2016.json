@@ -6,3200 +6,3200 @@
   "data": [
     {
       "nr": 1,
-      "kategorie": "Brandgeruch",
-      "schlagwort": "im Freien",
+      "schlagwort": "Brandgeruch",
+      "kategorie": "im Freien",
       "stichwort": "B 1",
       "anmerkung": "",
       "material": "1 Trupp; "
     },
     {
       "nr": 2,
-      "kategorie": "Rauchentwicklung",
-      "schlagwort": "im Freien",
+      "schlagwort": "Rauchentwicklung",
+      "kategorie": "im Freien",
       "stichwort": "B 1",
       "anmerkung": "",
       "material": "1 Trupp; "
     },
     {
       "nr": 3,
-      "kategorie": "Freifläche klein (< 100 m²)",
-      "schlagwort": "im Freien",
+      "schlagwort": "Freifläche klein (< 100 m²)",
+      "kategorie": "im Freien",
       "stichwort": "B 1",
       "anmerkung": "",
       "material": "1 Trupp; "
     },
     {
       "nr": 4,
-      "kategorie": "Abfall-, Müll-, Papiercontainer",
-      "schlagwort": "im Freien",
+      "schlagwort": "Abfall-, Müll-, Papiercontainer",
+      "kategorie": "im Freien",
       "stichwort": "B 1",
       "anmerkung": "",
       "material": "1 Trupp; "
     },
     {
       "nr": 5,
-      "kategorie": "Kleinbrand",
-      "schlagwort": "im Freien",
+      "schlagwort": "Kleinbrand",
+      "kategorie": "im Freien",
       "stichwort": "B 1",
       "anmerkung": "",
       "material": "1 Trupp; "
     },
     {
       "nr": 6,
-      "kategorie": "Nachschau",
-      "schlagwort": "im Gebäude",
+      "schlagwort": "Nachschau",
+      "kategorie": "im Gebäude",
       "stichwort": "B 1",
       "anmerkung": "",
       "material": "1 Trupp; "
     },
     {
       "nr": 7,
-      "kategorie": "Motorrad",
-      "schlagwort": "Verkehr",
+      "schlagwort": "Motorrad",
+      "kategorie": "Verkehr",
       "stichwort": "B 1",
       "anmerkung": "",
       "material": "1 Trupp; "
     },
     {
       "nr": 8,
-      "kategorie": "Wald, klein (< 1000 m²)",
-      "schlagwort": "im Freien",
+      "schlagwort": "Wald, klein (< 1000 m²)",
+      "kategorie": "im Freien",
       "stichwort": "B 2",
       "anmerkung": "",
       "material": "1 Staffel; 1000 l Löschwasser,4 PA"
     },
     {
       "nr": 9,
-      "kategorie": "Freifläche groß (> 100 m²)",
-      "schlagwort": "im Freien",
+      "schlagwort": "Freifläche groß (> 100 m²)",
+      "kategorie": "im Freien",
       "stichwort": "B 2",
       "anmerkung": "",
       "material": "1 Staffel; 1000 l Löschwasser,4 PA"
     },
     {
       "nr": 10,
-      "kategorie": "Bahndamm",
-      "schlagwort": "im Freien",
+      "schlagwort": "Bahndamm",
+      "kategorie": "im Freien",
       "stichwort": "B 2",
       "anmerkung": "",
       "material": "1 Staffel; 1000 l Löschwasser,4 PA"
     },
     {
       "nr": 11,
-      "kategorie": "Bau-, Wohncontainer",
-      "schlagwort": "im Freien",
+      "schlagwort": "Bau-, Wohncontainer",
+      "kategorie": "im Freien",
       "stichwort": "B 2",
       "anmerkung": "",
       "material": "1 Staffel; 1000 l Löschwasser,4 PA"
     },
     {
       "nr": 12,
-      "kategorie": "Gartenhütte, Schuppen",
-      "schlagwort": "im Freien",
+      "schlagwort": "Gartenhütte, Schuppen",
+      "kategorie": "im Freien",
       "stichwort": "B 2",
       "anmerkung": "",
       "material": "1 Staffel; 1000 l Löschwasser,4 PA"
     },
     {
       "nr": 13,
-      "kategorie": "Kamin",
-      "schlagwort": "im Gebäude",
+      "schlagwort": "Kamin",
+      "kategorie": "im Gebäude",
       "stichwort": "B 2",
       "anmerkung": "",
       "material": "1 Staffel; 1000 l Löschwasser,4 PA"
     },
     {
       "nr": 14,
-      "kategorie": "überhitzter Ofen / Ölofen",
-      "schlagwort": "im Gebäude",
+      "schlagwort": "überhitzter Ofen / Ölofen",
+      "kategorie": "im Gebäude",
       "stichwort": "B 2",
       "anmerkung": "",
       "material": "1 Staffel; 1000 l Löschwasser,4 PA"
     },
     {
       "nr": 15,
-      "kategorie": "PKW",
-      "schlagwort": "Verkehr",
+      "schlagwort": "PKW",
+      "kategorie": "Verkehr",
       "stichwort": "B 2",
       "anmerkung": "",
       "material": "1 Staffel; 1000 l Löschwasser,4 PA"
     },
     {
       "nr": 16,
-      "kategorie": "PKW auf BAB",
-      "schlagwort": "Verkehr",
+      "schlagwort": "PKW auf BAB",
+      "kategorie": "Verkehr",
       "stichwort": "B 2",
       "anmerkung": "",
       "material": "1 Staffel; 1000 l Löschwasser,4 PA"
     },
     {
       "nr": 17,
-      "kategorie": "LKW / Bus innerorts",
-      "schlagwort": "Verkehr",
+      "schlagwort": "LKW / Bus innerorts",
+      "kategorie": "Verkehr",
       "stichwort": "B 2",
       "anmerkung": "",
       "material": "1 Staffel; 1000 l Löschwasser,4 PA"
     },
     {
       "nr": 18,
-      "kategorie": "auf B 2",
-      "schlagwort": "Alarmstufenerhöhung",
+      "schlagwort": "auf B 2",
+      "kategorie": "Alarmstufenerhöhung",
       "stichwort": "B 2",
       "anmerkung": "",
       "material": "1 Staffel; 1000 l Löschwasser,4 PA"
     },
     {
       "nr": 19,
-      "kategorie": "Bau-, Wohncontainer (Person in Gefahr)",
-      "schlagwort": "im Freien",
+      "schlagwort": "Bau-, Wohncontainer (Person in Gefahr)",
+      "kategorie": "im Freien",
       "stichwort": "B 2 PERSON",
       "anmerkung": "",
       "material": "1 Gruppe; 1000 l Löschwasser,4 PA"
     },
     {
       "nr": 20,
-      "kategorie": "Gartenhütte / Schuppen (Person in Gefahr)",
-      "schlagwort": "im Freien",
+      "schlagwort": "Gartenhütte / Schuppen (Person in Gefahr)",
+      "kategorie": "im Freien",
       "stichwort": "B 2 PERSON",
       "anmerkung": "",
       "material": "1 Gruppe; 1000 l Löschwasser,4 PA"
     },
     {
       "nr": 21,
-      "kategorie": "Person",
-      "schlagwort": "im Freien",
+      "schlagwort": "Person",
+      "kategorie": "im Freien",
       "stichwort": "B 2 PERSON",
       "anmerkung": "",
       "material": "1 Gruppe; 1000 l Löschwasser,4 PA"
     },
     {
       "nr": 22,
-      "kategorie": "PKW (Person in Gefahr)",
-      "schlagwort": "Verkehr",
+      "schlagwort": "PKW (Person in Gefahr)",
+      "kategorie": "Verkehr",
       "stichwort": "B 2 PERSON",
       "anmerkung": "",
       "material": "1 Gruppe; 1000 l Löschwasser,4 PA"
     },
     {
       "nr": 23,
-      "kategorie": "PKW auf BAB (Person in Gefahr)",
-      "schlagwort": "Verkehr",
+      "schlagwort": "PKW auf BAB (Person in Gefahr)",
+      "kategorie": "Verkehr",
       "stichwort": "B 2 PERSON",
       "anmerkung": "",
       "material": "1 Gruppe; 1000 l Löschwasser,4 PA"
     },
     {
       "nr": 24,
-      "kategorie": "auf B 2 Person",
-      "schlagwort": "Alarmstufenerhöhung",
+      "schlagwort": "auf B 2 Person",
+      "kategorie": "Alarmstufenerhöhung",
       "stichwort": "B 2 PERSON",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 25,
-      "kategorie": "am Gebäude",
-      "schlagwort": "im Freien",
+      "schlagwort": "am Gebäude",
+      "kategorie": "im Freien",
       "stichwort": "B 3",
       "anmerkung": "",
       "material": "2 Staffeln; 1600 l Löschwasser,6 PA"
     },
     {
       "nr": 26,
-      "kategorie": "Brandgeruch",
-      "schlagwort": "im Gebäude",
+      "schlagwort": "Brandgeruch",
+      "kategorie": "im Gebäude",
       "stichwort": "B 3",
       "anmerkung": "",
       "material": "2 Staffeln; 1600 l Löschwasser,6 PA"
     },
     {
       "nr": 27,
-      "kategorie": "Dachstuhl",
-      "schlagwort": "im Gebäude",
+      "schlagwort": "Dachstuhl",
+      "kategorie": "im Gebäude",
       "stichwort": "B 3",
       "anmerkung": "",
       "material": "2 Staffeln; 1600 l Löschwasser,6 PA"
     },
     {
       "nr": 28,
-      "kategorie": "Dehnfuge",
-      "schlagwort": "im Gebäude",
+      "schlagwort": "Dehnfuge",
+      "kategorie": "im Gebäude",
       "stichwort": "B 3",
       "anmerkung": "",
       "material": "2 Staffeln; 1600 l Löschwasser,6 PA"
     },
     {
       "nr": 29,
-      "kategorie": "Garage",
-      "schlagwort": "im Gebäude",
+      "schlagwort": "Garage",
+      "kategorie": "im Gebäude",
       "stichwort": "B 3",
       "anmerkung": "",
       "material": "2 Staffeln; 1600 l Löschwasser,6 PA"
     },
     {
       "nr": 30,
-      "kategorie": "Keller",
-      "schlagwort": "im Gebäude",
+      "schlagwort": "Keller",
+      "kategorie": "im Gebäude",
       "stichwort": "B 3",
       "anmerkung": "",
       "material": "2 Staffeln; 1600 l Löschwasser,6 PA"
     },
     {
       "nr": 31,
-      "kategorie": "Rauchentwicklung",
-      "schlagwort": "im Gebäude",
+      "schlagwort": "Rauchentwicklung",
+      "kategorie": "im Gebäude",
       "stichwort": "B 3",
       "anmerkung": "",
       "material": "2 Staffeln; 1600 l Löschwasser,6 PA"
     },
     {
       "nr": 32,
-      "kategorie": "Zimmer",
-      "schlagwort": "im Gebäude",
+      "schlagwort": "Zimmer",
+      "kategorie": "im Gebäude",
       "stichwort": "B 3",
       "anmerkung": "",
       "material": "2 Staffeln; 1600 l Löschwasser,6 PA"
     },
     {
       "nr": 33,
-      "kategorie": "Berghütte",
-      "schlagwort": "im Gebäude",
+      "schlagwort": "Berghütte",
+      "kategorie": "im Gebäude",
       "stichwort": "B 3",
       "anmerkung": "",
       "material": "2 Staffeln; 1600 l Löschwasser,6 PA"
     },
     {
       "nr": 34,
-      "kategorie": "Fahrzeug / Maschine",
-      "schlagwort": "Landwirtschaft",
+      "schlagwort": "Fahrzeug / Maschine",
+      "kategorie": "Landwirtschaft",
       "stichwort": "B 3",
       "anmerkung": "",
       "material": "2 Staffeln; 1600 l Löschwasser,6 PA"
     },
     {
       "nr": 35,
-      "kategorie": "LKW / Bus außerorts",
-      "schlagwort": "Verkehr",
+      "schlagwort": "LKW / Bus außerorts",
+      "kategorie": "Verkehr",
       "stichwort": "B 3",
       "anmerkung": "",
       "material": "2 Staffeln; 1600 l Löschwasser,6 PA"
     },
     {
       "nr": 36,
-      "kategorie": "LKW / Bus auf BAB",
-      "schlagwort": "Verkehr",
+      "schlagwort": "LKW / Bus auf BAB",
+      "kategorie": "Verkehr",
       "stichwort": "B 3",
       "anmerkung": "",
       "material": "2 Staffeln; 1600 l Löschwasser,6 PA"
     },
     {
       "nr": 37,
-      "kategorie": "auf B 3",
-      "schlagwort": "Alarmstufenerhöhung",
+      "schlagwort": "auf B 3",
+      "kategorie": "Alarmstufenerhöhung",
       "stichwort": "B 3",
       "anmerkung": "",
       "material": "2 Staffeln; 1600 l Löschwasser,6 PA"
     },
     {
       "nr": 38,
-      "kategorie": "überhitzter Heustock",
-      "schlagwort": "im Gebäude",
+      "schlagwort": "überhitzter Heustock",
+      "kategorie": "im Gebäude",
       "stichwort": "B 3",
       "anmerkung": "",
       "material": "2 Staffeln; 1600 l Löschwasser,6 PA"
     },
     {
       "nr": 39,
-      "kategorie": "Dachstuhl (Person in Gefahr)",
-      "schlagwort": "im Gebäude",
+      "schlagwort": "Dachstuhl (Person in Gefahr)",
+      "kategorie": "im Gebäude",
       "stichwort": "B 3 PERSON",
       "anmerkung": "",
       "material": "2 Gruppen; 1600 l Löschwasser,8 PA, 1 Wärmebildkamera"
     },
     {
       "nr": 40,
-      "kategorie": "Garage (Person in Gefahr)",
-      "schlagwort": "im Gebäude",
+      "schlagwort": "Garage (Person in Gefahr)",
+      "kategorie": "im Gebäude",
       "stichwort": "B 3 PERSON",
       "anmerkung": "",
       "material": "2 Gruppen; 1600 l Löschwasser,8 PA, 1 Wärmebildkamera"
     },
     {
       "nr": 41,
-      "kategorie": "Keller (Person in Gefahr)",
-      "schlagwort": "im Gebäude",
+      "schlagwort": "Keller (Person in Gefahr)",
+      "kategorie": "im Gebäude",
       "stichwort": "B 3 PERSON",
       "anmerkung": "",
       "material": "2 Gruppen; 1600 l Löschwasser,8 PA, 1 Wärmebildkamera"
     },
     {
       "nr": 42,
-      "kategorie": "Rauchentwicklung (Person in Gefahr)",
-      "schlagwort": "im Gebäude",
+      "schlagwort": "Rauchentwicklung (Person in Gefahr)",
+      "kategorie": "im Gebäude",
       "stichwort": "B 3 PERSON",
       "anmerkung": "",
       "material": "2 Gruppen; 1600 l Löschwasser,8 PA, 1 Wärmebildkamera"
     },
     {
       "nr": 43,
-      "kategorie": "Zimmer (Person in Gefahr)",
-      "schlagwort": "im Gebäude",
+      "schlagwort": "Zimmer (Person in Gefahr)",
+      "kategorie": "im Gebäude",
       "stichwort": "B 3 PERSON",
       "anmerkung": "",
       "material": "2 Gruppen; 1600 l Löschwasser,8 PA, 1 Wärmebildkamera"
     },
     {
       "nr": 44,
-      "kategorie": "LKW (Person in Gefahr)",
-      "schlagwort": "Verkehr",
+      "schlagwort": "LKW (Person in Gefahr)",
+      "kategorie": "Verkehr",
       "stichwort": "B 3 PERSON",
       "anmerkung": "",
       "material": "2 Gruppen; 1600 l Löschwasser,8 PA, 1 Wärmebildkamera"
     },
     {
       "nr": 45,
-      "kategorie": "LKW auf BAB (Person in Gefahr)",
-      "schlagwort": "Verkehr",
+      "schlagwort": "LKW auf BAB (Person in Gefahr)",
+      "kategorie": "Verkehr",
       "stichwort": "B 3 PERSON",
       "anmerkung": "",
       "material": "2 Gruppen; 1600 l Löschwasser,8 PA, 1 Wärmebildkamera"
     },
     {
       "nr": 46,
-      "kategorie": "auf B 3 Person",
-      "schlagwort": "Alarmstufenerhöhung",
+      "schlagwort": "auf B 3 Person",
+      "kategorie": "Alarmstufenerhöhung",
       "stichwort": "B 3 PERSON",
       "anmerkung": "",
       "material": "2 Gruppen; 1600 l Löschwasser,8 PA, 1 Wärmebildkamera"
     },
     {
       "nr": 47,
-      "kategorie": "ausgedehnt / hoch bis 6. OG",
-      "schlagwort": "im Gebäude",
+      "schlagwort": "ausgedehnt / hoch bis 6. OG",
+      "kategorie": "im Gebäude",
       "stichwort": "B 4",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 48,
-      "kategorie": "Tiefgarage",
-      "schlagwort": "im Gebäude",
+      "schlagwort": "Tiefgarage",
+      "kategorie": "im Gebäude",
       "stichwort": "B 4",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 49,
-      "kategorie": "Wohnheim",
-      "schlagwort": "Gebäude hohe Personenzahl",
+      "schlagwort": "Wohnheim",
+      "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 4",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 50,
-      "kategorie": "Behinderteneinrichtung",
-      "schlagwort": "Gebäude hohe Personenzahl",
+      "schlagwort": "Behinderteneinrichtung",
+      "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 4",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 51,
-      "kategorie": "Hochhaus ab 7. OG",
-      "schlagwort": "Gebäude hohe Personenzahl",
+      "schlagwort": "Hochhaus ab 7. OG",
+      "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 4",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 52,
-      "kategorie": "Supermarkt",
-      "schlagwort": "Gebäude hohe Personenzahl",
+      "schlagwort": "Supermarkt",
+      "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 4",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 53,
-      "kategorie": "Kindergarten",
-      "schlagwort": "Gebäude hohe Personenzahl",
+      "schlagwort": "Kindergarten",
+      "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 4",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 54,
-      "kategorie": "Kino",
-      "schlagwort": "Gebäude hohe Personenzahl",
+      "schlagwort": "Kino",
+      "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 4",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 55,
-      "kategorie": "Kirche",
-      "schlagwort": "Gebäude hohe Personenzahl",
+      "schlagwort": "Kirche",
+      "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 4",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 56,
-      "kategorie": "Schule",
-      "schlagwort": "Gebäude hohe Personenzahl",
+      "schlagwort": "Schule",
+      "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 4",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 57,
-      "kategorie": "Theater",
-      "schlagwort": "Gebäude hohe Personenzahl",
+      "schlagwort": "Theater",
+      "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 4",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 58,
-      "kategorie": "Zirkus",
-      "schlagwort": "Gebäude hohe Personenzahl",
+      "schlagwort": "Zirkus",
+      "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 4",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 59,
-      "kategorie": "Hotel",
-      "schlagwort": "Gebäude hohe Personenzahl",
+      "schlagwort": "Hotel",
+      "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 4",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 60,
-      "kategorie": "Sägewerk / Schreinerei",
-      "schlagwort": "Gewerbe / Industrie",
+      "schlagwort": "Sägewerk / Schreinerei",
+      "kategorie": "Gewerbe / Industrie",
       "stichwort": "B 4",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 61,
-      "kategorie": "Lagerhalle",
-      "schlagwort": "Gewerbe / Industrie",
+      "schlagwort": "Lagerhalle",
+      "kategorie": "Gewerbe / Industrie",
       "stichwort": "B 4",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 62,
-      "kategorie": "Silo (kein Gefahrstoff)",
-      "schlagwort": "Gewerbe / Industrie",
+      "schlagwort": "Silo (kein Gefahrstoff)",
+      "kategorie": "Gewerbe / Industrie",
       "stichwort": "B 4",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 63,
-      "kategorie": "große Höhe - Turm",
-      "schlagwort": "Gewerbe / Industrie",
+      "schlagwort": "große Höhe - Turm",
+      "kategorie": "Gewerbe / Industrie",
       "stichwort": "B 4",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 64,
-      "kategorie": "große Höhe - Windrad",
-      "schlagwort": "Gewerbe / Industrie",
+      "schlagwort": "große Höhe - Windrad",
+      "kategorie": "Gewerbe / Industrie",
       "stichwort": "B 4",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 65,
-      "kategorie": "Industriegebäude",
-      "schlagwort": "Gewerbe / Industrie",
+      "schlagwort": "Industriegebäude",
+      "kategorie": "Gewerbe / Industrie",
       "stichwort": "B 4",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 66,
-      "kategorie": "Bauernhof",
-      "schlagwort": "Landwirtschaft",
+      "schlagwort": "Bauernhof",
+      "kategorie": "Landwirtschaft",
       "stichwort": "B 4",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 67,
-      "kategorie": "Stall / Scheune",
-      "schlagwort": "Landwirtschaft",
+      "schlagwort": "Stall / Scheune",
+      "kategorie": "Landwirtschaft",
       "stichwort": "B 4",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 68,
-      "kategorie": "Aussiedlerhof",
-      "schlagwort": "Landwirtschaft",
+      "schlagwort": "Aussiedlerhof",
+      "kategorie": "Landwirtschaft",
       "stichwort": "B 4",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 69,
-      "kategorie": "auf B 4",
-      "schlagwort": "Alarmstufenerhöhung",
+      "schlagwort": "auf B 4",
+      "kategorie": "Alarmstufenerhöhung",
       "stichwort": "B 4",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 70,
-      "kategorie": "Pflege-/Altenheim",
-      "schlagwort": "Gebäude hohe Personenzahl",
+      "schlagwort": "Pflege-/Altenheim",
+      "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 5",
       "anmerkung": "",
       "material": "6 Gruppen; 5000 l Löschwasser,16 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 71,
-      "kategorie": "Kaufhaus",
-      "schlagwort": "Gebäude hohe Personenzahl",
+      "schlagwort": "Kaufhaus",
+      "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 5",
       "anmerkung": "",
       "material": "6 Gruppen; 5000 l Löschwasser,16 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 72,
-      "kategorie": "Krankenhaus",
-      "schlagwort": "Gebäude hohe Personenzahl",
+      "schlagwort": "Krankenhaus",
+      "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 5",
       "anmerkung": "",
       "material": "6 Gruppen; 5000 l Löschwasser,16 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 73,
-      "kategorie": "auf B 5",
-      "schlagwort": "Alarmstufenerhöhung",
+      "schlagwort": "auf B 5",
+      "kategorie": "Alarmstufenerhöhung",
       "stichwort": "B 5",
       "anmerkung": "",
       "material": "6 Gruppen; 5000 l Löschwasser,16 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 74,
-      "kategorie": "auf B 6",
-      "schlagwort": "Alarmstufenerhöhung",
+      "schlagwort": "auf B 6",
+      "kategorie": "Alarmstufenerhöhung",
       "stichwort": "B 6",
       "anmerkung": "",
       "material": "8 Gruppen; 6000 l Löschwasser,20 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 75,
-      "kategorie": "auf B 7",
-      "schlagwort": "Alarmstufenerhöhung",
+      "schlagwort": "auf B 7",
+      "kategorie": "Alarmstufenerhöhung",
       "stichwort": "B 7",
       "anmerkung": "",
       "material": "10 Gruppen; 7000 l Löschwasser,24 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 76,
-      "kategorie": "auf B 8",
-      "schlagwort": "Alarmstufenerhöhung",
+      "schlagwort": "auf B 8",
+      "kategorie": "Alarmstufenerhöhung",
       "stichwort": "B 8",
       "anmerkung": "",
       "material": "12 Gruppen; 8000 l Löschwasser,28 PA, 1 Wärmebildkamera, DL, FW-EL,Fachberater THW"
     },
     {
       "nr": 77,
-      "kategorie": "Brandmeldeanlage",
-      "schlagwort": "Meldeanlage",
+      "schlagwort": "Brandmeldeanlage",
+      "kategorie": "Meldeanlage",
       "stichwort": "B BMA",
       "anmerkung": "",
       "material": "1 Staffel; 500 l Löschwasser,4 PA"
     },
     {
       "nr": 78,
-      "kategorie": "Rauchwarnmelder über Hausnotruf",
-      "schlagwort": "Meldeanlage",
+      "schlagwort": "Rauchwarnmelder über Hausnotruf",
+      "kategorie": "Meldeanlage",
       "stichwort": "B BMA",
       "anmerkung": "",
       "material": "1 Staffel; 500 l Löschwasser,4 PA"
     },
     {
       "nr": 79,
-      "kategorie": "Rauchwarnmelder",
-      "schlagwort": "Meldeanlage",
+      "schlagwort": "Rauchwarnmelder",
+      "kategorie": "Meldeanlage",
       "stichwort": "B BMA",
       "anmerkung": "",
       "material": "1 Staffel; 500 l Löschwasser,4 PA"
     },
     {
       "nr": 80,
-      "kategorie": "Boot / Yacht / Floß",
-      "schlagwort": "Verkehr",
+      "schlagwort": "Boot / Yacht / Floß",
+      "kategorie": "Verkehr",
       "stichwort": "B BOOT",
       "anmerkung": "",
       "material": "1 Gruppe; 4 PA, 1 Boot"
     },
     {
       "nr": 81,
-      "kategorie": "Elektroanlage / Trafo",
-      "schlagwort": "Gewerbe / Industrie",
+      "schlagwort": "Elektroanlage / Trafo",
+      "kategorie": "Gewerbe / Industrie",
       "stichwort": "B ELEKTROANLAGE",
       "anmerkung": "",
       "material": "2 Staffeln; 1600 l Löschwasser,6 PA"
     },
     {
       "nr": 82,
-      "kategorie": "Zug im Tunnel",
-      "schlagwort": "Verkehr",
+      "schlagwort": "Zug im Tunnel",
+      "kategorie": "Verkehr",
       "stichwort": "B SCHIENENTUNNEL",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, FW-EL,Fachberater THW"
     },
     {
       "nr": 83,
-      "kategorie": "S-Bahn im Tunnel",
-      "schlagwort": "Verkehr",
+      "schlagwort": "S-Bahn im Tunnel",
+      "kategorie": "Verkehr",
       "stichwort": "B SCHIENENTUNNEL",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, FW-EL,Fachberater THW"
     },
     {
       "nr": 84,
-      "kategorie": "U-Bahn im Tunnel",
-      "schlagwort": "Verkehr",
+      "schlagwort": "U-Bahn im Tunnel",
+      "kategorie": "Verkehr",
       "stichwort": "B SCHIENENTUNNEL",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, FW-EL,Fachberater THW"
     },
     {
       "nr": 85,
-      "kategorie": "Passagierschiff",
-      "schlagwort": "Verkehr",
+      "schlagwort": "Passagierschiff",
+      "kategorie": "Verkehr",
       "stichwort": "B SCHIFF",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Wärmebildkamera, 2 Boote, FWEL, Fachberater THW"
     },
     {
       "nr": 86,
-      "kategorie": "Frachtschiff",
-      "schlagwort": "Verkehr",
+      "schlagwort": "Frachtschiff",
+      "kategorie": "Verkehr",
       "stichwort": "B SCHIFF",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Wärmebildkamera, 2 Boote, FWEL, Fachberater THW"
     },
     {
       "nr": 87,
-      "kategorie": "Tunnel",
-      "schlagwort": "Verkehr",
+      "schlagwort": "Tunnel",
+      "kategorie": "Verkehr",
       "stichwort": "B STRAßENTUNNEL",
       "anmerkung": "",
       "material": "4 Gruppen; 3200 l Löschwasser,12 PA, 1 Wärmebildkamera, FW-EL,Fachberater THW"
     },
     {
       "nr": 88,
-      "kategorie": "Wald groß (> 1000 m²)",
-      "schlagwort": "im Freien",
+      "schlagwort": "Wald groß (> 1000 m²)",
+      "kategorie": "im Freien",
       "stichwort": "B WALD",
       "anmerkung": "",
       "material": "4 Gruppen; 6000 l Löschwasser,4 PA, Druckschlauch B (Transporteinheit500 m), FW-EL,Fachberater THW"
     },
     {
       "nr": 89,
-      "kategorie": "Bergwald",
-      "schlagwort": "im Freien",
+      "schlagwort": "Bergwald",
+      "kategorie": "im Freien",
       "stichwort": "B WALD",
       "anmerkung": "",
       "material": "4 Gruppen; 6000 l Löschwasser,4 PA, Druckschlauch B (Transporteinheit500 m), FW-EL,Fachberater THW"
     },
     {
       "nr": 90,
-      "kategorie": "Personenzug",
-      "schlagwort": "Verkehr",
+      "schlagwort": "Personenzug",
+      "kategorie": "Verkehr",
       "stichwort": "B ZUG",
       "anmerkung": "",
       "material": "3 Gruppen; 5000 l Löschwasser,8 PA, 1 Wärmebildkamera, FW-EL,Fachberater THW"
     },
     {
       "nr": 91,
-      "kategorie": "Güterzug",
-      "schlagwort": "Verkehr",
+      "schlagwort": "Güterzug",
+      "kategorie": "Verkehr",
       "stichwort": "B ZUG",
       "anmerkung": "",
       "material": "3 Gruppen; 5000 l Löschwasser,8 PA, 1 Wärmebildkamera, FW-EL,Fachberater THW"
     },
     {
       "nr": 92,
-      "kategorie": "Zug nur Lokomotive",
-      "schlagwort": "Verkehr",
+      "schlagwort": "Zug nur Lokomotive",
+      "kategorie": "Verkehr",
       "stichwort": "B ZUG",
       "anmerkung": "",
       "material": "3 Gruppen; 5000 l Löschwasser,8 PA, 1 Wärmebildkamera, FW-EL,Fachberater THW"
     },
     {
       "nr": 93,
-      "kategorie": "Straßenbahn",
-      "schlagwort": "Verkehr",
+      "schlagwort": "Straßenbahn",
+      "kategorie": "Verkehr",
       "stichwort": "B ZUG",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 94,
-      "kategorie": "U-Bahn im Freien",
-      "schlagwort": "Verkehr",
+      "schlagwort": "U-Bahn im Freien",
+      "kategorie": "Verkehr",
       "stichwort": "B ZUG",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 95,
-      "kategorie": "S-Bahn im Freien",
-      "schlagwort": "Verkehr",
+      "schlagwort": "S-Bahn im Freien",
+      "kategorie": "Verkehr",
       "stichwort": "B ZUG",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 1,
-      "kategorie": "Amoklage",
-      "schlagwort": "Bombe / Amok",
+      "schlagwort": "Amoklage",
+      "kategorie": "Bombe / Amok",
       "stichwort": "THL AMOK FW",
       "anmerkung": "",
       "material": "1 Trupp; FW-EL"
     },
     {
       "nr": 2,
-      "kategorie": "Einsatzstelle ausleuchten",
-      "schlagwort": "klein",
+      "schlagwort": "Einsatzstelle ausleuchten",
+      "kategorie": "klein",
       "stichwort": "THL BELEUCHTUNG",
       "anmerkung": "",
       "material": "1 Trupp; Beleuchtungssatz"
     },
     {
       "nr": 3,
-      "kategorie": "Bombendrohung",
-      "schlagwort": "Bombe / Amok",
+      "schlagwort": "Bombendrohung",
+      "kategorie": "Bombe / Amok",
       "stichwort": "THL BOMBENDROHUNG",
       "anmerkung": "",
       "material": "1 Trupp; FW-EL, Fachberater THW"
     },
     {
       "nr": 4,
-      "kategorie": "Bombenfund",
-      "schlagwort": "Bombe / Amok",
+      "schlagwort": "Bombenfund",
+      "kategorie": "Bombe / Amok",
       "stichwort": "THL BOMBENFUND",
       "anmerkung": "",
       "material": "1 Staffel; 500 l Löschwasser, FW-EL, Fachberater THW"
     },
     {
       "nr": 5,
-      "kategorie": "Erkundung",
-      "schlagwort": "klein",
+      "schlagwort": "Erkundung",
+      "kategorie": "klein",
       "stichwort": "THL ERKUNDUNG",
       "anmerkung": "",
       "material": "1 Trupp; "
     },
     {
       "nr": 6,
-      "kategorie": "First Responder",
-      "schlagwort": "RD",
+      "schlagwort": "First Responder",
+      "kategorie": "RD",
       "stichwort": "THL FIRST RESPONDER",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 7,
-      "kategorie": "Gebäude eingestürzt",
-      "schlagwort": "Einsturz / Umsturz",
+      "schlagwort": "Gebäude eingestürzt",
+      "kategorie": "Einsturz / Umsturz",
       "stichwort": "THL GEBÄUDEEINSTURZ",
       "anmerkung": "",
       "material": "3 Gruppen; 3 Rettungssätze (hydraulisch), Stützmaterial, Hebekissensystem oder Hebesatz (hydraulisch), Arbeits-/Rettungsplattform, 4000 l Löschwasser,FW-EL, Fachberater THW, THW SEG"
     },
     {
       "nr": 8,
-      "kategorie": "Rettung Großtier (z. B. Kuh, Pferd)",
-      "schlagwort": "Tier",
+      "schlagwort": "Rettung Großtier (z. B. Kuh, Pferd)",
+      "kategorie": "Tier",
       "stichwort": "THL GROßTIERRETTUNG",
       "anmerkung": "",
       "material": "1 Staffel; "
     },
     {
       "nr": 9,
-      "kategorie": "Hubschrauberlandung sichern",
-      "schlagwort": "Rettung",
+      "schlagwort": "Hubschrauberlandung sichern",
+      "kategorie": "Rettung",
       "stichwort": "THL HUBSCHRAUBERLANDUNG",
       "anmerkung": "",
       "material": "1 Trupp; "
     },
     {
       "nr": 10,
-      "kategorie": "Aufzug öffnen akut",
-      "schlagwort": "Rettung",
+      "schlagwort": "Aufzug öffnen akut",
+      "kategorie": "Rettung",
       "stichwort": "THL P AUFZUG",
       "anmerkung": "",
       "material": "1 Trupp; "
     },
     {
       "nr": 11,
-      "kategorie": "Person droht zu springen",
-      "schlagwort": "Absturz / Höhe",
+      "schlagwort": "Person droht zu springen",
+      "kategorie": "Absturz / Höhe",
       "stichwort": "THL P RETTUNG H / T",
       "anmerkung": "",
       "material": "1 Gruppe; Gerätesatz Absturzsicherung, FW-EL"
     },
     {
       "nr": 12,
-      "kategorie": "Person absturzgefährdet",
-      "schlagwort": "Absturz / Höhe",
+      "schlagwort": "Person absturzgefährdet",
+      "kategorie": "Absturz / Höhe",
       "stichwort": "THL P RETTUNG H / T",
       "anmerkung": "",
       "material": "1 Gruppe; Gerätesatz Absturzsicherung, FW-EL"
     },
     {
       "nr": 13,
-      "kategorie": "Person in Höhe",
-      "schlagwort": "Absturz / Höhe",
+      "schlagwort": "Person in Höhe",
+      "kategorie": "Absturz / Höhe",
       "stichwort": "THL P RETTUNG H / T",
       "anmerkung": "",
       "material": "1 Gruppe; Gerätesatz Absturzsicherung, FW-EL"
     },
     {
       "nr": 14,
-      "kategorie": "Person aus Tiefe / Schacht",
-      "schlagwort": "Absturz / Höhe",
+      "schlagwort": "Person aus Tiefe / Schacht",
+      "kategorie": "Absturz / Höhe",
       "stichwort": "THL P RETTUNG H / T",
       "anmerkung": "",
       "material": "1 Gruppe; Gerätesatz Absturzsicherung, FW-EL"
     },
     {
       "nr": 15,
-      "kategorie": "schwergewichtiger Patient",
-      "schlagwort": "Absturz / Höhe",
+      "schlagwort": "schwergewichtiger Patient",
+      "kategorie": "Absturz / Höhe",
       "stichwort": "THL P RETTUNG H / T",
       "anmerkung": "",
       "material": "1 Gruppe; Gerätesatz Absturzsicherung, FW-EL"
     },
     {
       "nr": 16,
-      "kategorie": "Person auf Windrad / Kran",
-      "schlagwort": "Absturz / Höhe",
+      "schlagwort": "Person auf Windrad / Kran",
+      "kategorie": "Absturz / Höhe",
       "stichwort": "THL P RETTUNG H / T",
       "anmerkung": "",
       "material": "1 Gruppe; Gerätesatz Absturzsicherung, FW-EL"
     },
     {
       "nr": 17,
-      "kategorie": "Paraglider / Fallschirmspringer / Drachenflieger abgestürzt",
-      "schlagwort": "Absturz / Höhe",
+      "schlagwort": "Paraglider / Fallschirmspringer / Drachenflieger abgestürzt",
+      "kategorie": "Absturz / Höhe",
       "stichwort": "THL P RETTUNG H / T",
       "anmerkung": "",
       "material": "1 Gruppe; Gerätesatz Absturzsicherung, FW-EL"
     },
     {
       "nr": 18,
-      "kategorie": "Person unter Straßenbahn",
-      "schlagwort": "VU",
+      "schlagwort": "Person unter Straßenbahn",
+      "kategorie": "VU",
       "stichwort": "THL P STRAßENBAHN",
       "anmerkung": "",
       "material": "2 Gruppen; 2 Rettungssätze (hydraulisch), Hebekissensystem oder Hebesatz (hydraulisch), FW-EL"
     },
     {
       "nr": 19,
-      "kategorie": "Straßenbahn",
-      "schlagwort": "VU",
+      "schlagwort": "Straßenbahn",
+      "kategorie": "VU",
       "stichwort": "THL P STRAßENBAHN",
       "anmerkung": "",
       "material": "2 Gruppen; 2 Rettungssätze (hydraulisch), Hebekissensystem oder Hebesatz (hydraulisch), FW-EL"
     },
     {
       "nr": 20,
-      "kategorie": "Person Stromunfall",
-      "schlagwort": "Rettung",
+      "schlagwort": "Person Stromunfall",
+      "kategorie": "Rettung",
       "stichwort": "THL P STROM",
       "anmerkung": "",
       "material": "1 Trupp; "
     },
     {
       "nr": 21,
-      "kategorie": "Person unter U-Bahn",
-      "schlagwort": "VU",
+      "schlagwort": "Person unter U-Bahn",
+      "kategorie": "VU",
       "stichwort": "THL P U-BAHN",
       "anmerkung": "",
       "material": "2 Gruppen; 2 Rettungssätze (hydraulisch), Hebekissensystem oder Hebesatz (hydraulisch), FW-EL"
     },
     {
       "nr": 22,
-      "kategorie": "Person verschüttet / Tiefbauunfall",
-      "schlagwort": "Rettung",
+      "schlagwort": "Person verschüttet / Tiefbauunfall",
+      "kategorie": "Rettung",
       "stichwort": "THL P VERSCHÜTTET",
       "anmerkung": "",
       "material": "1 Gruppe; FW-EL, Fachberater THW"
     },
     {
       "nr": 23,
-      "kategorie": "Person in Silo",
-      "schlagwort": "Rettung",
+      "schlagwort": "Person in Silo",
+      "kategorie": "Rettung",
       "stichwort": "THL P VERSCHÜTTET",
       "anmerkung": "",
       "material": "1 Gruppe; FW-EL, Fachberater THW"
     },
     {
       "nr": 24,
-      "kategorie": "Wohnung öffnen akut",
-      "schlagwort": "Rettung",
+      "schlagwort": "Wohnung öffnen akut",
+      "kategorie": "Rettung",
       "stichwort": "THL P EINGESCHLOSSEN",
       "anmerkung": "",
       "material": "1 Trupp; "
     },
     {
       "nr": 25,
-      "kategorie": "Fahrzeug öffnen akut",
-      "schlagwort": "Rettung",
+      "schlagwort": "Fahrzeug öffnen akut",
+      "kategorie": "Rettung",
       "stichwort": "THL P EINGESCHLOSSEN",
       "anmerkung": "",
       "material": "1 Trupp; "
     },
     {
       "nr": 26,
-      "kategorie": "Person unter Zug",
-      "schlagwort": "VU",
+      "schlagwort": "Person unter Zug",
+      "kategorie": "VU",
       "stichwort": "THL P ZUG",
       "anmerkung": "",
       "material": "2 Gruppen; 2 Rettungssätze (hydraulisch), Hebekissensystem oder Hebesatz (hydraulisch), FW-EL"
     },
     {
       "nr": 27,
-      "kategorie": "Person unter S-Bahn",
-      "schlagwort": "VU",
+      "schlagwort": "Person unter S-Bahn",
+      "kategorie": "VU",
       "stichwort": "THL P ZUG",
       "anmerkung": "",
       "material": "2 Gruppen; 2 Rettungssätze (hydraulisch), Hebekissensystem oder Hebesatz (hydraulisch), FW-EL"
     },
     {
       "nr": 28,
-      "kategorie": "Person vom Zug erfasst",
-      "schlagwort": "VU",
+      "schlagwort": "Person vom Zug erfasst",
+      "kategorie": "VU",
       "stichwort": "THL P ZUG",
       "anmerkung": "",
       "material": "2 Gruppen; 2 Rettungssätze (hydraulisch), Hebekissensystem oder Hebesatz (hydraulisch), FW-EL"
     },
     {
       "nr": 29,
-      "kategorie": "Drehleiter",
-      "schlagwort": "RD",
+      "schlagwort": "Drehleiter",
+      "kategorie": "RD",
       "stichwort": "THL RETTUNGSKORB",
       "anmerkung": "",
       "material": "1 Trupp; Drehleiter mit Krankentragenhalterung"
     },
     {
       "nr": 30,
-      "kategorie": "allgemein",
-      "schlagwort": "klein",
+      "schlagwort": "allgemein",
+      "kategorie": "klein",
       "stichwort": "THL 1",
       "anmerkung": "",
       "material": "1 Trupp; FW-EL"
     },
     {
       "nr": 31,
-      "kategorie": "Baum auf Straße",
-      "schlagwort": "klein",
+      "schlagwort": "Baum auf Straße",
+      "kategorie": "klein",
       "stichwort": "THL 1",
       "anmerkung": "",
       "material": "1 Trupp; FW-EL"
     },
     {
       "nr": 32,
-      "kategorie": "Baum auf Schiene",
-      "schlagwort": "klein",
+      "schlagwort": "Baum auf Schiene",
+      "kategorie": "klein",
       "stichwort": "THL 1",
       "anmerkung": "",
       "material": "1 Trupp; FW-EL"
     },
     {
       "nr": 33,
-      "kategorie": "Dach räumen",
-      "schlagwort": "klein",
+      "schlagwort": "Dach räumen",
+      "kategorie": "klein",
       "stichwort": "THL 1",
       "anmerkung": "",
       "material": "1 Trupp; FW-EL"
     },
     {
       "nr": 34,
-      "kategorie": "Fahrzeug öffnen",
-      "schlagwort": "klein",
+      "schlagwort": "Fahrzeug öffnen",
+      "kategorie": "klein",
       "stichwort": "THL 1",
       "anmerkung": "",
       "material": "1 Trupp; FW-EL"
     },
     {
       "nr": 35,
-      "kategorie": "Fahrzeug sichern",
-      "schlagwort": "klein",
+      "schlagwort": "Fahrzeug sichern",
+      "kategorie": "klein",
       "stichwort": "THL 1",
       "anmerkung": "",
       "material": "1 Trupp; FW-EL"
     },
     {
       "nr": 36,
-      "kategorie": "Wohnung öffnen",
-      "schlagwort": "klein",
+      "schlagwort": "Wohnung öffnen",
+      "kategorie": "klein",
       "stichwort": "THL 1",
       "anmerkung": "",
       "material": "1 Trupp; FW-EL"
     },
     {
       "nr": 37,
-      "kategorie": "Gebäude sichern",
-      "schlagwort": "klein",
+      "schlagwort": "Gebäude sichern",
+      "kategorie": "klein",
       "stichwort": "THL 1",
       "anmerkung": "",
       "material": "1 Trupp; FW-EL"
     },
     {
       "nr": 38,
-      "kategorie": "Gegenstand / Teil sichern",
-      "schlagwort": "klein",
+      "schlagwort": "Gegenstand / Teil sichern",
+      "kategorie": "klein",
       "stichwort": "THL 1",
       "anmerkung": "",
       "material": "1 Trupp; FW-EL"
     },
     {
       "nr": 39,
-      "kategorie": "Straße reinigen",
-      "schlagwort": "klein",
+      "schlagwort": "Straße reinigen",
+      "kategorie": "klein",
       "stichwort": "THL 1",
       "anmerkung": "",
       "material": "1 Trupp; FW-EL"
     },
     {
       "nr": 40,
-      "kategorie": "Straße überschwemmt",
-      "schlagwort": "klein",
+      "schlagwort": "Straße überschwemmt",
+      "kategorie": "klein",
       "stichwort": "THL 1",
       "anmerkung": "",
       "material": "1 Trupp; FW-EL"
     },
     {
       "nr": 41,
-      "kategorie": "Wasser im Keller",
-      "schlagwort": "klein",
+      "schlagwort": "Wasser im Keller",
+      "kategorie": "klein",
       "stichwort": "THL 1",
       "anmerkung": "",
       "material": "1 Trupp; FW-EL"
     },
     {
       "nr": 42,
-      "kategorie": "Wasser in Gebäude",
-      "schlagwort": "klein",
+      "schlagwort": "Wasser in Gebäude",
+      "kategorie": "klein",
       "stichwort": "THL 1",
       "anmerkung": "",
       "material": "1 Trupp; FW-EL"
     },
     {
       "nr": 43,
-      "kategorie": "Unterstützung",
-      "schlagwort": "RD",
+      "schlagwort": "Unterstützung",
+      "kategorie": "RD",
       "stichwort": "THL 1",
       "anmerkung": "",
       "material": "1 Trupp; FW-EL"
     },
     {
       "nr": 44,
-      "kategorie": "Personensuche",
-      "schlagwort": "Rettung",
+      "schlagwort": "Personensuche",
+      "kategorie": "Rettung",
       "stichwort": "THL 1",
       "anmerkung": "",
       "material": "1 Trupp; FW-EL"
     },
     {
       "nr": 45,
-      "kategorie": "mit Motorrad",
-      "schlagwort": "VU",
+      "schlagwort": "mit Motorrad",
+      "kategorie": "VU",
       "stichwort": "THL 1",
       "anmerkung": "",
       "material": "1 Trupp; FW-EL"
     },
     {
       "nr": 46,
-      "kategorie": "mit PKW",
-      "schlagwort": "VU",
+      "schlagwort": "mit PKW",
+      "kategorie": "VU",
       "stichwort": "THL 1",
       "anmerkung": "",
       "material": "1 Trupp; FW-EL"
     },
     {
       "nr": 47,
-      "kategorie": "Insekten (Gefahr für Personen)",
-      "schlagwort": "Tier",
+      "schlagwort": "Insekten (Gefahr für Personen)",
+      "kategorie": "Tier",
       "stichwort": "THL 1",
       "anmerkung": "",
       "material": "1 Trupp; FW-EL"
     },
     {
       "nr": 48,
-      "kategorie": "Rettung Kleintier",
-      "schlagwort": "Tier",
+      "schlagwort": "Rettung Kleintier",
+      "kategorie": "Tier",
       "stichwort": "THL 1",
       "anmerkung": "",
       "material": "1 Trupp; FW-EL"
     },
     {
       "nr": 49,
-      "kategorie": "Bergung Kleintier",
-      "schlagwort": "Tier",
+      "schlagwort": "Bergung Kleintier",
+      "kategorie": "Tier",
       "stichwort": "THL 1",
       "anmerkung": "",
       "material": "1 Trupp; FW-EL"
     },
     {
       "nr": 50,
-      "kategorie": "Bergung Großtier (z. B. Kuh, Pferd)",
-      "schlagwort": "Tier",
+      "schlagwort": "Bergung Großtier (z. B. Kuh, Pferd)",
+      "kategorie": "Tier",
       "stichwort": "THL 1",
       "anmerkung": "",
       "material": "1 Trupp; FW-EL"
     },
     {
       "nr": 51,
-      "kategorie": "Waldunfall ohne eingeklemmte Person",
-      "schlagwort": "Rettung",
+      "schlagwort": "Waldunfall ohne eingeklemmte Person",
+      "kategorie": "Rettung",
       "stichwort": "THL 1",
       "anmerkung": "",
       "material": "1 Trupp; FW-EL"
     },
     {
       "nr": 52,
-      "kategorie": "Verkehrslenkung",
-      "schlagwort": "klein",
+      "schlagwort": "Verkehrslenkung",
+      "kategorie": "klein",
       "stichwort": "THL 1",
       "anmerkung": "",
       "material": "1 Trupp; FW-EL"
     },
     {
       "nr": 53,
-      "kategorie": "mehrere PKW",
-      "schlagwort": "VU",
+      "schlagwort": "mehrere PKW",
+      "kategorie": "VU",
       "stichwort": "THL 2",
       "anmerkung": "",
       "material": "1 Staffel; 1 Rettungssatz (hydraulisch), 500 l Löschwasser"
     },
     {
       "nr": 54,
-      "kategorie": "LKW / Bus (leer), ohne eingeklemmte  Personen",
-      "schlagwort": "VU",
+      "schlagwort": "LKW / Bus (leer), ohne eingeklemmte  Personen",
+      "kategorie": "VU",
       "stichwort": "THL 2",
       "anmerkung": "",
       "material": "1 Staffel; 1 Rettungssatz (hydraulisch), 500 l Löschwasser"
     },
     {
       "nr": 55,
-      "kategorie": "Person eingeklemmt (nicht VU)",
-      "schlagwort": "Rettung",
+      "schlagwort": "Person eingeklemmt (nicht VU)",
+      "kategorie": "Rettung",
       "stichwort": "THL 3",
       "anmerkung": "",
       "material": "2 Staffeln; 2 Rettungssätze (hydraulisch), 500 l Löschwasser, FW-EL, Fachberater THW"
     },
     {
       "nr": 56,
-      "kategorie": "1 oder 2 PKW, Person eingeklemmt",
-      "schlagwort": "VU",
+      "schlagwort": "1 oder 2 PKW, Person eingeklemmt",
+      "kategorie": "VU",
       "stichwort": "THL 3",
       "anmerkung": "",
       "material": "2 Staffeln; 2 Rettungssätze (hydraulisch), 500 l Löschwasser, FW-EL, Fachberater THW"
     },
     {
       "nr": 57,
-      "kategorie": "Bus (besetzt)",
-      "schlagwort": "VU",
+      "schlagwort": "Bus (besetzt)",
+      "kategorie": "VU",
       "stichwort": "THL 3",
       "anmerkung": "",
       "material": "2 Staffeln; 2 Rettungssätze (hydraulisch), 500 l Löschwasser, FW-EL, Fachberater THW"
     },
     {
       "nr": 58,
-      "kategorie": "Gerüst umgestürzt",
-      "schlagwort": "Einsturz / Umsturz",
+      "schlagwort": "Gerüst umgestürzt",
+      "kategorie": "Einsturz / Umsturz",
       "stichwort": "THL 3",
       "anmerkung": "",
       "material": "2 Staffeln; 2 Rettungssätze (hydraulisch), 500 l Löschwasser, FW-EL, Fachberater THW"
     },
     {
       "nr": 59,
-      "kategorie": "Stromleitungsmast umgestürzt",
-      "schlagwort": "Einsturz / Umsturz",
+      "schlagwort": "Stromleitungsmast umgestürzt",
+      "kategorie": "Einsturz / Umsturz",
       "stichwort": "THL 3",
       "anmerkung": "",
       "material": "2 Staffeln; 2 Rettungssätze (hydraulisch), 500 l Löschwasser, FW-EL, Fachberater THW"
     },
     {
       "nr": 60,
-      "kategorie": "Kran umgestürzt",
-      "schlagwort": "Einsturz / Umsturz",
+      "schlagwort": "Kran umgestürzt",
+      "kategorie": "Einsturz / Umsturz",
       "stichwort": "THL 3",
       "anmerkung": "",
       "material": "2 Staffeln; 2 Rettungssätze (hydraulisch), 500 l Löschwasser, FW-EL, Fachberater THW"
     },
     {
       "nr": 61,
-      "kategorie": "Waldunfall mit eingeklemmter Person",
-      "schlagwort": "Rettung",
+      "schlagwort": "Waldunfall mit eingeklemmter Person",
+      "kategorie": "Rettung",
       "stichwort": "THL 3",
       "anmerkung": "",
       "material": "2 Staffeln; 2 Rettungssätze (hydraulisch), 500 l Löschwasser, FW-EL, Fachberater THW"
     },
     {
       "nr": 62,
-      "kategorie": "mehrere PKW, Personen eingeklemmt",
-      "schlagwort": "VU",
+      "schlagwort": "mehrere PKW, Personen eingeklemmt",
+      "kategorie": "VU",
       "stichwort": "THL 4",
       "anmerkung": "",
       "material": "3 Gruppen; 3 Rettungssätze (hydraulisch), 2000 l Löschwasser, FW-EL, Fachberater THW"
     },
     {
       "nr": 63,
-      "kategorie": "LKW / Bus (leer), Person eingeklemmt",
-      "schlagwort": "VU",
+      "schlagwort": "LKW / Bus (leer), Person eingeklemmt",
+      "kategorie": "VU",
       "stichwort": "THL 4",
       "anmerkung": "",
       "material": "3 Gruppen; 3 Rettungssätze (hydraulisch), 2000 l Löschwasser, Arbeits-/Rettungsplattform, FW-EL, Fachberater THW"
     },
     {
       "nr": 64,
-      "kategorie": "Massenkarambolage, Personen eingeklemmt",
-      "schlagwort": "VU",
+      "schlagwort": "Massenkarambolage, Personen eingeklemmt",
+      "kategorie": "VU",
       "stichwort": "THL 5",
       "anmerkung": "",
       "material": "4 Gruppen; 4 Rettungssätze (hydraulisch), 4000 l Löschwasser, Zugeinrichtung (maschinell), FW-EL, Fachberater THW"
     },
     {
       "nr": 65,
-      "kategorie": "Bus besetzt mit eingeklemmten Personen",
-      "schlagwort": "VU",
+      "schlagwort": "Bus besetzt mit eingeklemmten Personen",
+      "kategorie": "VU",
       "stichwort": "THL 5",
       "anmerkung": "",
       "material": "4 Gruppen; 4 Rettungssätze (hydraulisch), 4000 l Löschwasser, Zugeinrichtung (maschinell), FW-EL, Fachberater THW"
     },
     {
       "nr": 66,
-      "kategorie": "mehrere LKW mit eingeklemmten Personen",
-      "schlagwort": "VU",
+      "schlagwort": "mehrere LKW mit eingeklemmten Personen",
+      "kategorie": "VU",
       "stichwort": "THL 5",
       "anmerkung": "",
       "material": "4 Gruppen; 4 Rettungssätze (hydraulisch), 4000 l Löschwasser, Zugeinrichtung (maschinell), FW-EL, Fachberater THW"
     },
     {
       "nr": 67,
-      "kategorie": "Hilfeleistung Straßenbahn",
-      "schlagwort": "klein",
+      "schlagwort": "Hilfeleistung Straßenbahn",
+      "kategorie": "klein",
       "stichwort": "THL SCHIENE",
       "anmerkung": "",
       "material": "1 Gruppe; 1 Rettungssatz (hydraulisch), FW-EL"
     },
     {
       "nr": 68,
-      "kategorie": "Hilfeleistung S-Bahn",
-      "schlagwort": "klein",
+      "schlagwort": "Hilfeleistung S-Bahn",
+      "kategorie": "klein",
       "stichwort": "THL SCHIENE",
       "anmerkung": "",
       "material": "1 Gruppe; 1 Rettungssatz (hydraulisch), FW-EL"
     },
     {
       "nr": 69,
-      "kategorie": "Hilfeleistung U-Bahn",
-      "schlagwort": "klein",
+      "schlagwort": "Hilfeleistung U-Bahn",
+      "kategorie": "klein",
       "stichwort": "THL SCHIENE",
       "anmerkung": "",
       "material": "1 Gruppe; 1 Rettungssatz (hydraulisch), FW-EL"
     },
     {
       "nr": 70,
-      "kategorie": "Bergung Sache / Leiche",
-      "schlagwort": "Wasser",
+      "schlagwort": "Bergung Sache / Leiche",
+      "kategorie": "Wasser",
       "stichwort": "THL WASSER",
       "anmerkung": "",
       "material": "1 Trupp; 1 Boot"
     },
     {
       "nr": 71,
-      "kategorie": "Rettung Tier",
-      "schlagwort": "Wasser",
+      "schlagwort": "Rettung Tier",
+      "kategorie": "Wasser",
       "stichwort": "THL WASSER",
       "anmerkung": "",
       "material": "1 Trupp; 1 Boot"
     },
     {
       "nr": 72,
-      "kategorie": "Rettung Person",
-      "schlagwort": "Wasser",
+      "schlagwort": "Rettung Person",
+      "kategorie": "Wasser",
       "stichwort": "THL WASSER",
       "anmerkung": "",
       "material": "1 Trupp; 1 Boot"
     },
     {
       "nr": 73,
-      "kategorie": "Tauchereinsatz ohne Rettung",
-      "schlagwort": "Wasser",
+      "schlagwort": "Tauchereinsatz ohne Rettung",
+      "kategorie": "Wasser",
       "stichwort": "THL WASSER",
       "anmerkung": "",
       "material": "1 Trupp; 1 Boot"
     },
     {
       "nr": 74,
-      "kategorie": "Tragehilfe",
-      "schlagwort": "RD",
+      "schlagwort": "Tragehilfe",
+      "kategorie": "RD",
       "stichwort": "THL TRAGEHILFE",
       "anmerkung": "",
       "material": "1 Staffel; "
     },
     {
       "nr": 75,
-      "kategorie": "Baum / Ast droht zu fallen",
-      "schlagwort": "Unwetter",
+      "schlagwort": "Baum / Ast droht zu fallen",
+      "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
       "anmerkung": "",
       "material": "; FW-EL, KEZ"
     },
     {
       "nr": 76,
-      "kategorie": "Baum / Ast auf Fahrbahn",
-      "schlagwort": "Unwetter",
+      "schlagwort": "Baum / Ast auf Fahrbahn",
+      "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
       "anmerkung": "",
       "material": "; FW-EL, KEZ"
     },
     {
       "nr": 77,
-      "kategorie": "Baum / Ast auf Schiene",
-      "schlagwort": "Unwetter",
+      "schlagwort": "Baum / Ast auf Schiene",
+      "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
       "anmerkung": "",
       "material": "; FW-EL, KEZ"
     },
     {
       "nr": 78,
-      "kategorie": "Baum / Ast auf Gebäude",
-      "schlagwort": "Unwetter",
+      "schlagwort": "Baum / Ast auf Gebäude",
+      "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
       "anmerkung": "",
       "material": "; FW-EL, KEZ"
     },
     {
       "nr": 79,
-      "kategorie": "Baum / Ast auf Stromleitung",
-      "schlagwort": "Unwetter",
+      "schlagwort": "Baum / Ast auf Stromleitung",
+      "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
       "anmerkung": "",
       "material": "; FW-EL, KEZ"
     },
     {
       "nr": 80,
-      "kategorie": "Baum / Ast auf PKW / LKW",
-      "schlagwort": "Unwetter",
+      "schlagwort": "Baum / Ast auf PKW / LKW",
+      "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
       "anmerkung": "",
       "material": "; FW-EL, KEZ"
     },
     {
       "nr": 81,
-      "kategorie": "Baum umgestürzt",
-      "schlagwort": "Unwetter",
+      "schlagwort": "Baum umgestürzt",
+      "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
       "anmerkung": "",
       "material": "; FW-EL, KEZ"
     },
     {
       "nr": 82,
-      "kategorie": "Bauteil / Gegenstand droht zu fallen",
-      "schlagwort": "Unwetter",
+      "schlagwort": "Bauteil / Gegenstand droht zu fallen",
+      "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
       "anmerkung": "",
       "material": "; FW-EL, KEZ"
     },
     {
       "nr": 83,
-      "kategorie": "Gebäude sichern",
-      "schlagwort": "Unwetter",
+      "schlagwort": "Gebäude sichern",
+      "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
       "anmerkung": "",
       "material": "; FW-EL, KEZ"
     },
     {
       "nr": 84,
-      "kategorie": "Bauzaun sichern",
-      "schlagwort": "Unwetter",
+      "schlagwort": "Bauzaun sichern",
+      "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
       "anmerkung": "",
       "material": "; FW-EL, KEZ"
     },
     {
       "nr": 85,
-      "kategorie": "Fahrbahn / Gehweg überschwemmt",
-      "schlagwort": "Unwetter",
+      "schlagwort": "Fahrbahn / Gehweg überschwemmt",
+      "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
       "anmerkung": "",
       "material": "; FW-EL, KEZ"
     },
     {
       "nr": 86,
-      "kategorie": "Gebäude unter Wasser",
-      "schlagwort": "Unwetter",
+      "schlagwort": "Gebäude unter Wasser",
+      "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
       "anmerkung": "",
       "material": "; FW-EL, KEZ"
     },
     {
       "nr": 87,
-      "kategorie": "Keller unter Wasser",
-      "schlagwort": "Unwetter",
+      "schlagwort": "Keller unter Wasser",
+      "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
       "anmerkung": "",
       "material": "; FW-EL, KEZ"
     },
     {
       "nr": 88,
-      "kategorie": "Fahrzeug / sonstigen Gegenstandsichern",
-      "schlagwort": "Unwetter",
+      "schlagwort": "Fahrzeug / sonstigen Gegenstandsichern",
+      "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
       "anmerkung": "",
       "material": "; FW-EL, KEZ"
     },
     {
       "nr": 89,
-      "kategorie": "Erkundung nicht zeitkritisch",
-      "schlagwort": "Unwetter",
+      "schlagwort": "Erkundung nicht zeitkritisch",
+      "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
       "anmerkung": "",
       "material": "; FW-EL, KEZ"
     },
     {
       "nr": 90,
-      "kategorie": "sonstiger Schaden",
-      "schlagwort": "Unwetter",
+      "schlagwort": "sonstiger Schaden",
+      "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
       "anmerkung": "",
       "material": "; FW-EL, KEZ"
     },
     {
       "nr": 91,
-      "kategorie": "Notlandung",
-      "schlagwort": "Luft",
+      "schlagwort": "Notlandung",
+      "kategorie": "Luft",
       "stichwort": "THL VU FLUGZEUG 1",
       "anmerkung": "",
       "material": "3 Gruppen; 3 Rettungssätze (hydraulisch), 4000 l Löschwasser, Arbeits-/Rettungsplattform, FW-EL, Fachberater THW"
     },
     {
       "nr": 92,
-      "kategorie": "Ballon",
-      "schlagwort": "Luft",
+      "schlagwort": "Ballon",
+      "kategorie": "Luft",
       "stichwort": "THL VU FLUGZEUG 1",
       "anmerkung": "",
       "material": "3 Gruppen; 3 Rettungssätze (hydraulisch), 4000 l Löschwasser, Arbeits-/Rettungsplattform, FW-EL, Fachberater THW"
     },
     {
       "nr": 93,
-      "kategorie": "Hubschrauber",
-      "schlagwort": "Luft",
+      "schlagwort": "Hubschrauber",
+      "kategorie": "Luft",
       "stichwort": "THL VU FLUGZEUG 1",
       "anmerkung": "",
       "material": "3 Gruppen; 3 Rettungssätze (hydraulisch), 4000 l Löschwasser, Arbeits-/Rettungsplattform, FW-EL, Fachberater THW"
     },
     {
       "nr": 94,
-      "kategorie": "Kleinflugzeug",
-      "schlagwort": "Luft",
+      "schlagwort": "Kleinflugzeug",
+      "kategorie": "Luft",
       "stichwort": "THL VU FLUGZEUG 1",
       "anmerkung": "",
       "material": "3 Gruppen; 3 Rettungssätze (hydraulisch), 4000 l Löschwasser, Arbeits-/Rettungsplattform, FW-EL, Fachberater THW"
     },
     {
       "nr": 95,
-      "kategorie": "Frachtflugzeug",
-      "schlagwort": "Luft",
+      "schlagwort": "Frachtflugzeug",
+      "kategorie": "Luft",
       "stichwort": "THL VU FLUGZEUG 2",
       "anmerkung": "",
       "material": "4 Gruppen; 3 Rettungssätze (hydraulisch), 4000 l Löschwasser, Arbeits-/Rettungsplattform, FW-EL, Fachberater THW"
     },
     {
       "nr": 96,
-      "kategorie": "Passagierflugzeug",
-      "schlagwort": "Luft",
+      "schlagwort": "Passagierflugzeug",
+      "kategorie": "Luft",
       "stichwort": "THL VU FLUGZEUG 2",
       "anmerkung": "",
       "material": "4 Gruppen; 3 Rettungssätze (hydraulisch), 4000 l Löschwasser, Arbeits-/Rettungsplattform, FW-EL, Fachberater THW"
     },
     {
       "nr": 97,
-      "kategorie": "Militärflugzeug",
-      "schlagwort": "Luft",
+      "schlagwort": "Militärflugzeug",
+      "kategorie": "Luft",
       "stichwort": "THL VU FLUGZEUG 2",
       "anmerkung": "",
       "material": "4 Gruppen; 3 Rettungssätze (hydraulisch), 4000 l Löschwasser, Arbeits-/Rettungsplattform, FW-EL, Fachberater THW"
     },
     {
       "nr": 98,
-      "kategorie": "Kollision Passagierschiff",
-      "schlagwort": "Wasser",
+      "schlagwort": "Kollision Passagierschiff",
+      "kategorie": "Wasser",
       "stichwort": "THL VU SCHIFF KOLLISION",
       "anmerkung": "",
       "material": "3 Gruppen; 2 Boote, FW-EL, Fachberater THW"
     },
     {
       "nr": 99,
-      "kategorie": "Kollision Frachtschiff",
-      "schlagwort": "Wasser",
+      "schlagwort": "Kollision Frachtschiff",
+      "kategorie": "Wasser",
       "stichwort": "THL VU SCHIFF KOLLISION",
       "anmerkung": "",
       "material": "3 Gruppen; 2 Boote, FW-EL, Fachberater THW"
     },
     {
       "nr": 100,
-      "kategorie": "Kollision Boot / Yacht / Floß",
-      "schlagwort": "Wasser",
+      "schlagwort": "Kollision Boot / Yacht / Floß",
+      "kategorie": "Wasser",
       "stichwort": "THL VU SCHIFF KOLLISION",
       "anmerkung": "",
       "material": "2 Gruppen; 1 Boot, FW-EL, Fachberater THW"
     },
     {
       "nr": 101,
-      "kategorie": "Schiff leck Passagierschiff",
-      "schlagwort": "Wasser",
+      "schlagwort": "Schiff leck Passagierschiff",
+      "kategorie": "Wasser",
       "stichwort": "THL VU SCHIFF LECK",
       "anmerkung": "",
       "material": "3 Gruppen; 2 Boote, FW-EL, Fachberater THW"
     },
     {
       "nr": 102,
-      "kategorie": "Schiff leck Frachtschiff",
-      "schlagwort": "Wasser",
+      "schlagwort": "Schiff leck Frachtschiff",
+      "kategorie": "Wasser",
       "stichwort": "THL VU SCHIFF LECK",
       "anmerkung": "",
       "material": "3 Gruppen; 2 Boote, FW-EL, Fachberater THW"
     },
     {
       "nr": 103,
-      "kategorie": "Zug",
-      "schlagwort": "VU",
+      "schlagwort": "Zug",
+      "kategorie": "VU",
       "stichwort": "THL VU ZUG",
       "anmerkung": "",
       "material": "2 Gruppen; 3 Rettungssätze (hydraulisch), 4000 l Löschwasser, Arbeits-/Rettungsplattform, FW-EL, Fachberater THW, THW SEG"
     },
     {
       "nr": 1,
-      "kategorie": "undefinierbarer Geruch",
-      "schlagwort": "Geruch",
+      "schlagwort": "undefinierbarer Geruch",
+      "kategorie": "Geruch",
       "stichwort": "ABC 1",
       "anmerkung": "",
       "material": "1 Staffel; 4 PA, 1 Ex-Warngerät, 500 l Löschwasser"
     },
     {
       "nr": 2,
-      "kategorie": "Geruch nach Ammoniak",
-      "schlagwort": "Geruch",
+      "schlagwort": "Geruch nach Ammoniak",
+      "kategorie": "Geruch",
       "stichwort": "ABC 1",
       "anmerkung": "",
       "material": "1 Staffel; 4 PA, 1 Ex-Warngerät, 500 l Löschwasser"
     },
     {
       "nr": 3,
-      "kategorie": "Geruch nach Chlor",
-      "schlagwort": "Geruch",
+      "schlagwort": "Geruch nach Chlor",
+      "kategorie": "Geruch",
       "stichwort": "ABC 1",
       "anmerkung": "",
       "material": "1 Staffel; 4 PA, 1 Ex-Warngerät, 500 l Löschwasser"
     },
     {
       "nr": 4,
-      "kategorie": "Geruch nach Erdgas / Gas",
-      "schlagwort": "Geruch",
+      "schlagwort": "Geruch nach Erdgas / Gas",
+      "kategorie": "Geruch",
       "stichwort": "ABC 1",
       "anmerkung": "",
       "material": "1 Staffel; 4 PA, 1 Ex-Warngerät, 500 l Löschwasser"
     },
     {
       "nr": 5,
-      "kategorie": "auslaufender Kraftstoff (z. B.Benzin, Diesel)",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "auslaufender Kraftstoff (z. B.Benzin, Diesel)",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC KRAFTSTOFF",
       "anmerkung": "",
       "material": "1 Trupp; "
     },
     {
       "nr": 6,
-      "kategorie": "verdächtiger Stoff",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "verdächtiger Stoff",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC 2",
       "anmerkung": "",
       "material": "1 Staffel; 4 PA, 1 Ex-Warngerät, 500 l Löschwasser"
     },
     {
       "nr": 7,
-      "kategorie": "undefinierbare Flüssigkeit",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "undefinierbare Flüssigkeit",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC 2",
       "anmerkung": "",
       "material": "1 Staffel; 4 PA, 1 Ex-Warngerät, 500 l Löschwasser"
     },
     {
       "nr": 8,
-      "kategorie": "undefinierbarer Gegenstand",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "undefinierbarer Gegenstand",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC 2",
       "anmerkung": "",
       "material": "1 Staffel; 4 PA, 1 Ex-Warngerät, 500 l Löschwasser"
     },
     {
       "nr": 9,
-      "kategorie": "kleine Menge",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "kleine Menge",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC 2",
       "anmerkung": "",
       "material": "1 Staffel; 4 PA, 1 Ex-Warngerät, 500 l Löschwasser"
     },
     {
       "nr": 10,
-      "kategorie": "undefinierbares Pulver",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "undefinierbares Pulver",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC 2",
       "anmerkung": "",
       "material": "1 Staffel; 4 PA, 1 Ex-Warngerät, 500 l Löschwasser"
     },
     {
       "nr": 11,
-      "kategorie": "Gasaustritt im Freien",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "Gasaustritt im Freien",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC 2",
       "anmerkung": "",
       "material": "1 Staffel; 4 PA, 1 Ex-Warngerät, 500 l Löschwasser"
     },
     {
       "nr": 12,
-      "kategorie": "große Menge",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "große Menge",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC 3",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Ex-Warngerät, 1800 l Löschwasser"
     },
     {
       "nr": 13,
-      "kategorie": "Gasaustritt brennbar",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "Gasaustritt brennbar",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC 3",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Ex-Warngerät, 1800 l Löschwasser"
     },
     {
       "nr": 14,
-      "kategorie": "Gasaustritt im Gebäude",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "Gasaustritt im Gebäude",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC 3",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Ex-Warngerät, 1800 l Löschwasser"
     },
     {
       "nr": 15,
-      "kategorie": "Brand Atom im Gebäude",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "Brand Atom im Gebäude",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC B ATOM",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Wärmebildkamera,1800 l Löschwasser, 6 Körperschutz Form 2 (Kontaminationsschutzanzug), Sonderausrüstung A, 120 l Schaummittel alkoholbeständig oder 120 l Schaummittel Class A oder120 l Mehrbereichsschaummittel, 250 kg ABC-Löschpulver,FW-EL"
     },
     {
       "nr": 16,
-      "kategorie": "Brand Atom im Freien",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "Brand Atom im Freien",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC B ATOM",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Wärmebildkamera,1800 l Löschwasser, 6 Körperschutz Form 2 (Kontaminationsschutzanzug), Sonderausrüstung A, 120 l Schaummittel alkoholbeständig oder 120 l Schaummittel Class A oder120 l Mehrbereichsschaummittel, 250 kg ABC-Löschpulver,FW-EL"
     },
     {
       "nr": 17,
-      "kategorie": "Brand Atom PKW / LKW",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "Brand Atom PKW / LKW",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC B ATOM",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Wärmebildkamera,1800 l Löschwasser, 6 Körperschutz Form 2 (Kontaminationsschutzanzug), Sonderausrüstung A, 120 l Schaummittel alkoholbeständig oder 120 l Schaummittel Class A oder120 l Mehrbereichsschaummittel, 250 kg ABC-Löschpulver,FW-EL"
     },
     {
       "nr": 18,
-      "kategorie": "Brand Atomkraftwerk (AKW)",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "Brand Atomkraftwerk (AKW)",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC B ATOM",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Wärmebildkamera,1800 l Löschwasser, 6 Körperschutz Form 2 (Kontaminationsschutzanzug), Sonderausrüstung A, 120 l Schaummittel alkoholbeständig oder 120 l Schaummittel Class A oder120 l Mehrbereichsschaummittel, 250 kg ABC-Löschpulver,FW-EL"
     },
     {
       "nr": 19,
-      "kategorie": "Brand Tankstelle",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "Brand Tankstelle",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC B",
       "anmerkung": "",
       "material": "siehe B 4; Verknüpfung mit EMK B4"
     },
     {
       "nr": 20,
-      "kategorie": "Brand Biogasanlage",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "Brand Biogasanlage",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC B",
       "anmerkung": "",
       "material": "siehe B 4; Verknüpfung mit EMK B4"
     },
     {
       "nr": 21,
-      "kategorie": "Brand Raffinerie",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "Brand Raffinerie",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC B",
       "anmerkung": "",
       "material": "siehe B 4; Verknüpfung mit EMK B4"
     },
     {
       "nr": 22,
-      "kategorie": "Brand Tanklager",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "Brand Tanklager",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC B",
       "anmerkung": "",
       "material": "siehe B 4; Verknüpfung mit EMK B4"
     },
     {
       "nr": 23,
-      "kategorie": "Brand Tankwagen",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "Brand Tankwagen",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC B",
       "anmerkung": "",
       "material": "siehe B 4; Verknüpfung mit EMK B4"
     },
     {
       "nr": 24,
-      "kategorie": "Brand Bio im Gebäude",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "Brand Bio im Gebäude",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC B BIO / CHEMIE",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Ex-Warngerät,1 Wärmebildkamera, 1800 l Löschwasser, 4 Körperschutz Form 2 (Infektionsschutzanzug/Flüssigkeitsschutzanzug),4 Körperschutz Form 3 (CSA),Gasmesskoffer, 120 l Schaummittel alkoholbeständig oder 120 l Schaummittel Class A oder 120 l Mehrbereichsschaummittel, 250 kg ABC Löschpulver, FW-EL, Fachberater THW"
     },
     {
       "nr": 25,
-      "kategorie": "Brand Bio im Freien",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "Brand Bio im Freien",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC B BIO / CHEMIE",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Ex-Warngerät,1 Wärmebildkamera, 1800 l Löschwasser, 4 Körperschutz Form 2 (Infektionsschutzanzug/Flüssigkeitsschutzanzug),4 Körperschutz Form 3 (CSA),Gasmesskoffer, 120 l Schaummittel alkoholbeständig oder 120 l Schaummittel Class A oder 120 l Mehrbereichsschaummittel, 250 kg ABC Löschpulver, FW-EL, Fachberater THW"
     },
     {
       "nr": 26,
-      "kategorie": "Brand Bio PKW / LKW",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "Brand Bio PKW / LKW",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC B BIO / CHEMIE",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Ex-Warngerät,1 Wärmebildkamera, 1800 l Löschwasser, 4 Körperschutz Form 2 (Infektionsschutzanzug/Flüssigkeitsschutzanzug),4 Körperschutz Form 3 (CSA),Gasmesskoffer, 120 l Schaummittel alkoholbeständig oder 120 l Schaummittel Class A oder 120 l Mehrbereichsschaummittel, 250 kg ABC Löschpulver, FW-EL, Fachberater THW"
     },
     {
       "nr": 27,
-      "kategorie": "Brand Chemie im Gebäude",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "Brand Chemie im Gebäude",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC B BIO / CHEMIE",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Ex-Warngerät,1 Wärmebildkamera, 1800 l Löschwasser, 4 Körperschutz Form 2 (Infektionsschutzanzug/Flüssigkeitsschutzanzug),4 Körperschutz Form 3 (CSA),Gasmesskoffer, 120 l Schaummittel alkoholbeständig oder 120 l Schaummittel Class A oder 120 l Mehrbereichsschaummittel, 250 kg ABC Löschpulver, FW-EL, Fachberater THW"
     },
     {
       "nr": 28,
-      "kategorie": "Brand Chemie im Freien",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "Brand Chemie im Freien",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC B BIO / CHEMIE",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Ex-Warngerät,1 Wärmebildkamera, 1800 l Löschwasser, 4 Körperschutz Form 2 (Infektionsschutzanzug/Flüssigkeitsschutzanzug),4 Körperschutz Form 3 (CSA),Gasmesskoffer, 120 l Schaummittel alkoholbeständig oder 120 l Schaummittel Class A oder 120 l Mehrbereichsschaummittel, 250 kg ABC Löschpulver, FW-EL, Fachberater THW"
     },
     {
       "nr": 29,
-      "kategorie": "Brand Chemie Zug",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "Brand Chemie Zug",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC B BIO / CHEMIE",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Ex-Warngerät,1 Wärmebildkamera, 1800 l Löschwasser, 4 Körperschutz Form 2 (Infektionsschutzanzug/Flüssigkeitsschutzanzug),4 Körperschutz Form 3 (CSA),Gasmesskoffer, 120 l Schaummittel alkoholbeständig oder 120 l Schaummittel Class A oder 120 l Mehrbereichsschaummittel, 250 kg ABC Löschpulver, FW-EL, Fachberater THW"
     },
     {
       "nr": 30,
-      "kategorie": "Brand Chemie LKW",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "Brand Chemie LKW",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC B BIO / CHEMIE",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Ex-Warngerät,1 Wärmebildkamera, 1800 l Löschwasser, 4 Körperschutz Form 2 (Infektionsschutzanzug/Flüssigkeitsschutzanzug),4 Körperschutz Form 3 (CSA),Gasmesskoffer, 120 l Schaummittel alkoholbeständig oder 120 l Schaummittel Class A oder 120 l Mehrbereichsschaummittel, 250 kg ABC Löschpulver, FW-EL, Fachberater THW"
     },
     {
       "nr": 31,
-      "kategorie": "THL Atom Austritt im Gebäude",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "THL Atom Austritt im Gebäude",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL ATOM",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Wärmebildkamera,1800 l Löschwasser, 6 Körperschutz Form 2 (Kontaminationsschutzanzug), Sonderausrüstung A, 120 l Schaummittel alkoholbeständig oder 120 l Schaummittel Class A oder120 l Mehrbereichsschaummittel, 250 kg ABC-Löschpulver,2 Rettungssätze (hydraulisch),FW-EL, Fachberater THW"
     },
     {
       "nr": 32,
-      "kategorie": "THL Atom Austritt im Freien",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "THL Atom Austritt im Freien",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL ATOM",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Wärmebildkamera,1800 l Löschwasser, 6 Körperschutz Form 2 (Kontaminationsschutzanzug), Sonderausrüstung A, 120 l Schaummittel alkoholbeständig oder 120 l Schaummittel Class A oder120 l Mehrbereichsschaummittel, 250 kg ABC-Löschpulver,2 Rettungssätze (hydraulisch),FW-EL, Fachberater THW"
     },
     {
       "nr": 33,
-      "kategorie": "THL Atom PKW / LKW",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "THL Atom PKW / LKW",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL ATOM",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Wärmebildkamera,1800 l Löschwasser, 6 Körperschutz Form 2 (Kontaminationsschutzanzug), Sonderausrüstung A, 120 l Schaummittel alkoholbeständig oder 120 l Schaummittel Class A oder120 l Mehrbereichsschaummittel, 250 kg ABC-Löschpulver,2 Rettungssätze (hydraulisch),FW-EL, Fachberater THW"
     },
     {
       "nr": 34,
-      "kategorie": "THL VU Atom PKW / LKW",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "THL VU Atom PKW / LKW",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL ATOM",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Wärmebildkamera,1800 l Löschwasser, 6 Körperschutz Form 2 (Kontaminationsschutzanzug), Sonderausrüstung A, 120 l Schaummittel alkoholbeständig oder 120 l Schaummittel Class A oder120 l Mehrbereichsschaummittel, 250 kg ABC-Löschpulver,2 Rettungssätze (hydraulisch),FW-EL, Fachberater THW"
     },
     {
       "nr": 35,
-      "kategorie": "THL Bio Austritt im Freien",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "THL Bio Austritt im Freien",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL BIO / CHEMIE",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Ex-Warngerät,1 Wärmebildkamera, 1800 l Löschwasser, 4 Körperschutz Form 2 (Infektionsschutzanzug/Flüssigkeitsschutzanzug),4 Körperschutz Form 3 (CSA),Gasmesskoffer, 120 l Schaummittel alkoholbeständig oder 120 l Schaummittel Class A oder 120 l Mehrbereichsschaummittel, 250 kg ABC Löschpulver, 2 Rettungssätze(hydraulisch), FW-EL, Fachberater THW"
     },
     {
       "nr": 36,
-      "kategorie": "THL Bio Austritt im Gebäude",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "THL Bio Austritt im Gebäude",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL BIO / CHEMIE",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Ex-Warngerät,1 Wärmebildkamera, 1800 l Löschwasser, 4 Körperschutz Form 2 (Infektionsschutzanzug/Flüssigkeitsschutzanzug),4 Körperschutz Form 3 (CSA),Gasmesskoffer, 120 l Schaummittel alkoholbeständig oder 120 l Schaummittel Class A oder 120 l Mehrbereichsschaummittel, 250 kg ABC Löschpulver, 2 Rettungssätze(hydraulisch), FW-EL, Fachberater THW"
     },
     {
       "nr": 37,
-      "kategorie": "THL Bio PKW / LKW",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "THL Bio PKW / LKW",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL BIO / CHEMIE",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Ex-Warngerät,1 Wärmebildkamera, 1800 l Löschwasser, 4 Körperschutz Form 2 (Infektionsschutzanzug/Flüssigkeitsschutzanzug),4 Körperschutz Form 3 (CSA),Gasmesskoffer, 120 l Schaummittel alkoholbeständig oder 120 l Schaummittel Class A oder 120 l Mehrbereichsschaummittel, 250 kg ABC Löschpulver, 2 Rettungssätze(hydraulisch), FW-EL, Fachberater THW"
     },
     {
       "nr": 38,
-      "kategorie": "THL Chemie Austritt im Gebäude",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "THL Chemie Austritt im Gebäude",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL BIO / CHEMIE",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Ex-Warngerät,1 Wärmebildkamera, 1800 l Löschwasser, 4 Körperschutz Form 2 (Infektionsschutzanzug/Flüssigkeitsschutzanzug),4 Körperschutz Form 3 (CSA),Gasmesskoffer, 120 l Schaummittel alkoholbeständig oder 120 l Schaummittel Class A oder 120 l Mehrbereichsschaummittel, 250 kg ABC Löschpulver, 2 Rettungssätze(hydraulisch), FW-EL, Fachberater THW"
     },
     {
       "nr": 39,
-      "kategorie": "THL Chemie Austritt im Freien",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "THL Chemie Austritt im Freien",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL BIO / CHEMIE",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Ex-Warngerät,1 Wärmebildkamera, 1800 l Löschwasser, 4 Körperschutz Form 2 (Infektionsschutzanzug/Flüssigkeitsschutzanzug),4 Körperschutz Form 3 (CSA),Gasmesskoffer, 120 l Schaummittel alkoholbeständig oder 120 l Schaummittel Class A oder 120 l Mehrbereichsschaummittel, 250 kg ABC Löschpulver, 2 Rettungssätze(hydraulisch), FW-EL, Fachberater THW"
     },
     {
       "nr": 40,
-      "kategorie": "THL Chemie PKW / LKW",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "THL Chemie PKW / LKW",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL BIO / CHEMIE",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Ex-Warngerät,1 Wärmebildkamera, 1800 l Löschwasser, 4 Körperschutz Form 2 (Infektionsschutzanzug/Flüssigkeitsschutzanzug),4 Körperschutz Form 3 (CSA),Gasmesskoffer, 120 l Schaummittel alkoholbeständig oder 120 l Schaummittel Class A oder 120 l Mehrbereichsschaummittel, 250 kg ABC Löschpulver, 2 Rettungssätze(hydraulisch), FW-EL, Fachberater THW"
     },
     {
       "nr": 41,
-      "kategorie": "THL VU Bio PKW / LKW",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "THL VU Bio PKW / LKW",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL BIO / CHEMIE",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Ex-Warngerät,1 Wärmebildkamera, 1800 l Löschwasser, 4 Körperschutz Form 2 (Infektionsschutzanzug/Flüssigkeitsschutzanzug),4 Körperschutz Form 3 (CSA),Gasmesskoffer, 120 l Schaummittel alkoholbeständig oder 120 l Schaummittel Class A oder 120 l Mehrbereichsschaummittel, 250 kg ABC Löschpulver, 2 Rettungssätze(hydraulisch), FW-EL, Fachberater THW"
     },
     {
       "nr": 42,
-      "kategorie": "THL VU Chemie PKW / LKW",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "THL VU Chemie PKW / LKW",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL BIO / CHEMIE",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Ex-Warngerät,1 Wärmebildkamera, 1800 l Löschwasser, 4 Körperschutz Form 2 (Infektionsschutzanzug/Flüssigkeitsschutzanzug),4 Körperschutz Form 3 (CSA),Gasmesskoffer, 120 l Schaummittel alkoholbeständig oder 120 l Schaummittel Class A oder 120 l Mehrbereichsschaummittel, 250 kg ABC Löschpulver, 2 Rettungssätze(hydraulisch), FW-EL, Fachberater THW"
     },
     {
       "nr": 43,
-      "kategorie": "THL VU Chemie Zug",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "THL VU Chemie Zug",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL BIO / CHEMIE",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Ex-Warngerät,1 Wärmebildkamera, 1800 l Löschwasser, 4 Körperschutz Form 2 (Infektionsschutzanzug/Flüssigkeitsschutzanzug),4 Körperschutz Form 3 (CSA),Gasmesskoffer, 120 l Schaummittel alkoholbeständig oder 120 l Schaummittel Class A oder 120 l Mehrbereichsschaummittel, 250 kg ABC Löschpulver, 2 Rettungssätze(hydraulisch), FW-EL, Fachberater THW"
     },
     {
       "nr": 44,
-      "kategorie": "Explosion / Verpuffung",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "Explosion / Verpuffung",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC EXPLOSION",
       "anmerkung": "",
       "material": "2 Gruppen; 8 PA, 1 Ex-Warngerät,1 Wärmebildkamera, 1800 l Löschwasser, 4 Körperschutz Form 2 (Infektionsschutzanzug/Flüssigkeitsschutzanzug),4 Körperschutz Form 3 (CSA),Gasmesskoffer, 120 l Schaummittel alkoholbeständig oder 120 l Schaummittel Class A oder 120 l Mehrbereichsschaummittel, 250 kg ABC Löschpulver, 2 Rettungssätze(hydraulisch), FW-EL, Fachberater THW"
     },
     {
       "nr": 45,
-      "kategorie": "Öl auf fließendem Gewässer",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "Öl auf fließendem Gewässer",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC ÖL WASSER",
       "anmerkung": "",
       "material": "1 Trupp; "
     },
     {
       "nr": 46,
-      "kategorie": "Öl auf stehendem Gewässer",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "Öl auf stehendem Gewässer",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC ÖL WASSER",
       "anmerkung": "",
       "material": "1 Trupp; "
     },
     {
       "nr": 47,
-      "kategorie": "undichter Heizöltank",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "undichter Heizöltank",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC ÖL LAND",
       "anmerkung": "",
       "material": "1 Trupp; "
     },
     {
       "nr": 48,
-      "kategorie": "ausgedehnter Ölschaden",
-      "schlagwort": "Gefahrstoff",
+      "schlagwort": "ausgedehnter Ölschaden",
+      "kategorie": "Gefahrstoff",
       "stichwort": "ABC ÖL LAND",
       "anmerkung": "",
       "material": "1 Trupp; "
     },
     {
       "nr": 49,
-      "kategorie": "Meldeanlage Ammoniak",
-      "schlagwort": "GMA",
+      "schlagwort": "Meldeanlage Ammoniak",
+      "kategorie": "GMA",
       "stichwort": "ABC GEFAHRSTOFFMELDEANLAGE",
       "anmerkung": "",
       "material": "1 Staffel; 4 PA, 500 l Löschwasser"
     },
     {
       "nr": 50,
-      "kategorie": "Meldeanlage Chlor",
-      "schlagwort": "GMA",
+      "schlagwort": "Meldeanlage Chlor",
+      "kategorie": "GMA",
       "stichwort": "ABC GEFAHRSTOFFMELDEANLAGE",
       "anmerkung": "",
       "material": "1 Staffel; 4 PA, 500 l Löschwasser"
     },
     {
       "nr": 51,
-      "kategorie": "Meldeanlage Stickstoff",
-      "schlagwort": "GMA",
+      "schlagwort": "Meldeanlage Stickstoff",
+      "kategorie": "GMA",
       "stichwort": "ABC GEFAHRSTOFFMELDEANLAGE",
       "anmerkung": "",
       "material": "1 Staffel; 4 PA, 500 l Löschwasser"
     },
     {
       "nr": 52,
-      "kategorie": "Meldeanlage CO2",
-      "schlagwort": "GMA",
+      "schlagwort": "Meldeanlage CO2",
+      "kategorie": "GMA",
       "stichwort": "ABC GEFAHRSTOFFMELDEANLAGE",
       "anmerkung": "",
       "material": "1 Staffel; 4 PA, 500 l Löschwasser"
     },
     {
       "nr": 53,
-      "kategorie": "Meldeanlage Butan",
-      "schlagwort": "GMA",
+      "schlagwort": "Meldeanlage Butan",
+      "kategorie": "GMA",
       "stichwort": "ABC GEFAHRSTOFFMELDEANLAGE",
       "anmerkung": "",
       "material": "1 Staffel; 4 PA, 500 l Löschwasser"
     },
     {
       "nr": 54,
-      "kategorie": "Meldeanlage Propan",
-      "schlagwort": "GMA",
+      "schlagwort": "Meldeanlage Propan",
+      "kategorie": "GMA",
       "stichwort": "ABC GEFAHRSTOFFMELDEANLAGE",
       "anmerkung": "",
       "material": "1 Staffel; 4 PA, 500 l Löschwasser"
     },
     {
       "nr": 55,
-      "kategorie": "Meldeanlage unbekannt",
-      "schlagwort": "GMA",
+      "schlagwort": "Meldeanlage unbekannt",
+      "kategorie": "GMA",
       "stichwort": "ABC GEFAHRSTOFFMELDEANLAGE",
       "anmerkung": "",
       "material": "1 Staffel; 4 PA, 500 l Löschwasser"
     },
     {
       "nr": 1,
-      "kategorie": "Bewusstsein",
       "schlagwort": "Bewusstsein",
+      "kategorie": "Bewusstsein",
       "stichwort": "RD 1",
       "anmerkung": "",
       "material": "; 1 Rettungswagen"
     },
     {
       "nr": 2,
-      "kategorie": "vitale Bedrohung",
-      "schlagwort": "Bewusstsein",
+      "schlagwort": "vitale Bedrohung",
+      "kategorie": "Bewusstsein",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 3,
-      "kategorie": "Nachforderung NA",
-      "schlagwort": "Bewusstsein",
+      "schlagwort": "Nachforderung NA",
+      "kategorie": "Bewusstsein",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 4,
-      "kategorie": "Atmung",
       "schlagwort": "Atmung",
+      "kategorie": "Atmung",
       "stichwort": "RD 1",
       "anmerkung": "",
       "material": "; 1 Rettungswagen"
     },
     {
       "nr": 5,
-      "kategorie": "vitale Bedrohung",
-      "schlagwort": "Atmung",
+      "schlagwort": "vitale Bedrohung",
+      "kategorie": "Atmung",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 6,
-      "kategorie": "Nachforderung NA",
-      "schlagwort": "Atmung",
+      "schlagwort": "Nachforderung NA",
+      "kategorie": "Atmung",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 7,
-      "kategorie": "Herz/Kreislauf",
       "schlagwort": "Herz/Kreislauf",
+      "kategorie": "Herz/Kreislauf",
       "stichwort": "RD 1",
       "anmerkung": "",
       "material": "; 1 Rettungswagen"
     },
     {
       "nr": 8,
-      "kategorie": "vitale Bedrohung",
-      "schlagwort": "Herz/Kreislauf",
+      "schlagwort": "vitale Bedrohung",
+      "kategorie": "Herz/Kreislauf",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 9,
-      "kategorie": "Kreislaufstillstand/Reanimation",
-      "schlagwort": "Herz/Kreislauf",
+      "schlagwort": "Kreislaufstillstand/Reanimation",
+      "kategorie": "Herz/Kreislauf",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 10,
-      "kategorie": "Nachforderung NA",
-      "schlagwort": "Herz/Kreislauf",
+      "schlagwort": "Nachforderung NA",
+      "kategorie": "Herz/Kreislauf",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 11,
-      "kategorie": "Schmerzen",
-      "schlagwort": "",
+      "schlagwort": "Schmerzen",
+      "kategorie": "",
       "stichwort": "RD 1",
       "anmerkung": "",
       "material": "; 1 Rettungswagen"
     },
     {
       "nr": 12,
-      "kategorie": "Schmerzen - stark",
-      "schlagwort": "",
+      "schlagwort": "Schmerzen - stark",
+      "kategorie": "",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 13,
-      "kategorie": "Schmerzen - Nachforderung NA",
-      "schlagwort": "",
+      "schlagwort": "Schmerzen - Nachforderung NA",
+      "kategorie": "",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 14,
-      "kategorie": "Neuro",
-      "schlagwort": "Neuro/Psych",
+      "schlagwort": "Neuro",
+      "kategorie": "Neuro/Psych",
       "stichwort": "RD 1",
       "anmerkung": "",
       "material": "; 1 Rettungswagen"
     },
     {
       "nr": 15,
-      "kategorie": "Neuro - vitale Bedrohung",
-      "schlagwort": "Neuro/Psych",
+      "schlagwort": "Neuro - vitale Bedrohung",
+      "kategorie": "Neuro/Psych",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 16,
-      "kategorie": "Neuro - Nachforderung NA",
-      "schlagwort": "Neuro/Psych",
+      "schlagwort": "Neuro - Nachforderung NA",
+      "kategorie": "Neuro/Psych",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 17,
-      "kategorie": "Psych",
-      "schlagwort": "Neuro/Psych",
+      "schlagwort": "Psych",
+      "kategorie": "Neuro/Psych",
       "stichwort": "RD 1",
       "anmerkung": "",
       "material": "; 1 Rettungswagen"
     },
     {
       "nr": 18,
-      "kategorie": "Psych - vitale Bedrohung",
-      "schlagwort": "Neuro/Psych",
+      "schlagwort": "Psych - vitale Bedrohung",
+      "kategorie": "Neuro/Psych",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 19,
-      "kategorie": "Psych - vitale Bedrohung - mit Polizei",
-      "schlagwort": "Neuro/Psych",
+      "schlagwort": "Psych - vitale Bedrohung - mit Polizei",
+      "kategorie": "Neuro/Psych",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 20,
-      "kategorie": "Psych - Nachforderung NA",
-      "schlagwort": "Neuro/Psych",
+      "schlagwort": "Psych - Nachforderung NA",
+      "kategorie": "Neuro/Psych",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 21,
-      "kategorie": "Trauma",
       "schlagwort": "Trauma",
+      "kategorie": "Trauma",
       "stichwort": "RD 1",
       "anmerkung": "",
       "material": "; 1 Rettungswagen"
     },
     {
       "nr": 22,
-      "kategorie": "Verkehrsunfall (VU) nur RD",
-      "schlagwort": "Trauma",
+      "schlagwort": "Verkehrsunfall (VU) nur RD",
+      "kategorie": "Trauma",
       "stichwort": "RD 1",
       "anmerkung": "",
       "material": "; 1 Rettungswagen"
     },
     {
       "nr": 23,
-      "kategorie": "vitale Bedrohung - Person verletzt schwer",
-      "schlagwort": "Trauma",
+      "schlagwort": "vitale Bedrohung - Person verletzt schwer",
+      "kategorie": "Trauma",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 24,
-      "kategorie": "vitale Bedrohung - Verkehrsunfall (VU)nur RD",
-      "schlagwort": "Trauma",
+      "schlagwort": "vitale Bedrohung - Verkehrsunfall (VU)nur RD",
+      "kategorie": "Trauma",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 25,
-      "kategorie": "vitale Bedrohung - Arbeitsunfall",
-      "schlagwort": "Trauma",
+      "schlagwort": "vitale Bedrohung - Arbeitsunfall",
+      "kategorie": "Trauma",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 26,
-      "kategorie": "vitale Bedrohung - Starke Blutung",
-      "schlagwort": "Trauma",
+      "schlagwort": "vitale Bedrohung - Starke Blutung",
+      "kategorie": "Trauma",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 27,
-      "kategorie": "vitale Bedrohung - Unfall (Schule, Kindergarten,Kita)",
-      "schlagwort": "Trauma",
+      "schlagwort": "vitale Bedrohung - Unfall (Schule, Kindergarten,Kita)",
+      "kategorie": "Trauma",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 28,
-      "kategorie": "Nachforderung NA",
-      "schlagwort": "Trauma",
+      "schlagwort": "Nachforderung NA",
+      "kategorie": "Trauma",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 29,
-      "kategorie": "(bis 12 Jahre) Erkrankt",
-      "schlagwort": "Kind",
+      "schlagwort": "(bis 12 Jahre) Erkrankt",
+      "kategorie": "Kind",
       "stichwort": "RD 1",
       "anmerkung": "",
       "material": "; 1 Rettungswagen"
     },
     {
       "nr": 30,
-      "kategorie": "(bis 12 Jahre) Trauma",
-      "schlagwort": "Kind",
+      "schlagwort": "(bis 12 Jahre) Trauma",
+      "kategorie": "Kind",
       "stichwort": "RD 1",
       "anmerkung": "",
       "material": "; 1 Rettungswagen"
     },
     {
       "nr": 31,
-      "kategorie": "Inkubator - Intensiv",
-      "schlagwort": "Kind",
+      "schlagwort": "Inkubator - Intensiv",
+      "kategorie": "Kind",
       "stichwort": "RD 1",
       "anmerkung": "",
       "material": "; 1 Rettungswagen"
     },
     {
       "nr": 32,
-      "kategorie": "Neugeborenen-Holdienst (NHD)",
-      "schlagwort": "Kind",
+      "schlagwort": "Neugeborenen-Holdienst (NHD)",
+      "kategorie": "Kind",
       "stichwort": "RD 1",
       "anmerkung": "",
       "material": "; 1 Rettungswagen"
     },
     {
       "nr": 33,
-      "kategorie": "(bis 12 Jahre) Erkrankt - vitale Bedrohung",
-      "schlagwort": "Kind",
+      "schlagwort": "(bis 12 Jahre) Erkrankt - vitale Bedrohung",
+      "kategorie": "Kind",
       "stichwort": "RD 2-KIND",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 34,
-      "kategorie": "(bis 12 Jahre) Trauma - vitale Bedrohung",
-      "schlagwort": "Kind",
+      "schlagwort": "(bis 12 Jahre) Trauma - vitale Bedrohung",
+      "kategorie": "Kind",
       "stichwort": "RD 2-KIND",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 35,
-      "kategorie": "(bis 12 Jahre) Kreislaufstillstand/Reanimation",
-      "schlagwort": "Kind",
+      "schlagwort": "(bis 12 Jahre) Kreislaufstillstand/Reanimation",
+      "kategorie": "Kind",
       "stichwort": "RD 2-KIND",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 36,
-      "kategorie": "(bis 1 Jahr) Kreislaufstillstand/Reanimation",
-      "schlagwort": "Kind",
+      "schlagwort": "(bis 1 Jahr) Kreislaufstillstand/Reanimation",
+      "kategorie": "Kind",
       "stichwort": "RD 2-KIND",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 37,
-      "kategorie": "(bis 12 Jahre) Nachforderung NA",
-      "schlagwort": "Kind",
+      "schlagwort": "(bis 12 Jahre) Nachforderung NA",
+      "kategorie": "Kind",
       "stichwort": "RD 2-KIND",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 38,
-      "kategorie": "Erkundung/Vermisstensuche",
-      "schlagwort": "Bergrettung",
+      "schlagwort": "Erkundung/Vermisstensuche",
+      "kategorie": "Bergrettung",
       "stichwort": "RD Bergrettung",
       "anmerkung": "",
       "material": "; EL BWB"
     },
     {
       "nr": 39,
-      "kategorie": "Rettungsdiensteinsatz in unwegsamen Gelände",
-      "schlagwort": "Bergrettung",
+      "schlagwort": "Rettungsdiensteinsatz in unwegsamen Gelände",
+      "kategorie": "Bergrettung",
       "stichwort": "RD Bergrettung",
       "anmerkung": "",
       "material": "; EL BWB"
     },
     {
       "nr": 40,
-      "kategorie": "Höhlenunfall",
-      "schlagwort": "Bergrettung",
+      "schlagwort": "Höhlenunfall",
+      "kategorie": "Bergrettung",
       "stichwort": "RD Bergrettung",
       "anmerkung": "",
       "material": "; EL BWB"
     },
     {
       "nr": 41,
-      "kategorie": "Bergrettung - Lawinenunfall",
-      "schlagwort": "Bergrettung",
+      "schlagwort": "Bergrettung - Lawinenunfall",
+      "kategorie": "Bergrettung",
       "stichwort": "RD Bergrettung",
       "anmerkung": "",
       "material": "; EL BWB"
     },
     {
       "nr": 42,
-      "kategorie": "Bergrettung - Canyonunfall",
-      "schlagwort": "Bergrettung",
+      "schlagwort": "Bergrettung - Canyonunfall",
+      "kategorie": "Bergrettung",
       "stichwort": "RD Bergrettung",
       "anmerkung": "",
       "material": "; EL BWB"
     },
     {
       "nr": 43,
-      "kategorie": "Bergrettung - Skiunfall",
-      "schlagwort": "Bergrettung",
+      "schlagwort": "Bergrettung - Skiunfall",
+      "kategorie": "Bergrettung",
       "stichwort": "RD Bergrettung",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 44,
-      "kategorie": "Seilbahnevakuierung",
-      "schlagwort": "Bergrettung",
+      "schlagwort": "Seilbahnevakuierung",
+      "kategorie": "Bergrettung",
       "stichwort": "RD Bergrettung",
       "anmerkung": "",
       "material": "; EL BWB"
     },
     {
       "nr": 45,
-      "kategorie": "Gleitschirm/Drachen in Baum",
-      "schlagwort": "Bergrettung",
+      "schlagwort": "Gleitschirm/Drachen in Baum",
+      "kategorie": "Bergrettung",
       "stichwort": "RD Bergrettung",
       "anmerkung": "",
       "material": "; EL BWB"
     },
     {
       "nr": 46,
-      "kategorie": "fachliche Unterstützung für Andere",
-      "schlagwort": "Bergrettung",
+      "schlagwort": "fachliche Unterstützung für Andere",
+      "kategorie": "Bergrettung",
       "stichwort": "RD Bergrettung",
       "anmerkung": "",
       "material": "; EL BWB"
     },
     {
       "nr": 47,
-      "kategorie": "Hilfeleistung",
-      "schlagwort": "Wasserrettung",
+      "schlagwort": "Hilfeleistung",
+      "kategorie": "Wasserrettung",
       "stichwort": "RD WASSERNOT 0",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 48,
-      "kategorie": "gekentertes Boot",
-      "schlagwort": "Wasserrettung",
+      "schlagwort": "gekentertes Boot",
+      "kategorie": "Wasserrettung",
       "stichwort": "RD WASSERNOT 1",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 49,
-      "kategorie": "mehrere gekenterte Boote",
-      "schlagwort": "Wasserrettung",
+      "schlagwort": "mehrere gekenterte Boote",
+      "kategorie": "Wasserrettung",
       "stichwort": "RD WASSERNOT 2",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 50,
-      "kategorie": "Vermisstensuche",
-      "schlagwort": "Wasserrettung",
+      "schlagwort": "Vermisstensuche",
+      "kategorie": "Wasserrettung",
       "stichwort": "RD WASSERNOT 2",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 51,
-      "kategorie": "1 Person in Wassernot",
-      "schlagwort": "Wasserrettung",
+      "schlagwort": "1 Person in Wassernot",
+      "kategorie": "Wasserrettung",
       "stichwort": "RD WASSERNOT 3",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 52,
-      "kategorie": "2 bis 3 Personen in Wassernot",
-      "schlagwort": "Wasserrettung",
+      "schlagwort": "2 bis 3 Personen in Wassernot",
+      "kategorie": "Wasserrettung",
       "stichwort": "RD WASSERNOT 4",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 53,
-      "kategorie": "ab 4 Personen in Wassernot",
-      "schlagwort": "Wasserrettung",
+      "schlagwort": "ab 4 Personen in Wassernot",
+      "kategorie": "Wasserrettung",
       "stichwort": "RD WASSERNOT 5",
       "anmerkung": "",
       "material": "; Fachberater THW"
     },
     {
       "nr": 54,
-      "kategorie": "Wasserrettung - Tauchunfall",
-      "schlagwort": "Wasserrettung",
+      "schlagwort": "Wasserrettung - Tauchunfall",
+      "kategorie": "Wasserrettung",
       "stichwort": "RD TAUCHUNFALL",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 55,
-      "kategorie": "auf dem Eis verletzt/erkrankt",
-      "schlagwort": "Wasserrettung",
+      "schlagwort": "auf dem Eis verletzt/erkrankt",
+      "kategorie": "Wasserrettung",
       "stichwort": "RD EISUNFALL 1",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 56,
-      "kategorie": "1 bis 2 Person(en) im Eiseingebrochen",
-      "schlagwort": "Wasserrettung",
+      "schlagwort": "1 bis 2 Person(en) im Eiseingebrochen",
+      "kategorie": "Wasserrettung",
       "stichwort": "RD EISUNFALL 2",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 57,
-      "kategorie": "ab 3 Personen im Eiseingebrochen",
-      "schlagwort": "Wasserrettung",
+      "schlagwort": "ab 3 Personen im Eiseingebrochen",
+      "kategorie": "Wasserrettung",
       "stichwort": "RD EISUNFALL 3",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 58,
-      "kategorie": "KTP - Transport zum Krankenhaus",
-      "schlagwort": "KTP",
+      "schlagwort": "KTP - Transport zum Krankenhaus",
+      "kategorie": "KTP",
       "stichwort": "RD KTP",
       "anmerkung": "",
       "material": "; 1 Krankentransportwagen"
     },
     {
       "nr": 59,
-      "kategorie": "KTP - Verlegung",
-      "schlagwort": "KTP",
+      "schlagwort": "KTP - Verlegung",
+      "kategorie": "KTP",
       "stichwort": "RD KTP",
       "anmerkung": "",
       "material": "; 1 Krankentransportwagen"
     },
     {
       "nr": 60,
-      "kategorie": "KTP - Heimfahrt",
-      "schlagwort": "KTP",
+      "schlagwort": "KTP - Heimfahrt",
+      "kategorie": "KTP",
       "stichwort": "RD KTP",
       "anmerkung": "",
       "material": "; 1 Krankentransportwagen"
     },
     {
       "nr": 61,
-      "kategorie": "KTP - Ambulanzfahrt",
-      "schlagwort": "KTP",
+      "schlagwort": "KTP - Ambulanzfahrt",
+      "kategorie": "KTP",
       "stichwort": "RD KTP",
       "anmerkung": "",
       "material": "; 1 Krankentransportwagen"
     },
     {
       "nr": 62,
-      "kategorie": "KTP - Unterbringung",
-      "schlagwort": "KTP",
+      "schlagwort": "KTP - Unterbringung",
+      "kategorie": "KTP",
       "stichwort": "RD KTP",
       "anmerkung": "",
       "material": "; 1 Krankentransportwagen"
     },
     {
       "nr": 63,
-      "kategorie": "KTP - Inkubator",
-      "schlagwort": "KTP",
+      "schlagwort": "KTP - Inkubator",
+      "kategorie": "KTP",
       "stichwort": "RD KTP",
       "anmerkung": "",
       "material": "; 1 Krankentransportwagen"
     },
     {
       "nr": 64,
-      "kategorie": "KTP - Dialyse",
-      "schlagwort": "KTP",
+      "schlagwort": "KTP - Dialyse",
+      "kategorie": "KTP",
       "stichwort": "RD KTP",
       "anmerkung": "",
       "material": "; 1 Krankentransportwagen"
     },
     {
       "nr": 65,
-      "kategorie": "KTP - nicht disponibel (Prio 2)",
-      "schlagwort": "KTP",
+      "schlagwort": "KTP - nicht disponibel (Prio 2)",
+      "kategorie": "KTP",
       "stichwort": "RD KTP",
       "anmerkung": "",
       "material": "; 1 Krankentransportwagen"
     },
     {
       "nr": 66,
-      "kategorie": "KTP - Wohnungswechsel",
-      "schlagwort": "KTP",
+      "schlagwort": "KTP - Wohnungswechsel",
+      "kategorie": "KTP",
       "stichwort": "RD KTP",
       "anmerkung": "",
       "material": "; 1 Krankentransportwagen"
     },
     {
       "nr": 67,
-      "kategorie": "KTP - sonstiger Transport",
-      "schlagwort": "KTP",
+      "schlagwort": "KTP - sonstiger Transport",
+      "kategorie": "KTP",
       "stichwort": "RD KTP",
       "anmerkung": "",
       "material": "; 1 Krankentransportwagen"
     },
     {
       "nr": 68,
-      "kategorie": "KTP - Übernahme Landeplatz",
-      "schlagwort": "KTP",
+      "schlagwort": "KTP - Übernahme Landeplatz",
+      "kategorie": "KTP",
       "stichwort": "RD KTP/RTW",
       "anmerkung": "",
       "material": "; 1 Rettungswagen"
     },
     {
       "nr": 69,
-      "kategorie": "KTP - mit RTW",
-      "schlagwort": "KTP",
+      "schlagwort": "KTP - mit RTW",
+      "kategorie": "KTP",
       "stichwort": "RD KTP/RTW",
       "anmerkung": "",
       "material": "; 1 Rettungswagen"
     },
     {
       "nr": 70,
-      "kategorie": "KTP - Schwergewichtiger Patient",
-      "schlagwort": "KTP",
+      "schlagwort": "KTP - Schwergewichtiger Patient",
+      "kategorie": "KTP",
       "stichwort": "RD KTP/RTW",
       "anmerkung": "",
       "material": "; 1 Rettungswagen"
     },
     {
       "nr": 71,
-      "kategorie": "Infekt Gr. 4/E",
-      "schlagwort": "KTP",
+      "schlagwort": "Infekt Gr. 4/E",
+      "kategorie": "KTP",
       "stichwort": "RD INFEKT GR4 / E",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 72,
-      "kategorie": "Verlegung - nicht disponibel mit KTW (Prio 1)",
-      "schlagwort": "Verlegung",
+      "schlagwort": "Verlegung - nicht disponibel mit KTW (Prio 1)",
+      "kategorie": "Verlegung",
       "stichwort": "RD KTP",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 73,
-      "kategorie": "Verlegung - Notfalltransport mit RTW",
-      "schlagwort": "Verlegung",
+      "schlagwort": "Verlegung - Notfalltransport mit RTW",
+      "kategorie": "Verlegung",
       "stichwort": "RD 1",
       "anmerkung": "",
       "material": "; 1 Rettungswagen"
     },
     {
       "nr": 74,
-      "kategorie": "Verlegung - Notfalltransport mit NA",
-      "schlagwort": "Verlegung",
+      "schlagwort": "Verlegung - Notfalltransport mit NA",
+      "kategorie": "Verlegung",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 75,
-      "kategorie": "Verlegung - VEF",
-      "schlagwort": "Verlegung",
+      "schlagwort": "Verlegung - VEF",
+      "kategorie": "Verlegung",
       "stichwort": "RD VEF",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 76,
-      "kategorie": "Verlegung - VEF und RTW",
-      "schlagwort": "Verlegung",
+      "schlagwort": "Verlegung - VEF und RTW",
+      "kategorie": "Verlegung",
       "stichwort": "RD VEF",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 77,
-      "kategorie": "Verlegung - ITW",
-      "schlagwort": "Verlegung",
+      "schlagwort": "Verlegung - ITW",
+      "kategorie": "Verlegung",
       "stichwort": "RD ITW",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 78,
-      "kategorie": "Verlegung - ITH",
-      "schlagwort": "Verlegung",
+      "schlagwort": "Verlegung - ITH",
+      "kategorie": "Verlegung",
       "stichwort": "RD ITH",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 79,
-      "kategorie": "Sonstiges Ereignis/Zustand",
-      "schlagwort": "Sonstige",
+      "schlagwort": "Sonstiges Ereignis/Zustand",
+      "kategorie": "Sonstige",
       "stichwort": "RD 1",
       "anmerkung": "",
       "material": "; 1 Rettungswagen"
     },
     {
       "nr": 80,
-      "kategorie": "Sonstiges Ereignis/Zustand - Intoxikation",
-      "schlagwort": "Sonstige",
+      "schlagwort": "Sonstiges Ereignis/Zustand - Intoxikation",
+      "kategorie": "Sonstige",
       "stichwort": "RD 1",
       "anmerkung": "",
       "material": "; 1 Rettungswagen"
     },
     {
       "nr": 81,
-      "kategorie": "Sonstiges Ereignis/Zustand - Geburt/Entbindung",
-      "schlagwort": "Sonstige",
+      "schlagwort": "Sonstiges Ereignis/Zustand - Geburt/Entbindung",
+      "kategorie": "Sonstige",
       "stichwort": "RD 1",
       "anmerkung": "",
       "material": "; 1 Rettungswagen"
     },
     {
       "nr": 82,
-      "kategorie": "Sonstiges Ereignis/Zustand - vitale Bedrohung",
-      "schlagwort": "Sonstige",
+      "schlagwort": "Sonstiges Ereignis/Zustand - vitale Bedrohung",
+      "kategorie": "Sonstige",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 83,
-      "kategorie": "Sonstiges Ereignis/Zustand - vitale Bedrohung - Intoxikation",
-      "schlagwort": "Sonstige",
+      "schlagwort": "Sonstiges Ereignis/Zustand - vitale Bedrohung - Intoxikation",
+      "kategorie": "Sonstige",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 84,
-      "kategorie": "Sonstiges Ereignis/Zustand - Geburt/Entbindung akut",
-      "schlagwort": "Sonstige",
+      "schlagwort": "Sonstiges Ereignis/Zustand - Geburt/Entbindung akut",
+      "kategorie": "Sonstige",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 85,
-      "kategorie": "Sonstiges Ereignis/Zustand - vitale Bedrohung - Nachforderung NA",
-      "schlagwort": "Sonstige",
+      "schlagwort": "Sonstiges Ereignis/Zustand - vitale Bedrohung - Nachforderung NA",
+      "kategorie": "Sonstige",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 86,
-      "kategorie": "Ärger",
       "schlagwort": "Ärger",
+      "kategorie": "Ärger",
       "stichwort": "RD 1",
       "anmerkung": "",
       "material": "; 1 Rettungswagen"
     },
     {
       "nr": 87,
-      "kategorie": "Ärger - vitale Bedrohung",
-      "schlagwort": "Ärger",
+      "schlagwort": "Ärger - vitale Bedrohung",
+      "kategorie": "Ärger",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 88,
-      "kategorie": "Ärger - Geiselnahme",
-      "schlagwort": "Ärger",
+      "schlagwort": "Ärger - Geiselnahme",
+      "kategorie": "Ärger",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 89,
-      "kategorie": "Ärger - Amok",
-      "schlagwort": "Ärger",
+      "schlagwort": "Ärger - Amok",
+      "kategorie": "Ärger",
       "stichwort": "RD AMOK RD",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 90,
-      "kategorie": "Ärger - Schuss, Hieb- und Stichverletzung(en)",
-      "schlagwort": "Ärger",
+      "schlagwort": "Ärger - Schuss, Hieb- und Stichverletzung(en)",
+      "kategorie": "Ärger",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 91,
-      "kategorie": "Ärger - vitale Bedrohung - Nachforderung NA",
-      "schlagwort": "Ärger",
+      "schlagwort": "Ärger - vitale Bedrohung - Nachforderung NA",
+      "kategorie": "Ärger",
       "stichwort": "RD 2",
       "anmerkung": "",
       "material": "; 1 Rettungswagen,1 Notarzt"
     },
     {
       "nr": 92,
-      "kategorie": "Hausnotruf aktiver Alarm",
-      "schlagwort": "Sonstige",
+      "schlagwort": "Hausnotruf aktiver Alarm",
+      "kategorie": "Sonstige",
       "stichwort": "RD 1",
       "anmerkung": "",
       "material": "; 1 Rettungswagen"
     },
     {
       "nr": 93,
-      "kategorie": "2 oder 3 verletzte/erkrankte Personen",
-      "schlagwort": "Sonstige",
+      "schlagwort": "2 oder 3 verletzte/erkrankte Personen",
+      "kategorie": "Sonstige",
       "stichwort": "RD 3",
       "anmerkung": "",
       "material": "; Mind. 2 Rettungswagen, mind. 1 Notarzt"
     },
     {
       "nr": 94,
-      "kategorie": "4 oder 5 verletzte/erkrankte Personen",
-      "schlagwort": "Sonstige",
+      "schlagwort": "4 oder 5 verletzte/erkrankte Personen",
+      "kategorie": "Sonstige",
       "stichwort": "RD 4",
       "anmerkung": "",
       "material": "; Mind. 4Rettungswagen,mind. 1 Notarzt,EinsatzleitungRettungsdienst"
     },
     {
       "nr": 95,
-      "kategorie": "6 bis 9 verletzte/erkrankte Personen",
-      "schlagwort": "Sonstige",
+      "schlagwort": "6 bis 9 verletzte/erkrankte Personen",
+      "kategorie": "Sonstige",
       "stichwort": "RD 5",
       "anmerkung": "",
       "material": "; Mind. 5Rettungswagen,mind. 3 Notärzte,EinsatzleitungRettungsdienst"
     },
     {
       "nr": 96,
-      "kategorie": "10 bis 15 verletzte/erkrankte Personen",
-      "schlagwort": "Sonstige",
+      "schlagwort": "10 bis 15 verletzte/erkrankte Personen",
+      "kategorie": "Sonstige",
       "stichwort": "RD MANV10 - 15",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 97,
-      "kategorie": "16 bis 25 verletzte/erkrankte Personen",
-      "schlagwort": "Sonstige",
+      "schlagwort": "16 bis 25 verletzte/erkrankte Personen",
+      "kategorie": "Sonstige",
       "stichwort": "RD MANV16 - 25",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 98,
-      "kategorie": "26 bis 50 verletzte/erkrankte Personen",
-      "schlagwort": "Sonstige",
+      "schlagwort": "26 bis 50 verletzte/erkrankte Personen",
+      "kategorie": "Sonstige",
       "stichwort": "RD MANV26 - 50",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 99,
-      "kategorie": "51 bis 100 verletzte/erkrankte Personen",
-      "schlagwort": "Sonstige",
+      "schlagwort": "51 bis 100 verletzte/erkrankte Personen",
+      "kategorie": "Sonstige",
       "stichwort": "RD MANV51 - 100",
       "anmerkung": "",
       "material": "; Fachberater THW"
     },
     {
       "nr": 100,
-      "kategorie": "mehr als 100 verletzte/erkrankte Personen",
-      "schlagwort": "Sonstige",
+      "schlagwort": "mehr als 100 verletzte/erkrankte Personen",
+      "kategorie": "Sonstige",
       "stichwort": "RD MANV ab 100",
       "anmerkung": "",
       "material": "; Fachberater THW"
     },
     {
       "nr": 101,
-      "kategorie": "Bereitstellung Rettungsmittel",
-      "schlagwort": "Sonstige",
+      "schlagwort": "Bereitstellung Rettungsmittel",
+      "kategorie": "Sonstige",
       "stichwort": "RD ABSICHERUNG",
       "anmerkung": "",
       "material": "; für konkretes Ereignis, z. B. SEK-Zugriff"
     },
     {
       "nr": 102,
-      "kategorie": "Dienstfahrt",
-      "schlagwort": "Sonstige",
+      "schlagwort": "Dienstfahrt",
+      "kategorie": "Sonstige",
       "stichwort": "RD ABSICHERUNG",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 103,
-      "kategorie": "Werkstattfahrt",
-      "schlagwort": "Sonstige",
+      "schlagwort": "Werkstattfahrt",
+      "kategorie": "Sonstige",
       "stichwort": "RD SONSTIGE",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 104,
-      "kategorie": "Gebietsabsicherung",
-      "schlagwort": "Sonstige",
+      "schlagwort": "Gebietsabsicherung",
+      "kategorie": "Sonstige",
       "stichwort": "RD SONSTIGE",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 105,
-      "kategorie": "Betreuung von Personen Anzahl kleiner 50",
-      "schlagwort": "Sonstige",
+      "schlagwort": "Betreuung von Personen Anzahl kleiner 50",
+      "kategorie": "Sonstige",
       "stichwort": "RD BETREUUNG",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 106,
-      "kategorie": "Betreuung von Personen Anzahl größer 50",
-      "schlagwort": "Sonstige",
+      "schlagwort": "Betreuung von Personen Anzahl größer 50",
+      "kategorie": "Sonstige",
       "stichwort": "RD BETREUUNG",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 107,
-      "kategorie": "Hilfeleistung - nicht zeitkritisch",
-      "schlagwort": "Sonstige",
+      "schlagwort": "Hilfeleistung - nicht zeitkritisch",
+      "kategorie": "Sonstige",
       "stichwort": "RD HILFE/SONSTIGE",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 108,
-      "kategorie": "Lotsenfahrt durch RD-Fahrzeuge",
-      "schlagwort": "Sonstige",
+      "schlagwort": "Lotsenfahrt durch RD-Fahrzeuge",
+      "kategorie": "Sonstige",
       "stichwort": "RD HILFE/SONSTIGE",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 109,
-      "kategorie": "Transport - von Transplantat / Organ / Blutkonserven / med. Gerät",
-      "schlagwort": "Sonstige",
+      "schlagwort": "Transport - von Transplantat / Organ / Blutkonserven / med. Gerät",
+      "kategorie": "Sonstige",
       "stichwort": "RD HILFE/SONSTIGE",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 110,
-      "kategorie": "Anforderung RD von Fremd-ILS Bayern",
-      "schlagwort": "Sonstige",
+      "schlagwort": "Anforderung RD von Fremd-ILS Bayern",
+      "kategorie": "Sonstige",
       "stichwort": "RD HILFE/SONSTIGE",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 111,
-      "kategorie": "Anforderung RD von Fremd-ILS nicht Bayern",
-      "schlagwort": "Sonstige",
+      "schlagwort": "Anforderung RD von Fremd-ILS nicht Bayern",
+      "kategorie": "Sonstige",
       "stichwort": "RD HILFE/SONSTIGE",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 1,
-      "kategorie": "",
-      "schlagwort": "Sonstige",
+      "schlagwort": "",
+      "kategorie": "Sonstige",
       "stichwort": "SON BELEUCHTUNG",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 2,
-      "kategorie": "",
-      "schlagwort": "Sonstige",
+      "schlagwort": "",
+      "kategorie": "Sonstige",
       "stichwort": "SON EINGLEISEN",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 3,
-      "kategorie": "",
-      "schlagwort": "Sonstige",
+      "schlagwort": "",
+      "kategorie": "Sonstige",
       "stichwort": "SON HILFE/SONSTIGES FW",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 4,
-      "kategorie": "",
-      "schlagwort": "Sonstige",
+      "schlagwort": "",
+      "kategorie": "Sonstige",
       "stichwort": "SON HUBSCHRAUBERLANDUNG",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 5,
-      "kategorie": "Motorradstreife",
-      "schlagwort": "Sonstige",
+      "schlagwort": "Motorradstreife",
+      "kategorie": "Sonstige",
       "stichwort": "SON MOTORRADSTREIFE",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 6,
-      "kategorie": "Betroffene",
-      "schlagwort": "PSNV",
+      "schlagwort": "Betroffene",
+      "kategorie": "PSNV",
       "stichwort": "SON PSNV (B)",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 7,
-      "kategorie": "Einsatzkräfte",
-      "schlagwort": "PSNV",
+      "schlagwort": "Einsatzkräfte",
+      "kategorie": "PSNV",
       "stichwort": "SON PSNV (E)",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 8,
-      "kategorie": "",
       "schlagwort": "",
+      "kategorie": "",
       "stichwort": "SON THW BEREITSCHAFT",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 9,
-      "kategorie": "Tragehilfe für den Rettungsdienst",
-      "schlagwort": "Sonstige",
+      "schlagwort": "Tragehilfe für den Rettungsdienst",
+      "kategorie": "Sonstige",
       "stichwort": "SON TRAGEHILFE",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 10,
-      "kategorie": "",
-      "schlagwort": "Sonstige",
+      "schlagwort": "",
+      "kategorie": "Sonstige",
       "stichwort": "SON ÜBERÖRTLICHER EINSATZ",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 1,
-      "kategorie": "Abnahme BMA",
-      "schlagwort": "BMA",
+      "schlagwort": "Abnahme BMA",
+      "kategorie": "BMA",
       "stichwort": "INF ABNAHME BMA",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 3,
-      "kategorie": "Apothekenauskunft",
-      "schlagwort": "Auskunft",
+      "schlagwort": "Apothekenauskunft",
+      "kategorie": "Auskunft",
       "stichwort": "INF APOTHEKENAUSKUNFT",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 4,
-      "kategorie": "Ausfall - Fahrzeugdefekt",
-      "schlagwort": "Ausfall",
+      "schlagwort": "Ausfall - Fahrzeugdefekt",
+      "kategorie": "Ausfall",
       "stichwort": "INF AUSFALL",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 5,
-      "kategorie": "Ausfall - Gerätedefekt",
-      "schlagwort": "Ausfall",
+      "schlagwort": "Ausfall - Gerätedefekt",
+      "kategorie": "Ausfall",
       "stichwort": "INF AUSFALL",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 6,
-      "kategorie": "Ausfall - Eigenunfall",
-      "schlagwort": "Ausfall",
+      "schlagwort": "Ausfall - Eigenunfall",
+      "kategorie": "Ausfall",
       "stichwort": "INF AUSFALL",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 7,
-      "kategorie": "Ausfall - Planungsfehler",
-      "schlagwort": "Ausfall",
+      "schlagwort": "Ausfall - Planungsfehler",
+      "kategorie": "Ausfall",
       "stichwort": "INF AUSFALL",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 8,
-      "kategorie": "Ausfall - Personalausfall RD-Personal",
-      "schlagwort": "Ausfall",
+      "schlagwort": "Ausfall - Personalausfall RD-Personal",
+      "kategorie": "Ausfall",
       "stichwort": "INF AUSFALL",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 9,
-      "kategorie": "Ausfall - Personalverschulden",
-      "schlagwort": "Ausfall",
+      "schlagwort": "Ausfall - Personalverschulden",
+      "kategorie": "Ausfall",
       "stichwort": "INF AUSFALL",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 10,
-      "kategorie": "Ausfall - Personalausfall Arzt",
-      "schlagwort": "Ausfall",
+      "schlagwort": "Ausfall - Personalausfall Arzt",
+      "kategorie": "Ausfall",
       "stichwort": "INF AUSFALL",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 11,
-      "kategorie": "Ausfall - Witterung",
-      "schlagwort": "Ausfall",
+      "schlagwort": "Ausfall - Witterung",
+      "kategorie": "Ausfall",
       "stichwort": "INF AUSFALL",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 12,
-      "kategorie": "Ausfall - Desinfektion",
-      "schlagwort": "Ausfall",
+      "schlagwort": "Ausfall - Desinfektion",
+      "kategorie": "Ausfall",
       "stichwort": "INF AUSFALL",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 13,
-      "kategorie": "BMA Probe",
-      "schlagwort": "BMA",
+      "schlagwort": "BMA Probe",
+      "kategorie": "BMA",
       "stichwort": "INF BMA PROBE",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 14,
-      "kategorie": "BMA Störung",
-      "schlagwort": "BMA",
+      "schlagwort": "BMA Störung",
+      "kategorie": "BMA",
       "stichwort": "INF BMA STÖRUNG",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 15,
-      "kategorie": "Eigenunfall",
-      "schlagwort": "Benachrichtigung",
+      "schlagwort": "Eigenunfall",
+      "kategorie": "Benachrichtigung",
       "stichwort": "INF EIGENUNFALL",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 16,
-      "kategorie": "Giftnotruf",
-      "schlagwort": "INF",
+      "schlagwort": "Giftnotruf",
+      "kategorie": "INF",
       "stichwort": "INF GIFTNOTRUF",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 17,
-      "kategorie": "Hochwassermeldung",
-      "schlagwort": "Benachrichtigung",
+      "schlagwort": "Hochwassermeldung",
+      "kategorie": "Benachrichtigung",
       "stichwort": "INF HOCHWASSERMELDUNG",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 18,
-      "kategorie": "Vermittlung KVB-Arzt",
-      "schlagwort": "Auskunft",
+      "schlagwort": "Vermittlung KVB-Arzt",
+      "kategorie": "Auskunft",
       "stichwort": "INF KASSENÄRZTLICHER BEREITSCHAFTSDIENST",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 19,
-      "kategorie": "Luftbeobachtung",
-      "schlagwort": "Sonstiges",
+      "schlagwort": "Luftbeobachtung",
+      "kategorie": "Sonstiges",
       "stichwort": "INF LUFTBEOBACHTUNG",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 20,
-      "kategorie": "Öffentlichkeitsarbeit",
-      "schlagwort": "Sonstiges",
+      "schlagwort": "Öffentlichkeitsarbeit",
+      "kategorie": "Sonstiges",
       "stichwort": "INF ÖFFENTLICHKEITSARBEIT",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 21,
-      "kategorie": "Probealarm",
-      "schlagwort": "Sonstiges",
+      "schlagwort": "Probealarm",
+      "kategorie": "Sonstiges",
       "stichwort": "INF PROBEALARM",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 22,
-      "kategorie": "Sanitätsdienst",
-      "schlagwort": "Sonstiges",
+      "schlagwort": "Sanitätsdienst",
+      "kategorie": "Sonstiges",
       "stichwort": "INF SAN-DIENST",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 23,
-      "kategorie": "Sicherheitswache",
-      "schlagwort": "Sonstiges",
+      "schlagwort": "Sicherheitswache",
+      "kategorie": "Sonstiges",
       "stichwort": "INF SICHERHEITSWACHE",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 24,
-      "kategorie": "Unwetterwarnung",
-      "schlagwort": "Benachrichtigung",
+      "schlagwort": "Unwetterwarnung",
+      "kategorie": "Benachrichtigung",
       "stichwort": "INF UNWETTERWARNUNG",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 25,
-      "kategorie": "Verkehrssicherung",
-      "schlagwort": "Sonstiges",
+      "schlagwort": "Verkehrssicherung",
+      "kategorie": "Sonstiges",
       "stichwort": "INF VERKEHRSSICHERUNG",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 26,
-      "kategorie": "Wachbesetzung",
-      "schlagwort": "Sonstiges",
+      "schlagwort": "Wachbesetzung",
+      "kategorie": "Sonstiges",
       "stichwort": "INF WACHBESETZUNG",
       "anmerkung": "",
       "material": "; "
     },
     {
       "nr": 27,
-      "kategorie": "Zahnarztnotdienst",
-      "schlagwort": "Auskunft",
+      "schlagwort": "Zahnarztnotdienst",
+      "kategorie": "Auskunft",
       "stichwort": "INF ZAHNARZTNOTDIENST",
       "anmerkung": "",
       "material": "; "
