@@ -2,8 +2,8 @@
 
 <div class="termine">
     <div class="termin" *ngFor="let event of events" >
-        <h2 class="eventTitle">{{ event.date | date: 'dd.MM.yyyy' }} {{ event.title }}</h2>
+        <h2 class="eventTitle">{{ event.date | date: 'dd.MM.yyyy' }} - {{ event.title }}</h2>
         <p *ngIf="event.location" >Ort: {{ event.location }}</p>
-        <p *ngIf="event.description">{{ event.description }}</p>
+        <p *ngIf="event.description" [innerHTML]="event.description"></p>
     </div>
 </div>

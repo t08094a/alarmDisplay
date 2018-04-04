@@ -9,13 +9,20 @@ import { Component, OnInit } from '@angular/core';
 })
 export class TermineViewComponent implements OnInit {
 
-    public events: EventItem[];
+    public events: EventItem[] = [];
 
     constructor(private eventService: EventService) {
     }
 
     ngOnInit() {
         const startDate = new Date();
-        this.eventService.getEvents(startDate, 5).then(evts => this.events = evts);
+        this.eventService.getEvents(startDate, 5)
+            .then(evts => {
+                this.events = evts;
+            })
+            .catch(error => {
+                console.log(error);
+                return Promise.reject(error.error);
+            });
     }
 }
