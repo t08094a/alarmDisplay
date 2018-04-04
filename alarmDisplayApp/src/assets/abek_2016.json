@@ -6,6 +6,8 @@
   "data": [
     {
       "nr": 1,
+      "hauptgruppe": 10,
+      "untergruppe": 10,
       "schlagwort": "Brandgeruch",
       "kategorie": "im Freien",
       "stichwort": "B 1",
@@ -14,6 +16,8 @@
     },
     {
       "nr": 2,
+      "hauptgruppe": 10,
+      "untergruppe": 11,
       "schlagwort": "Rauchentwicklung",
       "kategorie": "im Freien",
       "stichwort": "B 1",
@@ -22,6 +26,8 @@
     },
     {
       "nr": 3,
+      "hauptgruppe": 10,
+      "untergruppe": 12,
       "schlagwort": "Freifläche klein (< 100 m²)",
       "kategorie": "im Freien",
       "stichwort": "B 1",
@@ -30,6 +36,8 @@
     },
     {
       "nr": 4,
+      "hauptgruppe": 10,
+      "untergruppe": 14,
       "schlagwort": "Abfall-, Müll-, Papiercontainer",
       "kategorie": "im Freien",
       "stichwort": "B 1",
@@ -38,6 +46,8 @@
     },
     {
       "nr": 5,
+      "hauptgruppe": 10,
+      "untergruppe": 24,
       "schlagwort": "Kleinbrand",
       "kategorie": "im Freien",
       "stichwort": "B 1",
@@ -46,6 +56,8 @@
     },
     {
       "nr": 6,
+      "hauptgruppe": 11,
+      "untergruppe": 18,
       "schlagwort": "Nachschau",
       "kategorie": "im Gebäude",
       "stichwort": "B 1",
@@ -54,6 +66,8 @@
     },
     {
       "nr": 7,
+      "hauptgruppe": 15,
+      "untergruppe": 14,
       "schlagwort": "Motorrad",
       "kategorie": "Verkehr",
       "stichwort": "B 1",
@@ -62,6 +76,8 @@
     },
     {
       "nr": 8,
+      "hauptgruppe": 10,
+      "untergruppe": 13,
       "schlagwort": "Wald, klein (< 1000 m²)",
       "kategorie": "im Freien",
       "stichwort": "B 2",
@@ -70,6 +86,8 @@
     },
     {
       "nr": 9,
+      "hauptgruppe": 10,
+      "untergruppe": 16,
       "schlagwort": "Freifläche groß (> 100 m²)",
       "kategorie": "im Freien",
       "stichwort": "B 2",
@@ -78,6 +96,8 @@
     },
     {
       "nr": 10,
+      "hauptgruppe": 10,
+      "untergruppe": 17,
       "schlagwort": "Bahndamm",
       "kategorie": "im Freien",
       "stichwort": "B 2",
@@ -86,6 +106,8 @@
     },
     {
       "nr": 11,
+      "hauptgruppe": 10,
+      "untergruppe": 18,
       "schlagwort": "Bau-, Wohncontainer",
       "kategorie": "im Freien",
       "stichwort": "B 2",
@@ -94,6 +116,8 @@
     },
     {
       "nr": 12,
+      "hauptgruppe": 10,
+      "untergruppe": 20,
       "schlagwort": "Gartenhütte, Schuppen",
       "kategorie": "im Freien",
       "stichwort": "B 2",
@@ -102,6 +126,8 @@
     },
     {
       "nr": 13,
+      "hauptgruppe": 11,
+      "untergruppe": 15,
       "schlagwort": "Kamin",
       "kategorie": "im Gebäude",
       "stichwort": "B 2",
@@ -110,6 +136,8 @@
     },
     {
       "nr": 14,
+      "hauptgruppe": 11,
+      "untergruppe": 22,
       "schlagwort": "überhitzter Ofen / Ölofen",
       "kategorie": "im Gebäude",
       "stichwort": "B 2",
@@ -118,6 +146,8 @@
     },
     {
       "nr": 15,
+      "hauptgruppe": 15,
+      "untergruppe": 10,
       "schlagwort": "PKW",
       "kategorie": "Verkehr",
       "stichwort": "B 2",
@@ -126,6 +156,8 @@
     },
     {
       "nr": 16,
+      "hauptgruppe": 15,
+      "untergruppe": 11,
       "schlagwort": "PKW auf BAB",
       "kategorie": "Verkehr",
       "stichwort": "B 2",
@@ -134,6 +166,8 @@
     },
     {
       "nr": 17,
+      "hauptgruppe": 15,
+      "untergruppe": 15,
       "schlagwort": "LKW / Bus innerorts",
       "kategorie": "Verkehr",
       "stichwort": "B 2",
@@ -142,6 +176,8 @@
     },
     {
       "nr": 18,
+      "hauptgruppe": 15,
+      "untergruppe": 23,
       "schlagwort": "auf B 2",
       "kategorie": "Alarmstufenerhöhung",
       "stichwort": "B 2",
@@ -150,6 +186,8 @@
     },
     {
       "nr": 19,
+      "hauptgruppe": 10,
+      "untergruppe": 19,
       "schlagwort": "Bau-, Wohncontainer (Person in Gefahr)",
       "kategorie": "im Freien",
       "stichwort": "B 2 PERSON",
@@ -158,6 +196,8 @@
     },
     {
       "nr": 20,
+      "hauptgruppe": 10,
+      "untergruppe": 21,
       "schlagwort": "Gartenhütte / Schuppen (Person in Gefahr)",
       "kategorie": "im Freien",
       "stichwort": "B 2 PERSON",
@@ -166,6 +206,8 @@
     },
     {
       "nr": 21,
+      "hauptgruppe": 10,
+      "untergruppe": 22,
       "schlagwort": "Person",
       "kategorie": "im Freien",
       "stichwort": "B 2 PERSON",
@@ -174,6 +216,8 @@
     },
     {
       "nr": 22,
+      "hauptgruppe": 15,
+      "untergruppe": 12,
       "schlagwort": "PKW (Person in Gefahr)",
       "kategorie": "Verkehr",
       "stichwort": "B 2 PERSON",
@@ -182,6 +226,8 @@
     },
     {
       "nr": 23,
+      "hauptgruppe": 15,
+      "untergruppe": 13,
       "schlagwort": "PKW auf BAB (Person in Gefahr)",
       "kategorie": "Verkehr",
       "stichwort": "B 2 PERSON",
@@ -190,6 +236,8 @@
     },
     {
       "nr": 24,
+      "hauptgruppe": 15,
+      "untergruppe": 99,
       "schlagwort": "auf B 2 Person",
       "kategorie": "Alarmstufenerhöhung",
       "stichwort": "B 2 PERSON",
@@ -198,6 +246,8 @@
     },
     {
       "nr": 25,
+      "hauptgruppe": 10,
+      "untergruppe": 15,
       "schlagwort": "am Gebäude",
       "kategorie": "im Freien",
       "stichwort": "B 3",
@@ -206,6 +256,8 @@
     },
     {
       "nr": 26,
+      "hauptgruppe": 11,
+      "untergruppe": 10,
       "schlagwort": "Brandgeruch",
       "kategorie": "im Gebäude",
       "stichwort": "B 3",
@@ -214,6 +266,8 @@
     },
     {
       "nr": 27,
+      "hauptgruppe": 11,
+      "untergruppe": 11,
       "schlagwort": "Dachstuhl",
       "kategorie": "im Gebäude",
       "stichwort": "B 3",
@@ -222,6 +276,8 @@
     },
     {
       "nr": 28,
+      "hauptgruppe": 11,
+      "untergruppe": 13,
       "schlagwort": "Dehnfuge",
       "kategorie": "im Gebäude",
       "stichwort": "B 3",
@@ -230,6 +286,8 @@
     },
     {
       "nr": 29,
+      "hauptgruppe": 11,
+      "untergruppe": 14,
       "schlagwort": "Garage",
       "kategorie": "im Gebäude",
       "stichwort": "B 3",
@@ -238,6 +296,8 @@
     },
     {
       "nr": 30,
+      "hauptgruppe": 11,
+      "untergruppe": 16,
       "schlagwort": "Keller",
       "kategorie": "im Gebäude",
       "stichwort": "B 3",
@@ -246,6 +306,8 @@
     },
     {
       "nr": 31,
+      "hauptgruppe": 11,
+      "untergruppe": 19,
       "schlagwort": "Rauchentwicklung",
       "kategorie": "im Gebäude",
       "stichwort": "B 3",
@@ -254,6 +316,8 @@
     },
     {
       "nr": 32,
+      "hauptgruppe": 11,
+      "untergruppe": 23,
       "schlagwort": "Zimmer",
       "kategorie": "im Gebäude",
       "stichwort": "B 3",
@@ -262,6 +326,8 @@
     },
     {
       "nr": 33,
+      "hauptgruppe": 11,
+      "untergruppe": 25,
       "schlagwort": "Berghütte",
       "kategorie": "im Gebäude",
       "stichwort": "B 3",
@@ -270,6 +336,8 @@
     },
     {
       "nr": 34,
+      "hauptgruppe": 14,
+      "untergruppe": 14,
       "schlagwort": "Fahrzeug / Maschine",
       "kategorie": "Landwirtschaft",
       "stichwort": "B 3",
@@ -278,6 +346,8 @@
     },
     {
       "nr": 35,
+      "hauptgruppe": 15,
+      "untergruppe": 19,
       "schlagwort": "LKW / Bus außerorts",
       "kategorie": "Verkehr",
       "stichwort": "B 3",
@@ -286,6 +356,8 @@
     },
     {
       "nr": 36,
+      "hauptgruppe": 15,
+      "untergruppe": 16,
       "schlagwort": "LKW / Bus auf BAB",
       "kategorie": "Verkehr",
       "stichwort": "B 3",
@@ -294,6 +366,8 @@
     },
     {
       "nr": 37,
+      "hauptgruppe": 15,
+      "untergruppe": 27,
       "schlagwort": "auf B 3",
       "kategorie": "Alarmstufenerhöhung",
       "stichwort": "B 3",
@@ -302,6 +376,8 @@
     },
     {
       "nr": 38,
+      "hauptgruppe": 15,
+      "untergruppe": 28,
       "schlagwort": "überhitzter Heustock",
       "kategorie": "im Gebäude",
       "stichwort": "B 3",
@@ -310,6 +386,8 @@
     },
     {
       "nr": 39,
+      "hauptgruppe": 11,
+      "untergruppe": 12,
       "schlagwort": "Dachstuhl (Person in Gefahr)",
       "kategorie": "im Gebäude",
       "stichwort": "B 3 PERSON",
@@ -318,6 +396,8 @@
     },
     {
       "nr": 40,
+      "hauptgruppe": 11,
+      "untergruppe": 26,
       "schlagwort": "Garage (Person in Gefahr)",
       "kategorie": "im Gebäude",
       "stichwort": "B 3 PERSON",
@@ -326,6 +406,8 @@
     },
     {
       "nr": 41,
+      "hauptgruppe": 11,
+      "untergruppe": 17,
       "schlagwort": "Keller (Person in Gefahr)",
       "kategorie": "im Gebäude",
       "stichwort": "B 3 PERSON",
@@ -334,6 +416,8 @@
     },
     {
       "nr": 42,
+      "hauptgruppe": 11,
+      "untergruppe": 20,
       "schlagwort": "Rauchentwicklung (Person in Gefahr)",
       "kategorie": "im Gebäude",
       "stichwort": "B 3 PERSON",
@@ -342,6 +426,8 @@
     },
     {
       "nr": 43,
+      "hauptgruppe": 11,
+      "untergruppe": 24,
       "schlagwort": "Zimmer (Person in Gefahr)",
       "kategorie": "im Gebäude",
       "stichwort": "B 3 PERSON",
@@ -350,6 +436,8 @@
     },
     {
       "nr": 44,
+      "hauptgruppe": 15,
+      "untergruppe": 17,
       "schlagwort": "LKW (Person in Gefahr)",
       "kategorie": "Verkehr",
       "stichwort": "B 3 PERSON",
@@ -358,6 +446,8 @@
     },
     {
       "nr": 45,
+      "hauptgruppe": 15,
+      "untergruppe": 18,
       "schlagwort": "LKW auf BAB (Person in Gefahr)",
       "kategorie": "Verkehr",
       "stichwort": "B 3 PERSON",
@@ -366,6 +456,8 @@
     },
     {
       "nr": 46,
+      "hauptgruppe": 15,
+      "untergruppe": 24,
       "schlagwort": "auf B 3 Person",
       "kategorie": "Alarmstufenerhöhung",
       "stichwort": "B 3 PERSON",
@@ -374,6 +466,8 @@
     },
     {
       "nr": 47,
+      "hauptgruppe": 11,
+      "untergruppe": 27,
       "schlagwort": "ausgedehnt / hoch bis 6. OG",
       "kategorie": "im Gebäude",
       "stichwort": "B 4",
@@ -382,6 +476,8 @@
     },
     {
       "nr": 48,
+      "hauptgruppe": 11,
+      "untergruppe": 21,
       "schlagwort": "Tiefgarage",
       "kategorie": "im Gebäude",
       "stichwort": "B 4",
@@ -390,6 +486,8 @@
     },
     {
       "nr": 49,
+      "hauptgruppe": 12,
+      "untergruppe": 33,
       "schlagwort": "Wohnheim",
       "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 4",
@@ -398,6 +496,8 @@
     },
     {
       "nr": 50,
+      "hauptgruppe": 12,
+      "untergruppe": 34,
       "schlagwort": "Behinderteneinrichtung",
       "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 4",
@@ -406,6 +506,8 @@
     },
     {
       "nr": 51,
+      "hauptgruppe": 12,
+      "untergruppe": 11,
       "schlagwort": "Hochhaus ab 7. OG",
       "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 4",
@@ -414,6 +516,8 @@
     },
     {
       "nr": 52,
+      "hauptgruppe": 12,
+      "untergruppe": 14,
       "schlagwort": "Supermarkt",
       "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 4",
@@ -422,6 +526,8 @@
     },
     {
       "nr": 53,
+      "hauptgruppe": 12,
+      "untergruppe": 15,
       "schlagwort": "Kindergarten",
       "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 4",
@@ -430,6 +536,8 @@
     },
     {
       "nr": 54,
+      "hauptgruppe": 12,
+      "untergruppe": 16,
       "schlagwort": "Kino",
       "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 4",
@@ -438,6 +546,8 @@
     },
     {
       "nr": 55,
+      "hauptgruppe": 12,
+      "untergruppe": 17,
       "schlagwort": "Kirche",
       "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 4",
@@ -446,6 +556,8 @@
     },
     {
       "nr": 56,
+      "hauptgruppe": 12,
+      "untergruppe": 19,
       "schlagwort": "Schule",
       "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 4",
@@ -454,6 +566,8 @@
     },
     {
       "nr": 57,
+      "hauptgruppe": 12,
+      "untergruppe": 20,
       "schlagwort": "Theater",
       "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 4",
@@ -462,6 +576,8 @@
     },
     {
       "nr": 58,
+      "hauptgruppe": 12,
+      "untergruppe": 21,
       "schlagwort": "Zirkus",
       "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 4",
@@ -470,6 +586,8 @@
     },
     {
       "nr": 59,
+      "hauptgruppe": 12,
+      "untergruppe": 12,
       "schlagwort": "Hotel",
       "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 4",
@@ -478,6 +596,8 @@
     },
     {
       "nr": 60,
+      "hauptgruppe": 13,
+      "untergruppe": 13,
       "schlagwort": "Sägewerk / Schreinerei",
       "kategorie": "Gewerbe / Industrie",
       "stichwort": "B 4",
@@ -486,6 +606,8 @@
     },
     {
       "nr": 61,
+      "hauptgruppe": 13,
+      "untergruppe": 15,
       "schlagwort": "Lagerhalle",
       "kategorie": "Gewerbe / Industrie",
       "stichwort": "B 4",
@@ -494,6 +616,8 @@
     },
     {
       "nr": 62,
+      "hauptgruppe": 13,
+      "untergruppe": 16,
       "schlagwort": "Silo (kein Gefahrstoff)",
       "kategorie": "Gewerbe / Industrie",
       "stichwort": "B 4",
@@ -502,6 +626,8 @@
     },
     {
       "nr": 63,
+      "hauptgruppe": 13,
+      "untergruppe": 20,
       "schlagwort": "große Höhe - Turm",
       "kategorie": "Gewerbe / Industrie",
       "stichwort": "B 4",
@@ -510,6 +636,8 @@
     },
     {
       "nr": 64,
+      "hauptgruppe": 13,
+      "untergruppe": 21,
       "schlagwort": "große Höhe - Windrad",
       "kategorie": "Gewerbe / Industrie",
       "stichwort": "B 4",
@@ -518,6 +646,8 @@
     },
     {
       "nr": 65,
+      "hauptgruppe": 13,
+      "untergruppe": 14,
       "schlagwort": "Industriegebäude",
       "kategorie": "Gewerbe / Industrie",
       "stichwort": "B 4",
@@ -526,6 +656,8 @@
     },
     {
       "nr": 66,
+      "hauptgruppe": 14,
+      "untergruppe": 10,
       "schlagwort": "Bauernhof",
       "kategorie": "Landwirtschaft",
       "stichwort": "B 4",
@@ -534,6 +666,8 @@
     },
     {
       "nr": 67,
+      "hauptgruppe": 14,
+      "untergruppe": 12,
       "schlagwort": "Stall / Scheune",
       "kategorie": "Landwirtschaft",
       "stichwort": "B 4",
@@ -542,6 +676,8 @@
     },
     {
       "nr": 68,
+      "hauptgruppe": 14,
+      "untergruppe": 13,
       "schlagwort": "Aussiedlerhof",
       "kategorie": "Landwirtschaft",
       "stichwort": "B 4",
@@ -550,6 +686,8 @@
     },
     {
       "nr": 69,
+      "hauptgruppe": 15,
+      "untergruppe": 25,
       "schlagwort": "auf B 4",
       "kategorie": "Alarmstufenerhöhung",
       "stichwort": "B 4",
@@ -558,6 +696,8 @@
     },
     {
       "nr": 70,
+      "hauptgruppe": 12,
+      "untergruppe": 10,
       "schlagwort": "Pflege-/Altenheim",
       "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 5",
@@ -566,6 +706,8 @@
     },
     {
       "nr": 71,
+      "hauptgruppe": 12,
+      "untergruppe": 13,
       "schlagwort": "Kaufhaus",
       "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 5",
@@ -574,6 +716,8 @@
     },
     {
       "nr": 72,
+      "hauptgruppe": 12,
+      "untergruppe": 18,
       "schlagwort": "Krankenhaus",
       "kategorie": "Gebäude hohe Personenzahl",
       "stichwort": "B 5",
@@ -582,6 +726,8 @@
     },
     {
       "nr": 73,
+      "hauptgruppe": 12,
+      "untergruppe": 22,
       "schlagwort": "auf B 5",
       "kategorie": "Alarmstufenerhöhung",
       "stichwort": "B 5",
@@ -590,6 +736,8 @@
     },
     {
       "nr": 74,
+      "hauptgruppe": 15,
+      "untergruppe": 26,
       "schlagwort": "auf B 6",
       "kategorie": "Alarmstufenerhöhung",
       "stichwort": "B 6",
@@ -598,6 +746,8 @@
     },
     {
       "nr": 75,
+      "hauptgruppe": 15,
+      "untergruppe": 34,
       "schlagwort": "auf B 7",
       "kategorie": "Alarmstufenerhöhung",
       "stichwort": "B 7",
@@ -606,6 +756,8 @@
     },
     {
       "nr": 76,
+      "hauptgruppe": 15,
+      "untergruppe": 36,
       "schlagwort": "auf B 8",
       "kategorie": "Alarmstufenerhöhung",
       "stichwort": "B 8",
@@ -614,6 +766,8 @@
     },
     {
       "nr": 77,
+      "hauptgruppe": 17,
+      "untergruppe": 10,
       "schlagwort": "Brandmeldeanlage",
       "kategorie": "Meldeanlage",
       "stichwort": "B BMA",
@@ -622,6 +776,8 @@
     },
     {
       "nr": 78,
+      "hauptgruppe": 17,
+      "untergruppe": 13,
       "schlagwort": "Rauchwarnmelder über Hausnotruf",
       "kategorie": "Meldeanlage",
       "stichwort": "B BMA",
@@ -630,6 +786,8 @@
     },
     {
       "nr": 79,
+      "hauptgruppe": 17,
+      "untergruppe": 15,
       "schlagwort": "Rauchwarnmelder",
       "kategorie": "Meldeanlage",
       "stichwort": "B BMA",
@@ -638,6 +796,8 @@
     },
     {
       "nr": 80,
+      "hauptgruppe": 15,
+      "untergruppe": 20,
       "schlagwort": "Boot / Yacht / Floß",
       "kategorie": "Verkehr",
       "stichwort": "B BOOT",
@@ -646,6 +806,8 @@
     },
     {
       "nr": 81,
+      "hauptgruppe": 13,
+      "untergruppe": 12,
       "schlagwort": "Elektroanlage / Trafo",
       "kategorie": "Gewerbe / Industrie",
       "stichwort": "B ELEKTROANLAGE",
@@ -654,6 +816,8 @@
     },
     {
       "nr": 82,
+      "hauptgruppe": 15,
+      "untergruppe": 35,
       "schlagwort": "Zug im Tunnel",
       "kategorie": "Verkehr",
       "stichwort": "B SCHIENENTUNNEL",
@@ -662,6 +826,8 @@
     },
     {
       "nr": 83,
+      "hauptgruppe": 15,
+      "untergruppe": 29,
       "schlagwort": "S-Bahn im Tunnel",
       "kategorie": "Verkehr",
       "stichwort": "B SCHIENENTUNNEL",
@@ -670,6 +836,8 @@
     },
     {
       "nr": 84,
+      "hauptgruppe": 15,
+      "untergruppe": 40,
       "schlagwort": "U-Bahn im Tunnel",
       "kategorie": "Verkehr",
       "stichwort": "B SCHIENENTUNNEL",
@@ -678,6 +846,8 @@
     },
     {
       "nr": 85,
+      "hauptgruppe": 15,
+      "untergruppe": 21,
       "schlagwort": "Passagierschiff",
       "kategorie": "Verkehr",
       "stichwort": "B SCHIFF",
@@ -686,6 +856,8 @@
     },
     {
       "nr": 86,
+      "hauptgruppe": 15,
+      "untergruppe": 22,
       "schlagwort": "Frachtschiff",
       "kategorie": "Verkehr",
       "stichwort": "B SCHIFF",
@@ -694,6 +866,8 @@
     },
     {
       "nr": 87,
+      "hauptgruppe": 15,
+      "untergruppe": 33,
       "schlagwort": "Tunnel",
       "kategorie": "Verkehr",
       "stichwort": "B STRAßENTUNNEL",
@@ -702,6 +876,8 @@
     },
     {
       "nr": 88,
+      "hauptgruppe": 10,
+      "untergruppe": 23,
       "schlagwort": "Wald groß (> 1000 m²)",
       "kategorie": "im Freien",
       "stichwort": "B WALD",
@@ -710,6 +886,8 @@
     },
     {
       "nr": 89,
+      "hauptgruppe": 10,
+      "untergruppe": 25,
       "schlagwort": "Bergwald",
       "kategorie": "im Freien",
       "stichwort": "B WALD",
@@ -718,6 +896,8 @@
     },
     {
       "nr": 90,
+      "hauptgruppe": 15,
+      "untergruppe": 30,
       "schlagwort": "Personenzug",
       "kategorie": "Verkehr",
       "stichwort": "B ZUG",
@@ -726,6 +906,8 @@
     },
     {
       "nr": 91,
+      "hauptgruppe": 15,
+      "untergruppe": 31,
       "schlagwort": "Güterzug",
       "kategorie": "Verkehr",
       "stichwort": "B ZUG",
@@ -734,6 +916,8 @@
     },
     {
       "nr": 92,
+      "hauptgruppe": 15,
+      "untergruppe": 32,
       "schlagwort": "Zug nur Lokomotive",
       "kategorie": "Verkehr",
       "stichwort": "B ZUG",
@@ -742,6 +926,8 @@
     },
     {
       "nr": 93,
+      "hauptgruppe": 15,
+      "untergruppe": 37,
       "schlagwort": "Straßenbahn",
       "kategorie": "Verkehr",
       "stichwort": "B ZUG",
@@ -750,6 +936,8 @@
     },
     {
       "nr": 94,
+      "hauptgruppe": 15,
+      "untergruppe": 38,
       "schlagwort": "U-Bahn im Freien",
       "kategorie": "Verkehr",
       "stichwort": "B ZUG",
@@ -758,6 +946,8 @@
     },
     {
       "nr": 95,
+      "hauptgruppe": 15,
+      "untergruppe": 39,
       "schlagwort": "S-Bahn im Freien",
       "kategorie": "Verkehr",
       "stichwort": "B ZUG",
@@ -766,6 +956,8 @@
     },
     {
       "nr": 1,
+      "hauptgruppe": 10,
+      "untergruppe": 10,
       "schlagwort": "Amoklage",
       "kategorie": "Bombe / Amok",
       "stichwort": "THL AMOK FW",
@@ -774,6 +966,8 @@
     },
     {
       "nr": 2,
+      "hauptgruppe": 11,
+      "untergruppe": 10,
       "schlagwort": "Einsatzstelle ausleuchten",
       "kategorie": "klein",
       "stichwort": "THL BELEUCHTUNG",
@@ -782,6 +976,8 @@
     },
     {
       "nr": 3,
+      "hauptgruppe": 12,
+      "untergruppe": 10,
       "schlagwort": "Bombendrohung",
       "kategorie": "Bombe / Amok",
       "stichwort": "THL BOMBENDROHUNG",
@@ -790,6 +986,8 @@
     },
     {
       "nr": 4,
+      "hauptgruppe": 13,
+      "untergruppe": 10,
       "schlagwort": "Bombenfund",
       "kategorie": "Bombe / Amok",
       "stichwort": "THL BOMBENFUND",
@@ -798,6 +996,8 @@
     },
     {
       "nr": 5,
+      "hauptgruppe": 14,
+      "untergruppe": 10,
       "schlagwort": "Erkundung",
       "kategorie": "klein",
       "stichwort": "THL ERKUNDUNG",
@@ -806,6 +1006,8 @@
     },
     {
       "nr": 6,
+      "hauptgruppe": 15,
+      "untergruppe": 10,
       "schlagwort": "First Responder",
       "kategorie": "RD",
       "stichwort": "THL FIRST RESPONDER",
@@ -814,6 +1016,8 @@
     },
     {
       "nr": 7,
+      "hauptgruppe": 16,
+      "untergruppe": 10,
       "schlagwort": "Gebäude eingestürzt",
       "kategorie": "Einsturz / Umsturz",
       "stichwort": "THL GEBÄUDEEINSTURZ",
@@ -822,6 +1026,8 @@
     },
     {
       "nr": 8,
+      "hauptgruppe": 17,
+      "untergruppe": 10,
       "schlagwort": "Rettung Großtier (z. B. Kuh, Pferd)",
       "kategorie": "Tier",
       "stichwort": "THL GROßTIERRETTUNG",
@@ -830,6 +1036,8 @@
     },
     {
       "nr": 9,
+      "hauptgruppe": 18,
+      "untergruppe": 10,
       "schlagwort": "Hubschrauberlandung sichern",
       "kategorie": "Rettung",
       "stichwort": "THL HUBSCHRAUBERLANDUNG",
@@ -838,6 +1046,8 @@
     },
     {
       "nr": 10,
+      "hauptgruppe": 19,
+      "untergruppe": 10,
       "schlagwort": "Aufzug öffnen akut",
       "kategorie": "Rettung",
       "stichwort": "THL P AUFZUG",
@@ -846,6 +1056,8 @@
     },
     {
       "nr": 11,
+      "hauptgruppe": 20,
+      "untergruppe": 11,
       "schlagwort": "Person droht zu springen",
       "kategorie": "Absturz / Höhe",
       "stichwort": "THL P RETTUNG H / T",
@@ -854,6 +1066,8 @@
     },
     {
       "nr": 12,
+      "hauptgruppe": 20,
+      "untergruppe": 12,
       "schlagwort": "Person absturzgefährdet",
       "kategorie": "Absturz / Höhe",
       "stichwort": "THL P RETTUNG H / T",
@@ -862,6 +1076,8 @@
     },
     {
       "nr": 13,
+      "hauptgruppe": 20,
+      "untergruppe": 13,
       "schlagwort": "Person in Höhe",
       "kategorie": "Absturz / Höhe",
       "stichwort": "THL P RETTUNG H / T",
@@ -870,6 +1086,8 @@
     },
     {
       "nr": 14,
+      "hauptgruppe": 20,
+      "untergruppe": 14,
       "schlagwort": "Person aus Tiefe / Schacht",
       "kategorie": "Absturz / Höhe",
       "stichwort": "THL P RETTUNG H / T",
@@ -878,6 +1096,8 @@
     },
     {
       "nr": 15,
+      "hauptgruppe": 20,
+      "untergruppe": 15,
       "schlagwort": "schwergewichtiger Patient",
       "kategorie": "Absturz / Höhe",
       "stichwort": "THL P RETTUNG H / T",
@@ -886,6 +1106,8 @@
     },
     {
       "nr": 16,
+      "hauptgruppe": 20,
+      "untergruppe": 16,
       "schlagwort": "Person auf Windrad / Kran",
       "kategorie": "Absturz / Höhe",
       "stichwort": "THL P RETTUNG H / T",
@@ -894,6 +1116,8 @@
     },
     {
       "nr": 17,
+      "hauptgruppe": 20,
+      "untergruppe": 17,
       "schlagwort": "Paraglider / Fallschirmspringer / Drachenflieger abgestürzt",
       "kategorie": "Absturz / Höhe",
       "stichwort": "THL P RETTUNG H / T",
@@ -902,6 +1126,8 @@
     },
     {
       "nr": 18,
+      "hauptgruppe": 21,
+      "untergruppe": 10,
       "schlagwort": "Person unter Straßenbahn",
       "kategorie": "VU",
       "stichwort": "THL P STRAßENBAHN",
@@ -910,6 +1136,8 @@
     },
     {
       "nr": 19,
+      "hauptgruppe": 21,
+      "untergruppe": 11,
       "schlagwort": "Straßenbahn",
       "kategorie": "VU",
       "stichwort": "THL P STRAßENBAHN",
@@ -918,6 +1146,8 @@
     },
     {
       "nr": 20,
+      "hauptgruppe": 22,
+      "untergruppe": 10,
       "schlagwort": "Person Stromunfall",
       "kategorie": "Rettung",
       "stichwort": "THL P STROM",
@@ -926,6 +1156,8 @@
     },
     {
       "nr": 21,
+      "hauptgruppe": 23,
+      "untergruppe": 10,
       "schlagwort": "Person unter U-Bahn",
       "kategorie": "VU",
       "stichwort": "THL P U-BAHN",
@@ -934,6 +1166,8 @@
     },
     {
       "nr": 22,
+      "hauptgruppe": 23,
+      "untergruppe": 11,
       "schlagwort": "Person verschüttet / Tiefbauunfall",
       "kategorie": "Rettung",
       "stichwort": "THL P VERSCHÜTTET",
@@ -942,6 +1176,8 @@
     },
     {
       "nr": 23,
+      "hauptgruppe": 23,
+      "untergruppe": 12,
       "schlagwort": "Person in Silo",
       "kategorie": "Rettung",
       "stichwort": "THL P VERSCHÜTTET",
@@ -950,6 +1186,8 @@
     },
     {
       "nr": 24,
+      "hauptgruppe": 24,
+      "untergruppe": 10,
       "schlagwort": "Wohnung öffnen akut",
       "kategorie": "Rettung",
       "stichwort": "THL P EINGESCHLOSSEN",
@@ -958,6 +1196,8 @@
     },
     {
       "nr": 25,
+      "hauptgruppe": 24,
+      "untergruppe": 11,
       "schlagwort": "Fahrzeug öffnen akut",
       "kategorie": "Rettung",
       "stichwort": "THL P EINGESCHLOSSEN",
@@ -966,6 +1206,8 @@
     },
     {
       "nr": 26,
+      "hauptgruppe": 25,
+      "untergruppe": 10,
       "schlagwort": "Person unter Zug",
       "kategorie": "VU",
       "stichwort": "THL P ZUG",
@@ -974,6 +1216,8 @@
     },
     {
       "nr": 27,
+      "hauptgruppe": 25,
+      "untergruppe": 11,
       "schlagwort": "Person unter S-Bahn",
       "kategorie": "VU",
       "stichwort": "THL P ZUG",
@@ -982,6 +1226,8 @@
     },
     {
       "nr": 28,
+      "hauptgruppe": 25,
+      "untergruppe": 12,
       "schlagwort": "Person vom Zug erfasst",
       "kategorie": "VU",
       "stichwort": "THL P ZUG",
@@ -990,6 +1236,8 @@
     },
     {
       "nr": 29,
+      "hauptgruppe": 26,
+      "untergruppe": 10,
       "schlagwort": "Drehleiter",
       "kategorie": "RD",
       "stichwort": "THL RETTUNGSKORB",
@@ -998,6 +1246,8 @@
     },
     {
       "nr": 30,
+      "hauptgruppe": 27,
+      "untergruppe": 10,
       "schlagwort": "allgemein",
       "kategorie": "klein",
       "stichwort": "THL 1",
@@ -1006,6 +1256,8 @@
     },
     {
       "nr": 31,
+      "hauptgruppe": 27,
+      "untergruppe": 11,
       "schlagwort": "Baum auf Straße",
       "kategorie": "klein",
       "stichwort": "THL 1",
@@ -1014,6 +1266,8 @@
     },
     {
       "nr": 32,
+      "hauptgruppe": 27,
+      "untergruppe": 12,
       "schlagwort": "Baum auf Schiene",
       "kategorie": "klein",
       "stichwort": "THL 1",
@@ -1022,6 +1276,8 @@
     },
     {
       "nr": 33,
+      "hauptgruppe": 27,
+      "untergruppe": 13,
       "schlagwort": "Dach räumen",
       "kategorie": "klein",
       "stichwort": "THL 1",
@@ -1030,6 +1286,8 @@
     },
     {
       "nr": 34,
+      "hauptgruppe": 27,
+      "untergruppe": 14,
       "schlagwort": "Fahrzeug öffnen",
       "kategorie": "klein",
       "stichwort": "THL 1",
@@ -1038,6 +1296,8 @@
     },
     {
       "nr": 35,
+      "hauptgruppe": 27,
+      "untergruppe": 15,
       "schlagwort": "Fahrzeug sichern",
       "kategorie": "klein",
       "stichwort": "THL 1",
@@ -1046,6 +1306,8 @@
     },
     {
       "nr": 36,
+      "hauptgruppe": 27,
+      "untergruppe": 16,
       "schlagwort": "Wohnung öffnen",
       "kategorie": "klein",
       "stichwort": "THL 1",
@@ -1054,6 +1316,8 @@
     },
     {
       "nr": 37,
+      "hauptgruppe": 27,
+      "untergruppe": 17,
       "schlagwort": "Gebäude sichern",
       "kategorie": "klein",
       "stichwort": "THL 1",
@@ -1062,6 +1326,8 @@
     },
     {
       "nr": 38,
+      "hauptgruppe": 27,
+      "untergruppe": 18,
       "schlagwort": "Gegenstand / Teil sichern",
       "kategorie": "klein",
       "stichwort": "THL 1",
@@ -1070,6 +1336,8 @@
     },
     {
       "nr": 39,
+      "hauptgruppe": 27,
+      "untergruppe": 19,
       "schlagwort": "Straße reinigen",
       "kategorie": "klein",
       "stichwort": "THL 1",
@@ -1078,6 +1346,8 @@
     },
     {
       "nr": 40,
+      "hauptgruppe": 27,
+      "untergruppe": 20,
       "schlagwort": "Straße überschwemmt",
       "kategorie": "klein",
       "stichwort": "THL 1",
@@ -1086,6 +1356,8 @@
     },
     {
       "nr": 41,
+      "hauptgruppe": 27,
+      "untergruppe": 21,
       "schlagwort": "Wasser im Keller",
       "kategorie": "klein",
       "stichwort": "THL 1",
@@ -1094,6 +1366,8 @@
     },
     {
       "nr": 42,
+      "hauptgruppe": 27,
+      "untergruppe": 22,
       "schlagwort": "Wasser in Gebäude",
       "kategorie": "klein",
       "stichwort": "THL 1",
@@ -1102,6 +1376,8 @@
     },
     {
       "nr": 43,
+      "hauptgruppe": 27,
+      "untergruppe": 23,
       "schlagwort": "Unterstützung",
       "kategorie": "RD",
       "stichwort": "THL 1",
@@ -1110,6 +1386,8 @@
     },
     {
       "nr": 44,
+      "hauptgruppe": 27,
+      "untergruppe": 24,
       "schlagwort": "Personensuche",
       "kategorie": "Rettung",
       "stichwort": "THL 1",
@@ -1118,6 +1396,8 @@
     },
     {
       "nr": 45,
+      "hauptgruppe": 27,
+      "untergruppe": 25,
       "schlagwort": "mit Motorrad",
       "kategorie": "VU",
       "stichwort": "THL 1",
@@ -1126,6 +1406,8 @@
     },
     {
       "nr": 46,
+      "hauptgruppe": 27,
+      "untergruppe": 26,
       "schlagwort": "mit PKW",
       "kategorie": "VU",
       "stichwort": "THL 1",
@@ -1134,6 +1416,8 @@
     },
     {
       "nr": 47,
+      "hauptgruppe": 27,
+      "untergruppe": 27,
       "schlagwort": "Insekten (Gefahr für Personen)",
       "kategorie": "Tier",
       "stichwort": "THL 1",
@@ -1142,6 +1426,8 @@
     },
     {
       "nr": 48,
+      "hauptgruppe": 27,
+      "untergruppe": 28,
       "schlagwort": "Rettung Kleintier",
       "kategorie": "Tier",
       "stichwort": "THL 1",
@@ -1150,6 +1436,8 @@
     },
     {
       "nr": 49,
+      "hauptgruppe": 27,
+      "untergruppe": 29,
       "schlagwort": "Bergung Kleintier",
       "kategorie": "Tier",
       "stichwort": "THL 1",
@@ -1158,6 +1446,8 @@
     },
     {
       "nr": 50,
+      "hauptgruppe": 27,
+      "untergruppe": 30,
       "schlagwort": "Bergung Großtier (z. B. Kuh, Pferd)",
       "kategorie": "Tier",
       "stichwort": "THL 1",
@@ -1166,6 +1456,8 @@
     },
     {
       "nr": 51,
+      "hauptgruppe": 27,
+      "untergruppe": 31,
       "schlagwort": "Waldunfall ohne eingeklemmte Person",
       "kategorie": "Rettung",
       "stichwort": "THL 1",
@@ -1174,6 +1466,8 @@
     },
     {
       "nr": 52,
+      "hauptgruppe": 27,
+      "untergruppe": 32,
       "schlagwort": "Verkehrslenkung",
       "kategorie": "klein",
       "stichwort": "THL 1",
@@ -1182,6 +1476,8 @@
     },
     {
       "nr": 53,
+      "hauptgruppe": 28,
+      "untergruppe": 10,
       "schlagwort": "mehrere PKW",
       "kategorie": "VU",
       "stichwort": "THL 2",
@@ -1190,6 +1486,8 @@
     },
     {
       "nr": 54,
+      "hauptgruppe": 28,
+      "untergruppe": 11,
       "schlagwort": "LKW / Bus (leer), ohne eingeklemmte  Personen",
       "kategorie": "VU",
       "stichwort": "THL 2",
@@ -1198,6 +1496,8 @@
     },
     {
       "nr": 55,
+      "hauptgruppe": 29,
+      "untergruppe": 10,
       "schlagwort": "Person eingeklemmt (nicht VU)",
       "kategorie": "Rettung",
       "stichwort": "THL 3",
@@ -1206,6 +1506,8 @@
     },
     {
       "nr": 56,
+      "hauptgruppe": 29,
+      "untergruppe": 11,
       "schlagwort": "1 oder 2 PKW, Person eingeklemmt",
       "kategorie": "VU",
       "stichwort": "THL 3",
@@ -1214,6 +1516,8 @@
     },
     {
       "nr": 57,
+      "hauptgruppe": 29,
+      "untergruppe": 12,
       "schlagwort": "Bus (besetzt)",
       "kategorie": "VU",
       "stichwort": "THL 3",
@@ -1222,6 +1526,8 @@
     },
     {
       "nr": 58,
+      "hauptgruppe": 29,
+      "untergruppe": 13,
       "schlagwort": "Gerüst umgestürzt",
       "kategorie": "Einsturz / Umsturz",
       "stichwort": "THL 3",
@@ -1230,6 +1536,8 @@
     },
     {
       "nr": 59,
+      "hauptgruppe": 29,
+      "untergruppe": 14,
       "schlagwort": "Stromleitungsmast umgestürzt",
       "kategorie": "Einsturz / Umsturz",
       "stichwort": "THL 3",
@@ -1238,6 +1546,8 @@
     },
     {
       "nr": 60,
+      "hauptgruppe": 29,
+      "untergruppe": 15,
       "schlagwort": "Kran umgestürzt",
       "kategorie": "Einsturz / Umsturz",
       "stichwort": "THL 3",
@@ -1246,6 +1556,8 @@
     },
     {
       "nr": 61,
+      "hauptgruppe": 29,
+      "untergruppe": 16,
       "schlagwort": "Waldunfall mit eingeklemmter Person",
       "kategorie": "Rettung",
       "stichwort": "THL 3",
@@ -1254,6 +1566,8 @@
     },
     {
       "nr": 62,
+      "hauptgruppe": 30,
+      "untergruppe": 10,
       "schlagwort": "mehrere PKW, Personen eingeklemmt",
       "kategorie": "VU",
       "stichwort": "THL 4",
@@ -1262,6 +1576,8 @@
     },
     {
       "nr": 63,
+      "hauptgruppe": 30,
+      "untergruppe": 11,
       "schlagwort": "LKW / Bus (leer), Person eingeklemmt",
       "kategorie": "VU",
       "stichwort": "THL 4",
@@ -1270,6 +1586,8 @@
     },
     {
       "nr": 64,
+      "hauptgruppe": 31,
+      "untergruppe": 10,
       "schlagwort": "Massenkarambolage, Personen eingeklemmt",
       "kategorie": "VU",
       "stichwort": "THL 5",
@@ -1278,6 +1596,8 @@
     },
     {
       "nr": 65,
+      "hauptgruppe": 31,
+      "untergruppe": 11,
       "schlagwort": "Bus besetzt mit eingeklemmten Personen",
       "kategorie": "VU",
       "stichwort": "THL 5",
@@ -1286,6 +1606,8 @@
     },
     {
       "nr": 66,
+      "hauptgruppe": 31,
+      "untergruppe": 12,
       "schlagwort": "mehrere LKW mit eingeklemmten Personen",
       "kategorie": "VU",
       "stichwort": "THL 5",
@@ -1294,6 +1616,8 @@
     },
     {
       "nr": 67,
+      "hauptgruppe": 32,
+      "untergruppe": 10,
       "schlagwort": "Hilfeleistung Straßenbahn",
       "kategorie": "klein",
       "stichwort": "THL SCHIENE",
@@ -1302,6 +1626,8 @@
     },
     {
       "nr": 68,
+      "hauptgruppe": 32,
+      "untergruppe": 11,
       "schlagwort": "Hilfeleistung S-Bahn",
       "kategorie": "klein",
       "stichwort": "THL SCHIENE",
@@ -1310,6 +1636,8 @@
     },
     {
       "nr": 69,
+      "hauptgruppe": 32,
+      "untergruppe": 12,
       "schlagwort": "Hilfeleistung U-Bahn",
       "kategorie": "klein",
       "stichwort": "THL SCHIENE",
@@ -1318,6 +1646,8 @@
     },
     {
       "nr": 70,
+      "hauptgruppe": 33,
+      "untergruppe": 10,
       "schlagwort": "Bergung Sache / Leiche",
       "kategorie": "Wasser",
       "stichwort": "THL WASSER",
@@ -1326,6 +1656,8 @@
     },
     {
       "nr": 71,
+      "hauptgruppe": 33,
+      "untergruppe": 11,
       "schlagwort": "Rettung Tier",
       "kategorie": "Wasser",
       "stichwort": "THL WASSER",
@@ -1334,6 +1666,8 @@
     },
     {
       "nr": 72,
+      "hauptgruppe": 33,
+      "untergruppe": 12,
       "schlagwort": "Rettung Person",
       "kategorie": "Wasser",
       "stichwort": "THL WASSER",
@@ -1342,6 +1676,8 @@
     },
     {
       "nr": 73,
+      "hauptgruppe": 33,
+      "untergruppe": 13,
       "schlagwort": "Tauchereinsatz ohne Rettung",
       "kategorie": "Wasser",
       "stichwort": "THL WASSER",
@@ -1350,6 +1686,8 @@
     },
     {
       "nr": 74,
+      "hauptgruppe": 34,
+      "untergruppe": 10,
       "schlagwort": "Tragehilfe",
       "kategorie": "RD",
       "stichwort": "THL TRAGEHILFE",
@@ -1358,6 +1696,8 @@
     },
     {
       "nr": 75,
+      "hauptgruppe": 35,
+      "untergruppe": 10,
       "schlagwort": "Baum / Ast droht zu fallen",
       "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
@@ -1366,6 +1706,8 @@
     },
     {
       "nr": 76,
+      "hauptgruppe": 35,
+      "untergruppe": 11,
       "schlagwort": "Baum / Ast auf Fahrbahn",
       "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
@@ -1374,6 +1716,8 @@
     },
     {
       "nr": 77,
+      "hauptgruppe": 35,
+      "untergruppe": 12,
       "schlagwort": "Baum / Ast auf Schiene",
       "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
@@ -1382,6 +1726,8 @@
     },
     {
       "nr": 78,
+      "hauptgruppe": 35,
+      "untergruppe": 13,
       "schlagwort": "Baum / Ast auf Gebäude",
       "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
@@ -1390,6 +1736,8 @@
     },
     {
       "nr": 79,
+      "hauptgruppe": 35,
+      "untergruppe": 14,
       "schlagwort": "Baum / Ast auf Stromleitung",
       "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
@@ -1398,6 +1746,8 @@
     },
     {
       "nr": 80,
+      "hauptgruppe": 35,
+      "untergruppe": 15,
       "schlagwort": "Baum / Ast auf PKW / LKW",
       "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
@@ -1406,6 +1756,8 @@
     },
     {
       "nr": 81,
+      "hauptgruppe": 35,
+      "untergruppe": 16,
       "schlagwort": "Baum umgestürzt",
       "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
@@ -1414,6 +1766,8 @@
     },
     {
       "nr": 82,
+      "hauptgruppe": 35,
+      "untergruppe": 17,
       "schlagwort": "Bauteil / Gegenstand droht zu fallen",
       "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
@@ -1422,6 +1776,8 @@
     },
     {
       "nr": 83,
+      "hauptgruppe": 35,
+      "untergruppe": 18,
       "schlagwort": "Gebäude sichern",
       "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
@@ -1430,6 +1786,8 @@
     },
     {
       "nr": 84,
+      "hauptgruppe": 35,
+      "untergruppe": 19,
       "schlagwort": "Bauzaun sichern",
       "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
@@ -1438,6 +1796,8 @@
     },
     {
       "nr": 85,
+      "hauptgruppe": 35,
+      "untergruppe": 20,
       "schlagwort": "Fahrbahn / Gehweg überschwemmt",
       "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
@@ -1446,6 +1806,8 @@
     },
     {
       "nr": 86,
+      "hauptgruppe": 35,
+      "untergruppe": 21,
       "schlagwort": "Gebäude unter Wasser",
       "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
@@ -1454,6 +1816,8 @@
     },
     {
       "nr": 87,
+      "hauptgruppe": 35,
+      "untergruppe": 22,
       "schlagwort": "Keller unter Wasser",
       "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
@@ -1462,6 +1826,8 @@
     },
     {
       "nr": 88,
+      "hauptgruppe": 35,
+      "untergruppe": 23,
       "schlagwort": "Fahrzeug / sonstigen Gegenstandsichern",
       "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
@@ -1470,6 +1836,8 @@
     },
     {
       "nr": 89,
+      "hauptgruppe": 35,
+      "untergruppe": 24,
       "schlagwort": "Erkundung nicht zeitkritisch",
       "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
@@ -1478,6 +1846,8 @@
     },
     {
       "nr": 90,
+      "hauptgruppe": 35,
+      "untergruppe": 25,
       "schlagwort": "sonstiger Schaden",
       "kategorie": "Unwetter",
       "stichwort": "THL UNWETTER",
@@ -1486,6 +1856,8 @@
     },
     {
       "nr": 91,
+      "hauptgruppe": 36,
+      "untergruppe": 10,
       "schlagwort": "Notlandung",
       "kategorie": "Luft",
       "stichwort": "THL VU FLUGZEUG 1",
@@ -1494,6 +1866,8 @@
     },
     {
       "nr": 92,
+      "hauptgruppe": 36,
+      "untergruppe": 11,
       "schlagwort": "Ballon",
       "kategorie": "Luft",
       "stichwort": "THL VU FLUGZEUG 1",
@@ -1502,6 +1876,8 @@
     },
     {
       "nr": 93,
+      "hauptgruppe": 36,
+      "untergruppe": 12,
       "schlagwort": "Hubschrauber",
       "kategorie": "Luft",
       "stichwort": "THL VU FLUGZEUG 1",
@@ -1510,6 +1886,8 @@
     },
     {
       "nr": 94,
+      "hauptgruppe": 36,
+      "untergruppe": 13,
       "schlagwort": "Kleinflugzeug",
       "kategorie": "Luft",
       "stichwort": "THL VU FLUGZEUG 1",
@@ -1518,6 +1896,8 @@
     },
     {
       "nr": 95,
+      "hauptgruppe": 37,
+      "untergruppe": 10,
       "schlagwort": "Frachtflugzeug",
       "kategorie": "Luft",
       "stichwort": "THL VU FLUGZEUG 2",
@@ -1526,6 +1906,8 @@
     },
     {
       "nr": 96,
+      "hauptgruppe": 37,
+      "untergruppe": 11,
       "schlagwort": "Passagierflugzeug",
       "kategorie": "Luft",
       "stichwort": "THL VU FLUGZEUG 2",
@@ -1534,6 +1916,8 @@
     },
     {
       "nr": 97,
+      "hauptgruppe": 37,
+      "untergruppe": 12,
       "schlagwort": "Militärflugzeug",
       "kategorie": "Luft",
       "stichwort": "THL VU FLUGZEUG 2",
@@ -1542,6 +1926,8 @@
     },
     {
       "nr": 98,
+      "hauptgruppe": 38,
+      "untergruppe": 10,
       "schlagwort": "Kollision Passagierschiff",
       "kategorie": "Wasser",
       "stichwort": "THL VU SCHIFF KOLLISION",
@@ -1550,6 +1936,8 @@
     },
     {
       "nr": 99,
+      "hauptgruppe": 38,
+      "untergruppe": 11,
       "schlagwort": "Kollision Frachtschiff",
       "kategorie": "Wasser",
       "stichwort": "THL VU SCHIFF KOLLISION",
@@ -1558,6 +1946,8 @@
     },
     {
       "nr": 100,
+      "hauptgruppe": 38,
+      "untergruppe": 12,
       "schlagwort": "Kollision Boot / Yacht / Floß",
       "kategorie": "Wasser",
       "stichwort": "THL VU SCHIFF KOLLISION",
@@ -1566,6 +1956,8 @@
     },
     {
       "nr": 101,
+      "hauptgruppe": 38,
+      "untergruppe": 13,
       "schlagwort": "Schiff leck Passagierschiff",
       "kategorie": "Wasser",
       "stichwort": "THL VU SCHIFF LECK",
@@ -1574,6 +1966,8 @@
     },
     {
       "nr": 102,
+      "hauptgruppe": 38,
+      "untergruppe": 14,
       "schlagwort": "Schiff leck Frachtschiff",
       "kategorie": "Wasser",
       "stichwort": "THL VU SCHIFF LECK",
@@ -1582,6 +1976,8 @@
     },
     {
       "nr": 103,
+      "hauptgruppe": 39,
+      "untergruppe": 10,
       "schlagwort": "Zug",
       "kategorie": "VU",
       "stichwort": "THL VU ZUG",
@@ -1590,6 +1986,8 @@
     },
     {
       "nr": 1,
+      "hauptgruppe": 10,
+      "untergruppe": 10,
       "schlagwort": "undefinierbarer Geruch",
       "kategorie": "Geruch",
       "stichwort": "ABC 1",
@@ -1598,6 +1996,8 @@
     },
     {
       "nr": 2,
+      "hauptgruppe": 10,
+      "untergruppe": 11,
       "schlagwort": "Geruch nach Ammoniak",
       "kategorie": "Geruch",
       "stichwort": "ABC 1",
@@ -1606,6 +2006,8 @@
     },
     {
       "nr": 3,
+      "hauptgruppe": 10,
+      "untergruppe": 12,
       "schlagwort": "Geruch nach Chlor",
       "kategorie": "Geruch",
       "stichwort": "ABC 1",
@@ -1614,6 +2016,8 @@
     },
     {
       "nr": 4,
+      "hauptgruppe": 10,
+      "untergruppe": 13,
       "schlagwort": "Geruch nach Erdgas / Gas",
       "kategorie": "Geruch",
       "stichwort": "ABC 1",
@@ -1622,6 +2026,8 @@
     },
     {
       "nr": 5,
+      "hauptgruppe": 11,
+      "untergruppe": 10,
       "schlagwort": "auslaufender Kraftstoff (z. B.Benzin, Diesel)",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC KRAFTSTOFF",
@@ -1630,6 +2036,8 @@
     },
     {
       "nr": 6,
+      "hauptgruppe": 12,
+      "untergruppe": 10,
       "schlagwort": "verdächtiger Stoff",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC 2",
@@ -1638,6 +2046,8 @@
     },
     {
       "nr": 7,
+      "hauptgruppe": 12,
+      "untergruppe": 11,
       "schlagwort": "undefinierbare Flüssigkeit",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC 2",
@@ -1646,6 +2056,8 @@
     },
     {
       "nr": 8,
+      "hauptgruppe": 12,
+      "untergruppe": 12,
       "schlagwort": "undefinierbarer Gegenstand",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC 2",
@@ -1654,6 +2066,8 @@
     },
     {
       "nr": 9,
+      "hauptgruppe": 12,
+      "untergruppe": 13,
       "schlagwort": "kleine Menge",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC 2",
@@ -1662,6 +2076,8 @@
     },
     {
       "nr": 10,
+      "hauptgruppe": 12,
+      "untergruppe": 15,
       "schlagwort": "undefinierbares Pulver",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC 2",
@@ -1670,6 +2086,8 @@
     },
     {
       "nr": 11,
+      "hauptgruppe": 12,
+      "untergruppe": 14,
       "schlagwort": "Gasaustritt im Freien",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC 2",
@@ -1678,6 +2096,8 @@
     },
     {
       "nr": 12,
+      "hauptgruppe": 13,
+      "untergruppe": 10,
       "schlagwort": "große Menge",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC 3",
@@ -1686,6 +2106,8 @@
     },
     {
       "nr": 13,
+      "hauptgruppe": 13,
+      "untergruppe": 11,
       "schlagwort": "Gasaustritt brennbar",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC 3",
@@ -1694,6 +2116,8 @@
     },
     {
       "nr": 14,
+      "hauptgruppe": 13,
+      "untergruppe": 12,
       "schlagwort": "Gasaustritt im Gebäude",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC 3",
@@ -1702,6 +2126,8 @@
     },
     {
       "nr": 15,
+      "hauptgruppe": 14,
+      "untergruppe": 10,
       "schlagwort": "Brand Atom im Gebäude",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC B ATOM",
@@ -1710,6 +2136,8 @@
     },
     {
       "nr": 16,
+      "hauptgruppe": 14,
+      "untergruppe": 11,
       "schlagwort": "Brand Atom im Freien",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC B ATOM",
@@ -1718,6 +2146,8 @@
     },
     {
       "nr": 17,
+      "hauptgruppe": 14,
+      "untergruppe": 12,
       "schlagwort": "Brand Atom PKW / LKW",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC B ATOM",
@@ -1726,6 +2156,8 @@
     },
     {
       "nr": 18,
+      "hauptgruppe": 14,
+      "untergruppe": 13,
       "schlagwort": "Brand Atomkraftwerk (AKW)",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC B ATOM",
@@ -1734,6 +2166,8 @@
     },
     {
       "nr": 19,
+      "hauptgruppe": 15,
+      "untergruppe": 10,
       "schlagwort": "Brand Tankstelle",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC B",
@@ -1742,6 +2176,8 @@
     },
     {
       "nr": 20,
+      "hauptgruppe": 15,
+      "untergruppe": 11,
       "schlagwort": "Brand Biogasanlage",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC B",
@@ -1750,6 +2186,8 @@
     },
     {
       "nr": 21,
+      "hauptgruppe": 15,
+      "untergruppe": 12,
       "schlagwort": "Brand Raffinerie",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC B",
@@ -1758,6 +2196,8 @@
     },
     {
       "nr": 22,
+      "hauptgruppe": 15,
+      "untergruppe": 13,
       "schlagwort": "Brand Tanklager",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC B",
@@ -1766,6 +2206,8 @@
     },
     {
       "nr": 23,
+      "hauptgruppe": 15,
+      "untergruppe": 14,
       "schlagwort": "Brand Tankwagen",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC B",
@@ -1774,6 +2216,8 @@
     },
     {
       "nr": 24,
+      "hauptgruppe": 16,
+      "untergruppe": 10,
       "schlagwort": "Brand Bio im Gebäude",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC B BIO / CHEMIE",
@@ -1782,6 +2226,8 @@
     },
     {
       "nr": 25,
+      "hauptgruppe": 16,
+      "untergruppe": 11,
       "schlagwort": "Brand Bio im Freien",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC B BIO / CHEMIE",
@@ -1790,6 +2236,8 @@
     },
     {
       "nr": 26,
+      "hauptgruppe": 16,
+      "untergruppe": 12,
       "schlagwort": "Brand Bio PKW / LKW",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC B BIO / CHEMIE",
@@ -1798,6 +2246,8 @@
     },
     {
       "nr": 27,
+      "hauptgruppe": 16,
+      "untergruppe": 13,
       "schlagwort": "Brand Chemie im Gebäude",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC B BIO / CHEMIE",
@@ -1806,6 +2256,8 @@
     },
     {
       "nr": 28,
+      "hauptgruppe": 16,
+      "untergruppe": 14,
       "schlagwort": "Brand Chemie im Freien",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC B BIO / CHEMIE",
@@ -1814,6 +2266,8 @@
     },
     {
       "nr": 29,
+      "hauptgruppe": 16,
+      "untergruppe": 15,
       "schlagwort": "Brand Chemie Zug",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC B BIO / CHEMIE",
@@ -1822,6 +2276,8 @@
     },
     {
       "nr": 30,
+      "hauptgruppe": 16,
+      "untergruppe": 16,
       "schlagwort": "Brand Chemie LKW",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC B BIO / CHEMIE",
@@ -1830,6 +2286,8 @@
     },
     {
       "nr": 31,
+      "hauptgruppe": 17,
+      "untergruppe": 10,
       "schlagwort": "THL Atom Austritt im Gebäude",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL ATOM",
@@ -1838,6 +2296,8 @@
     },
     {
       "nr": 32,
+      "hauptgruppe": 17,
+      "untergruppe": 11,
       "schlagwort": "THL Atom Austritt im Freien",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL ATOM",
@@ -1846,6 +2306,8 @@
     },
     {
       "nr": 33,
+      "hauptgruppe": 17,
+      "untergruppe": 12,
       "schlagwort": "THL Atom PKW / LKW",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL ATOM",
@@ -1854,6 +2316,8 @@
     },
     {
       "nr": 34,
+      "hauptgruppe": 17,
+      "untergruppe": 13,
       "schlagwort": "THL VU Atom PKW / LKW",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL ATOM",
@@ -1862,6 +2326,8 @@
     },
     {
       "nr": 35,
+      "hauptgruppe": 18,
+      "untergruppe": 10,
       "schlagwort": "THL Bio Austritt im Freien",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL BIO / CHEMIE",
@@ -1870,6 +2336,8 @@
     },
     {
       "nr": 36,
+      "hauptgruppe": 18,
+      "untergruppe": 19,
       "schlagwort": "THL Bio Austritt im Gebäude",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL BIO / CHEMIE",
@@ -1878,6 +2346,8 @@
     },
     {
       "nr": 37,
+      "hauptgruppe": 18,
+      "untergruppe": 11,
       "schlagwort": "THL Bio PKW / LKW",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL BIO / CHEMIE",
@@ -1886,6 +2356,8 @@
     },
     {
       "nr": 38,
+      "hauptgruppe": 18,
+      "untergruppe": 12,
       "schlagwort": "THL Chemie Austritt im Gebäude",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL BIO / CHEMIE",
@@ -1894,6 +2366,8 @@
     },
     {
       "nr": 39,
+      "hauptgruppe": 18,
+      "untergruppe": 13,
       "schlagwort": "THL Chemie Austritt im Freien",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL BIO / CHEMIE",
@@ -1902,6 +2376,8 @@
     },
     {
       "nr": 40,
+      "hauptgruppe": 18,
+      "untergruppe": 14,
       "schlagwort": "THL Chemie PKW / LKW",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL BIO / CHEMIE",
@@ -1910,6 +2386,8 @@
     },
     {
       "nr": 41,
+      "hauptgruppe": 18,
+      "untergruppe": 15,
       "schlagwort": "THL VU Bio PKW / LKW",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL BIO / CHEMIE",
@@ -1918,6 +2396,8 @@
     },
     {
       "nr": 42,
+      "hauptgruppe": 18,
+      "untergruppe": 16,
       "schlagwort": "THL VU Chemie PKW / LKW",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL BIO / CHEMIE",
@@ -1926,6 +2406,8 @@
     },
     {
       "nr": 43,
+      "hauptgruppe": 18,
+      "untergruppe": 17,
       "schlagwort": "THL VU Chemie Zug",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC THL BIO / CHEMIE",
@@ -1934,6 +2416,8 @@
     },
     {
       "nr": 44,
+      "hauptgruppe": 19,
+      "untergruppe": 10,
       "schlagwort": "Explosion / Verpuffung",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC EXPLOSION",
@@ -1942,6 +2426,8 @@
     },
     {
       "nr": 45,
+      "hauptgruppe": 20,
+      "untergruppe": 10,
       "schlagwort": "Öl auf fließendem Gewässer",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC ÖL WASSER",
@@ -1950,6 +2436,8 @@
     },
     {
       "nr": 46,
+      "hauptgruppe": 20,
+      "untergruppe": 11,
       "schlagwort": "Öl auf stehendem Gewässer",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC ÖL WASSER",
@@ -1958,6 +2446,8 @@
     },
     {
       "nr": 47,
+      "hauptgruppe": 21,
+      "untergruppe": 10,
       "schlagwort": "undichter Heizöltank",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC ÖL LAND",
@@ -1966,6 +2456,8 @@
     },
     {
       "nr": 48,
+      "hauptgruppe": 21,
+      "untergruppe": 11,
       "schlagwort": "ausgedehnter Ölschaden",
       "kategorie": "Gefahrstoff",
       "stichwort": "ABC ÖL LAND",
@@ -1974,6 +2466,8 @@
     },
     {
       "nr": 49,
+      "hauptgruppe": 22,
+      "untergruppe": 10,
       "schlagwort": "Meldeanlage Ammoniak",
       "kategorie": "GMA",
       "stichwort": "ABC GEFAHRSTOFFMELDEANLAGE",
@@ -1982,6 +2476,8 @@
     },
     {
       "nr": 50,
+      "hauptgruppe": 22,
+      "untergruppe": 11,
       "schlagwort": "Meldeanlage Chlor",
       "kategorie": "GMA",
       "stichwort": "ABC GEFAHRSTOFFMELDEANLAGE",
@@ -1990,6 +2486,8 @@
     },
     {
       "nr": 51,
+      "hauptgruppe": 22,
+      "untergruppe": 12,
       "schlagwort": "Meldeanlage Stickstoff",
       "kategorie": "GMA",
       "stichwort": "ABC GEFAHRSTOFFMELDEANLAGE",
@@ -1998,6 +2496,8 @@
     },
     {
       "nr": 52,
+      "hauptgruppe": 22,
+      "untergruppe": 13,
       "schlagwort": "Meldeanlage CO2",
       "kategorie": "GMA",
       "stichwort": "ABC GEFAHRSTOFFMELDEANLAGE",
@@ -2006,6 +2506,8 @@
     },
     {
       "nr": 53,
+      "hauptgruppe": 22,
+      "untergruppe": 14,
       "schlagwort": "Meldeanlage Butan",
       "kategorie": "GMA",
       "stichwort": "ABC GEFAHRSTOFFMELDEANLAGE",
@@ -2014,6 +2516,8 @@
     },
     {
       "nr": 54,
+      "hauptgruppe": 22,
+      "untergruppe": 15,
       "schlagwort": "Meldeanlage Propan",
       "kategorie": "GMA",
       "stichwort": "ABC GEFAHRSTOFFMELDEANLAGE",
@@ -2022,6 +2526,8 @@
     },
     {
       "nr": 55,
+      "hauptgruppe": 22,
+      "untergruppe": 16,
       "schlagwort": "Meldeanlage unbekannt",
       "kategorie": "GMA",
       "stichwort": "ABC GEFAHRSTOFFMELDEANLAGE",
@@ -2030,6 +2536,8 @@
     },
     {
       "nr": 1,
+      "hauptgruppe": 10,
+      "untergruppe": 0,
       "schlagwort": "Bewusstsein",
       "kategorie": "Bewusstsein",
       "stichwort": "RD 1",
@@ -2038,6 +2546,8 @@
     },
     {
       "nr": 2,
+      "hauptgruppe": 10,
+      "untergruppe": 10,
       "schlagwort": "vitale Bedrohung",
       "kategorie": "Bewusstsein",
       "stichwort": "RD 2",
@@ -2046,6 +2556,8 @@
     },
     {
       "nr": 3,
+      "hauptgruppe": 10,
+      "untergruppe": 90,
       "schlagwort": "Nachforderung NA",
       "kategorie": "Bewusstsein",
       "stichwort": "RD 2",
@@ -2054,6 +2566,8 @@
     },
     {
       "nr": 4,
+      "hauptgruppe": 20,
+      "untergruppe": 0,
       "schlagwort": "Atmung",
       "kategorie": "Atmung",
       "stichwort": "RD 1",
@@ -2062,6 +2576,8 @@
     },
     {
       "nr": 5,
+      "hauptgruppe": 20,
+      "untergruppe": 10,
       "schlagwort": "vitale Bedrohung",
       "kategorie": "Atmung",
       "stichwort": "RD 2",
@@ -2070,6 +2586,8 @@
     },
     {
       "nr": 6,
+      "hauptgruppe": 20,
+      "untergruppe": 90,
       "schlagwort": "Nachforderung NA",
       "kategorie": "Atmung",
       "stichwort": "RD 2",
@@ -2078,6 +2596,8 @@
     },
     {
       "nr": 7,
+      "hauptgruppe": 30,
+      "untergruppe": 0,
       "schlagwort": "Herz/Kreislauf",
       "kategorie": "Herz/Kreislauf",
       "stichwort": "RD 1",
@@ -2086,6 +2606,8 @@
     },
     {
       "nr": 8,
+      "hauptgruppe": 30,
+      "untergruppe": 10,
       "schlagwort": "vitale Bedrohung",
       "kategorie": "Herz/Kreislauf",
       "stichwort": "RD 2",
@@ -2094,6 +2616,8 @@
     },
     {
       "nr": 9,
+      "hauptgruppe": 30,
+      "untergruppe": 20,
       "schlagwort": "Kreislaufstillstand/Reanimation",
       "kategorie": "Herz/Kreislauf",
       "stichwort": "RD 2",
@@ -2102,6 +2626,8 @@
     },
     {
       "nr": 10,
+      "hauptgruppe": 30,
+      "untergruppe": 90,
       "schlagwort": "Nachforderung NA",
       "kategorie": "Herz/Kreislauf",
       "stichwort": "RD 2",
@@ -2110,6 +2636,8 @@
     },
     {
       "nr": 11,
+      "hauptgruppe": 40,
+      "untergruppe": 0,
       "schlagwort": "Schmerzen",
       "kategorie": "",
       "stichwort": "RD 1",
@@ -2118,6 +2646,8 @@
     },
     {
       "nr": 12,
+      "hauptgruppe": 40,
+      "untergruppe": 10,
       "schlagwort": "Schmerzen - stark",
       "kategorie": "",
       "stichwort": "RD 2",
@@ -2126,6 +2656,8 @@
     },
     {
       "nr": 13,
+      "hauptgruppe": 40,
+      "untergruppe": 90,
       "schlagwort": "Schmerzen - Nachforderung NA",
       "kategorie": "",
       "stichwort": "RD 2",
@@ -2134,6 +2666,8 @@
     },
     {
       "nr": 14,
+      "hauptgruppe": 50,
+      "untergruppe": 0,
       "schlagwort": "Neuro",
       "kategorie": "Neuro/Psych",
       "stichwort": "RD 1",
@@ -2142,6 +2676,8 @@
     },
     {
       "nr": 15,
+      "hauptgruppe": 50,
+      "untergruppe": 10,
       "schlagwort": "Neuro - vitale Bedrohung",
       "kategorie": "Neuro/Psych",
       "stichwort": "RD 2",
@@ -2150,6 +2686,8 @@
     },
     {
       "nr": 16,
+      "hauptgruppe": 50,
+      "untergruppe": 90,
       "schlagwort": "Neuro - Nachforderung NA",
       "kategorie": "Neuro/Psych",
       "stichwort": "RD 2",
@@ -2158,6 +2696,8 @@
     },
     {
       "nr": 17,
+      "hauptgruppe": 51,
+      "untergruppe": 0,
       "schlagwort": "Psych",
       "kategorie": "Neuro/Psych",
       "stichwort": "RD 1",
@@ -2166,6 +2706,8 @@
     },
     {
       "nr": 18,
+      "hauptgruppe": 51,
+      "untergruppe": 10,
       "schlagwort": "Psych - vitale Bedrohung",
       "kategorie": "Neuro/Psych",
       "stichwort": "RD 2",
@@ -2174,6 +2716,8 @@
     },
     {
       "nr": 19,
+      "hauptgruppe": 51,
+      "untergruppe": 11,
       "schlagwort": "Psych - vitale Bedrohung - mit Polizei",
       "kategorie": "Neuro/Psych",
       "stichwort": "RD 2",
@@ -2182,6 +2726,8 @@
     },
     {
       "nr": 20,
+      "hauptgruppe": 51,
+      "untergruppe": 90,
       "schlagwort": "Psych - Nachforderung NA",
       "kategorie": "Neuro/Psych",
       "stichwort": "RD 2",
@@ -2190,6 +2736,8 @@
     },
     {
       "nr": 21,
+      "hauptgruppe": 60,
+      "untergruppe": 0,
       "schlagwort": "Trauma",
       "kategorie": "Trauma",
       "stichwort": "RD 1",
@@ -2198,6 +2746,8 @@
     },
     {
       "nr": 22,
+      "hauptgruppe": 60,
+      "untergruppe": 1,
       "schlagwort": "Verkehrsunfall (VU) nur RD",
       "kategorie": "Trauma",
       "stichwort": "RD 1",
@@ -2206,6 +2756,8 @@
     },
     {
       "nr": 23,
+      "hauptgruppe": 60,
+      "untergruppe": 10,
       "schlagwort": "vitale Bedrohung - Person verletzt schwer",
       "kategorie": "Trauma",
       "stichwort": "RD 2",
@@ -2214,6 +2766,8 @@
     },
     {
       "nr": 24,
+      "hauptgruppe": 60,
+      "untergruppe": 11,
       "schlagwort": "vitale Bedrohung - Verkehrsunfall (VU)nur RD",
       "kategorie": "Trauma",
       "stichwort": "RD 2",
@@ -2222,6 +2776,8 @@
     },
     {
       "nr": 25,
+      "hauptgruppe": 60,
+      "untergruppe": 20,
       "schlagwort": "vitale Bedrohung - Arbeitsunfall",
       "kategorie": "Trauma",
       "stichwort": "RD 2",
@@ -2230,6 +2786,8 @@
     },
     {
       "nr": 26,
+      "hauptgruppe": 60,
+      "untergruppe": 30,
       "schlagwort": "vitale Bedrohung - Starke Blutung",
       "kategorie": "Trauma",
       "stichwort": "RD 2",
@@ -2238,6 +2796,8 @@
     },
     {
       "nr": 27,
+      "hauptgruppe": 60,
+      "untergruppe": 40,
       "schlagwort": "vitale Bedrohung - Unfall (Schule, Kindergarten,Kita)",
       "kategorie": "Trauma",
       "stichwort": "RD 2",
@@ -2246,6 +2806,8 @@
     },
     {
       "nr": 28,
+      "hauptgruppe": 60,
+      "untergruppe": 90,
       "schlagwort": "Nachforderung NA",
       "kategorie": "Trauma",
       "stichwort": "RD 2",
@@ -2254,6 +2816,8 @@
     },
     {
       "nr": 29,
+      "hauptgruppe": 70,
+      "untergruppe": 0,
       "schlagwort": "(bis 12 Jahre) Erkrankt",
       "kategorie": "Kind",
       "stichwort": "RD 1",
@@ -2262,6 +2826,8 @@
     },
     {
       "nr": 30,
+      "hauptgruppe": 70,
+      "untergruppe": 1,
       "schlagwort": "(bis 12 Jahre) Trauma",
       "kategorie": "Kind",
       "stichwort": "RD 1",
@@ -2270,6 +2836,8 @@
     },
     {
       "nr": 31,
+      "hauptgruppe": 70,
+      "untergruppe": 2,
       "schlagwort": "Inkubator - Intensiv",
       "kategorie": "Kind",
       "stichwort": "RD 1",
@@ -2278,6 +2846,8 @@
     },
     {
       "nr": 32,
+      "hauptgruppe": 70,
+      "untergruppe": 3,
       "schlagwort": "Neugeborenen-Holdienst (NHD)",
       "kategorie": "Kind",
       "stichwort": "RD 1",
@@ -2286,6 +2856,8 @@
     },
     {
       "nr": 33,
+      "hauptgruppe": 70,
+      "untergruppe": 10,
       "schlagwort": "(bis 12 Jahre) Erkrankt - vitale Bedrohung",
       "kategorie": "Kind",
       "stichwort": "RD 2-KIND",
@@ -2294,6 +2866,8 @@
     },
     {
       "nr": 34,
+      "hauptgruppe": 70,
+      "untergruppe": 11,
       "schlagwort": "(bis 12 Jahre) Trauma - vitale Bedrohung",
       "kategorie": "Kind",
       "stichwort": "RD 2-KIND",
@@ -2302,6 +2876,8 @@
     },
     {
       "nr": 35,
+      "hauptgruppe": 70,
+      "untergruppe": 20,
       "schlagwort": "(bis 12 Jahre) Kreislaufstillstand/Reanimation",
       "kategorie": "Kind",
       "stichwort": "RD 2-KIND",
@@ -2310,6 +2886,8 @@
     },
     {
       "nr": 36,
+      "hauptgruppe": 70,
+      "untergruppe": 30,
       "schlagwort": "(bis 1 Jahr) Kreislaufstillstand/Reanimation",
       "kategorie": "Kind",
       "stichwort": "RD 2-KIND",
@@ -2318,6 +2896,8 @@
     },
     {
       "nr": 37,
+      "hauptgruppe": 70,
+      "untergruppe": 90,
       "schlagwort": "(bis 12 Jahre) Nachforderung NA",
       "kategorie": "Kind",
       "stichwort": "RD 2-KIND",
@@ -2326,6 +2906,8 @@
     },
     {
       "nr": 38,
+      "hauptgruppe": 81,
+      "untergruppe": 0,
       "schlagwort": "Erkundung/Vermisstensuche",
       "kategorie": "Bergrettung",
       "stichwort": "RD Bergrettung",
@@ -2334,6 +2916,8 @@
     },
     {
       "nr": 39,
+      "hauptgruppe": 81,
+      "untergruppe": 10,
       "schlagwort": "Rettungsdiensteinsatz in unwegsamen Gelände",
       "kategorie": "Bergrettung",
       "stichwort": "RD Bergrettung",
@@ -2342,6 +2926,8 @@
     },
     {
       "nr": 40,
+      "hauptgruppe": 81,
+      "untergruppe": 20,
       "schlagwort": "Höhlenunfall",
       "kategorie": "Bergrettung",
       "stichwort": "RD Bergrettung",
@@ -2350,6 +2936,8 @@
     },
     {
       "nr": 41,
+      "hauptgruppe": 81,
+      "untergruppe": 30,
       "schlagwort": "Bergrettung - Lawinenunfall",
       "kategorie": "Bergrettung",
       "stichwort": "RD Bergrettung",
@@ -2358,6 +2946,8 @@
     },
     {
       "nr": 42,
+      "hauptgruppe": 81,
+      "untergruppe": 40,
       "schlagwort": "Bergrettung - Canyonunfall",
       "kategorie": "Bergrettung",
       "stichwort": "RD Bergrettung",
@@ -2366,6 +2956,8 @@
     },
     {
       "nr": 43,
+      "hauptgruppe": 81,
+      "untergruppe": 50,
       "schlagwort": "Bergrettung - Skiunfall",
       "kategorie": "Bergrettung",
       "stichwort": "RD Bergrettung",
@@ -2374,6 +2966,8 @@
     },
     {
       "nr": 44,
+      "hauptgruppe": 81,
+      "untergruppe": 60,
       "schlagwort": "Seilbahnevakuierung",
       "kategorie": "Bergrettung",
       "stichwort": "RD Bergrettung",
@@ -2382,6 +2976,8 @@
     },
     {
       "nr": 45,
+      "hauptgruppe": 81,
+      "untergruppe": 70,
       "schlagwort": "Gleitschirm/Drachen in Baum",
       "kategorie": "Bergrettung",
       "stichwort": "RD Bergrettung",
@@ -2390,6 +2986,8 @@
     },
     {
       "nr": 46,
+      "hauptgruppe": 81,
+      "untergruppe": 80,
       "schlagwort": "fachliche Unterstützung für Andere",
       "kategorie": "Bergrettung",
       "stichwort": "RD Bergrettung",
@@ -2398,6 +2996,8 @@
     },
     {
       "nr": 47,
+      "hauptgruppe": 82,
+      "untergruppe": 0,
       "schlagwort": "Hilfeleistung",
       "kategorie": "Wasserrettung",
       "stichwort": "RD WASSERNOT 0",
@@ -2406,6 +3006,8 @@
     },
     {
       "nr": 48,
+      "hauptgruppe": 82,
+      "untergruppe": 1,
       "schlagwort": "gekentertes Boot",
       "kategorie": "Wasserrettung",
       "stichwort": "RD WASSERNOT 1",
@@ -2414,6 +3016,8 @@
     },
     {
       "nr": 49,
+      "hauptgruppe": 82,
+      "untergruppe": 2,
       "schlagwort": "mehrere gekenterte Boote",
       "kategorie": "Wasserrettung",
       "stichwort": "RD WASSERNOT 2",
@@ -2422,6 +3026,8 @@
     },
     {
       "nr": 50,
+      "hauptgruppe": 82,
+      "untergruppe": 3,
       "schlagwort": "Vermisstensuche",
       "kategorie": "Wasserrettung",
       "stichwort": "RD WASSERNOT 2",
@@ -2430,6 +3036,8 @@
     },
     {
       "nr": 51,
+      "hauptgruppe": 82,
+      "untergruppe": 10,
       "schlagwort": "1 Person in Wassernot",
       "kategorie": "Wasserrettung",
       "stichwort": "RD WASSERNOT 3",
@@ -2438,6 +3046,8 @@
     },
     {
       "nr": 52,
+      "hauptgruppe": 82,
+      "untergruppe": 11,
       "schlagwort": "2 bis 3 Personen in Wassernot",
       "kategorie": "Wasserrettung",
       "stichwort": "RD WASSERNOT 4",
@@ -2446,6 +3056,8 @@
     },
     {
       "nr": 53,
+      "hauptgruppe": 82,
+      "untergruppe": 12,
       "schlagwort": "ab 4 Personen in Wassernot",
       "kategorie": "Wasserrettung",
       "stichwort": "RD WASSERNOT 5",
@@ -2454,6 +3066,8 @@
     },
     {
       "nr": 54,
+      "hauptgruppe": 82,
+      "untergruppe": 20,
       "schlagwort": "Wasserrettung - Tauchunfall",
       "kategorie": "Wasserrettung",
       "stichwort": "RD TAUCHUNFALL",
@@ -2462,6 +3076,8 @@
     },
     {
       "nr": 55,
+      "hauptgruppe": 82,
+      "untergruppe": 30,
       "schlagwort": "auf dem Eis verletzt/erkrankt",
       "kategorie": "Wasserrettung",
       "stichwort": "RD EISUNFALL 1",
@@ -2470,6 +3086,8 @@
     },
     {
       "nr": 56,
+      "hauptgruppe": 82,
+      "untergruppe": 31,
       "schlagwort": "1 bis 2 Person(en) im Eiseingebrochen",
       "kategorie": "Wasserrettung",
       "stichwort": "RD EISUNFALL 2",
@@ -2478,6 +3096,8 @@
     },
     {
       "nr": 57,
+      "hauptgruppe": 82,
+      "untergruppe": 32,
       "schlagwort": "ab 3 Personen im Eiseingebrochen",
       "kategorie": "Wasserrettung",
       "stichwort": "RD EISUNFALL 3",
@@ -2486,6 +3106,8 @@
     },
     {
       "nr": 58,
+      "hauptgruppe": 90,
+      "untergruppe": 10,
       "schlagwort": "KTP - Transport zum Krankenhaus",
       "kategorie": "KTP",
       "stichwort": "RD KTP",
@@ -2494,6 +3116,8 @@
     },
     {
       "nr": 59,
+      "hauptgruppe": 90,
+      "untergruppe": 11,
       "schlagwort": "KTP - Verlegung",
       "kategorie": "KTP",
       "stichwort": "RD KTP",
@@ -2502,6 +3126,8 @@
     },
     {
       "nr": 60,
+      "hauptgruppe": 90,
+      "untergruppe": 12,
       "schlagwort": "KTP - Heimfahrt",
       "kategorie": "KTP",
       "stichwort": "RD KTP",
@@ -2510,6 +3136,8 @@
     },
     {
       "nr": 61,
+      "hauptgruppe": 90,
+      "untergruppe": 13,
       "schlagwort": "KTP - Ambulanzfahrt",
       "kategorie": "KTP",
       "stichwort": "RD KTP",
@@ -2518,6 +3146,8 @@
     },
     {
       "nr": 62,
+      "hauptgruppe": 90,
+      "untergruppe": 14,
       "schlagwort": "KTP - Unterbringung",
       "kategorie": "KTP",
       "stichwort": "RD KTP",
@@ -2526,6 +3156,8 @@
     },
     {
       "nr": 63,
+      "hauptgruppe": 90,
+      "untergruppe": 15,
       "schlagwort": "KTP - Inkubator",
       "kategorie": "KTP",
       "stichwort": "RD KTP",
@@ -2534,6 +3166,8 @@
     },
     {
       "nr": 64,
+      "hauptgruppe": 90,
+      "untergruppe": 16,
       "schlagwort": "KTP - Dialyse",
       "kategorie": "KTP",
       "stichwort": "RD KTP",
@@ -2542,6 +3176,8 @@
     },
     {
       "nr": 65,
+      "hauptgruppe": 90,
+      "untergruppe": 17,
       "schlagwort": "KTP - nicht disponibel (Prio 2)",
       "kategorie": "KTP",
       "stichwort": "RD KTP",
@@ -2550,6 +3186,8 @@
     },
     {
       "nr": 66,
+      "hauptgruppe": 90,
+      "untergruppe": 18,
       "schlagwort": "KTP - Wohnungswechsel",
       "kategorie": "KTP",
       "stichwort": "RD KTP",
@@ -2558,6 +3196,8 @@
     },
     {
       "nr": 67,
+      "hauptgruppe": 90,
+      "untergruppe": 19,
       "schlagwort": "KTP - sonstiger Transport",
       "kategorie": "KTP",
       "stichwort": "RD KTP",
@@ -2566,6 +3206,8 @@
     },
     {
       "nr": 68,
+      "hauptgruppe": 90,
+      "untergruppe": 20,
       "schlagwort": "KTP - Übernahme Landeplatz",
       "kategorie": "KTP",
       "stichwort": "RD KTP/RTW",
@@ -2574,6 +3216,8 @@
     },
     {
       "nr": 69,
+      "hauptgruppe": 90,
+      "untergruppe": 21,
       "schlagwort": "KTP - mit RTW",
       "kategorie": "KTP",
       "stichwort": "RD KTP/RTW",
@@ -2582,6 +3226,8 @@
     },
     {
       "nr": 70,
+      "hauptgruppe": 90,
+      "untergruppe": 22,
       "schlagwort": "KTP - Schwergewichtiger Patient",
       "kategorie": "KTP",
       "stichwort": "RD KTP/RTW",
@@ -2590,6 +3236,8 @@
     },
     {
       "nr": 71,
+      "hauptgruppe": 91,
+      "untergruppe": 0,
       "schlagwort": "Infekt Gr. 4/E",
       "kategorie": "KTP",
       "stichwort": "RD INFEKT GR4 / E",
@@ -2598,6 +3246,8 @@
     },
     {
       "nr": 72,
+      "hauptgruppe": 92,
+      "untergruppe": 1,
       "schlagwort": "Verlegung - nicht disponibel mit KTW (Prio 1)",
       "kategorie": "Verlegung",
       "stichwort": "RD KTP",
@@ -2606,6 +3256,8 @@
     },
     {
       "nr": 73,
+      "hauptgruppe": 92,
+      "untergruppe": 2,
       "schlagwort": "Verlegung - Notfalltransport mit RTW",
       "kategorie": "Verlegung",
       "stichwort": "RD 1",
@@ -2614,6 +3266,8 @@
     },
     {
       "nr": 74,
+      "hauptgruppe": 92,
+      "untergruppe": 3,
       "schlagwort": "Verlegung - Notfalltransport mit NA",
       "kategorie": "Verlegung",
       "stichwort": "RD 2",
@@ -2622,6 +3276,8 @@
     },
     {
       "nr": 75,
+      "hauptgruppe": 92,
+      "untergruppe": 20,
       "schlagwort": "Verlegung - VEF",
       "kategorie": "Verlegung",
       "stichwort": "RD VEF",
@@ -2630,6 +3286,8 @@
     },
     {
       "nr": 76,
+      "hauptgruppe": 92,
+      "untergruppe": 21,
       "schlagwort": "Verlegung - VEF und RTW",
       "kategorie": "Verlegung",
       "stichwort": "RD VEF",
@@ -2638,6 +3296,8 @@
     },
     {
       "nr": 77,
+      "hauptgruppe": 92,
+      "untergruppe": 30,
       "schlagwort": "Verlegung - ITW",
       "kategorie": "Verlegung",
       "stichwort": "RD ITW",
@@ -2646,6 +3306,8 @@
     },
     {
       "nr": 78,
+      "hauptgruppe": 92,
+      "untergruppe": 40,
       "schlagwort": "Verlegung - ITH",
       "kategorie": "Verlegung",
       "stichwort": "RD ITH",
@@ -2654,6 +3316,8 @@
     },
     {
       "nr": 79,
+      "hauptgruppe": 1,
+      "untergruppe": 0,
       "schlagwort": "Sonstiges Ereignis/Zustand",
       "kategorie": "Sonstige",
       "stichwort": "RD 1",
@@ -2662,6 +3326,8 @@
     },
     {
       "nr": 80,
+      "hauptgruppe": 1,
+      "untergruppe": 1,
       "schlagwort": "Sonstiges Ereignis/Zustand - Intoxikation",
       "kategorie": "Sonstige",
       "stichwort": "RD 1",
@@ -2670,6 +3336,8 @@
     },
     {
       "nr": 81,
+      "hauptgruppe": 1,
+      "untergruppe": 2,
       "schlagwort": "Sonstiges Ereignis/Zustand - Geburt/Entbindung",
       "kategorie": "Sonstige",
       "stichwort": "RD 1",
@@ -2678,6 +3346,8 @@
     },
     {
       "nr": 82,
+      "hauptgruppe": 1,
+      "untergruppe": 10,
       "schlagwort": "Sonstiges Ereignis/Zustand - vitale Bedrohung",
       "kategorie": "Sonstige",
       "stichwort": "RD 2",
@@ -2686,6 +3356,8 @@
     },
     {
       "nr": 83,
+      "hauptgruppe": 1,
+      "untergruppe": 11,
       "schlagwort": "Sonstiges Ereignis/Zustand - vitale Bedrohung - Intoxikation",
       "kategorie": "Sonstige",
       "stichwort": "RD 2",
@@ -2694,6 +3366,8 @@
     },
     {
       "nr": 84,
+      "hauptgruppe": 1,
+      "untergruppe": 12,
       "schlagwort": "Sonstiges Ereignis/Zustand - Geburt/Entbindung akut",
       "kategorie": "Sonstige",
       "stichwort": "RD 2",
@@ -2702,6 +3376,8 @@
     },
     {
       "nr": 85,
+      "hauptgruppe": 1,
+      "untergruppe": 90,
       "schlagwort": "Sonstiges Ereignis/Zustand - vitale Bedrohung - Nachforderung NA",
       "kategorie": "Sonstige",
       "stichwort": "RD 2",
@@ -2710,6 +3386,8 @@
     },
     {
       "nr": 86,
+      "hauptgruppe": 2,
+      "untergruppe": 0,
       "schlagwort": "Ärger",
       "kategorie": "Ärger",
       "stichwort": "RD 1",
@@ -2718,6 +3396,8 @@
     },
     {
       "nr": 87,
+      "hauptgruppe": 2,
+      "untergruppe": 10,
       "schlagwort": "Ärger - vitale Bedrohung",
       "kategorie": "Ärger",
       "stichwort": "RD 2",
@@ -2726,6 +3406,8 @@
     },
     {
       "nr": 88,
+      "hauptgruppe": 2,
+      "untergruppe": 20,
       "schlagwort": "Ärger - Geiselnahme",
       "kategorie": "Ärger",
       "stichwort": "RD 2",
@@ -2734,6 +3416,8 @@
     },
     {
       "nr": 89,
+      "hauptgruppe": 2,
+      "untergruppe": 21,
       "schlagwort": "Ärger - Amok",
       "kategorie": "Ärger",
       "stichwort": "RD AMOK RD",
@@ -2742,6 +3426,8 @@
     },
     {
       "nr": 90,
+      "hauptgruppe": 2,
+      "untergruppe": 30,
       "schlagwort": "Ärger - Schuss, Hieb- und Stichverletzung(en)",
       "kategorie": "Ärger",
       "stichwort": "RD 2",
@@ -2750,6 +3436,8 @@
     },
     {
       "nr": 91,
+      "hauptgruppe": 2,
+      "untergruppe": 90,
       "schlagwort": "Ärger - vitale Bedrohung - Nachforderung NA",
       "kategorie": "Ärger",
       "stichwort": "RD 2",
@@ -2758,6 +3446,8 @@
     },
     {
       "nr": 92,
+      "hauptgruppe": 3,
+      "untergruppe": 0,
       "schlagwort": "Hausnotruf aktiver Alarm",
       "kategorie": "Sonstige",
       "stichwort": "RD 1",
@@ -2766,6 +3456,8 @@
     },
     {
       "nr": 93,
+      "hauptgruppe": 4,
+      "untergruppe": 10,
       "schlagwort": "2 oder 3 verletzte/erkrankte Personen",
       "kategorie": "Sonstige",
       "stichwort": "RD 3",
@@ -2774,6 +3466,8 @@
     },
     {
       "nr": 94,
+      "hauptgruppe": 4,
+      "untergruppe": 20,
       "schlagwort": "4 oder 5 verletzte/erkrankte Personen",
       "kategorie": "Sonstige",
       "stichwort": "RD 4",
@@ -2782,6 +3476,8 @@
     },
     {
       "nr": 95,
+      "hauptgruppe": 4,
+      "untergruppe": 30,
       "schlagwort": "6 bis 9 verletzte/erkrankte Personen",
       "kategorie": "Sonstige",
       "stichwort": "RD 5",
@@ -2790,6 +3486,8 @@
     },
     {
       "nr": 96,
+      "hauptgruppe": 4,
+      "untergruppe": 40,
       "schlagwort": "10 bis 15 verletzte/erkrankte Personen",
       "kategorie": "Sonstige",
       "stichwort": "RD MANV10 - 15",
@@ -2798,6 +3496,8 @@
     },
     {
       "nr": 97,
+      "hauptgruppe": 4,
+      "untergruppe": 41,
       "schlagwort": "16 bis 25 verletzte/erkrankte Personen",
       "kategorie": "Sonstige",
       "stichwort": "RD MANV16 - 25",
@@ -2806,6 +3506,8 @@
     },
     {
       "nr": 98,
+      "hauptgruppe": 4,
+      "untergruppe": 42,
       "schlagwort": "26 bis 50 verletzte/erkrankte Personen",
       "kategorie": "Sonstige",
       "stichwort": "RD MANV26 - 50",
@@ -2814,6 +3516,8 @@
     },
     {
       "nr": 99,
+      "hauptgruppe": 4,
+      "untergruppe": 43,
       "schlagwort": "51 bis 100 verletzte/erkrankte Personen",
       "kategorie": "Sonstige",
       "stichwort": "RD MANV51 - 100",
@@ -2822,6 +3526,8 @@
     },
     {
       "nr": 100,
+      "hauptgruppe": 4,
+      "untergruppe": 44,
       "schlagwort": "mehr als 100 verletzte/erkrankte Personen",
       "kategorie": "Sonstige",
       "stichwort": "RD MANV ab 100",
@@ -2830,6 +3536,8 @@
     },
     {
       "nr": 101,
+      "hauptgruppe": 5,
+      "untergruppe": 10,
       "schlagwort": "Bereitstellung Rettungsmittel",
       "kategorie": "Sonstige",
       "stichwort": "RD ABSICHERUNG",
@@ -2838,6 +3546,8 @@
     },
     {
       "nr": 102,
+      "hauptgruppe": 5,
+      "untergruppe": 20,
       "schlagwort": "Dienstfahrt",
       "kategorie": "Sonstige",
       "stichwort": "RD ABSICHERUNG",
@@ -2846,6 +3556,8 @@
     },
     {
       "nr": 103,
+      "hauptgruppe": 5,
+      "untergruppe": 30,
       "schlagwort": "Werkstattfahrt",
       "kategorie": "Sonstige",
       "stichwort": "RD SONSTIGE",
@@ -2854,6 +3566,8 @@
     },
     {
       "nr": 104,
+      "hauptgruppe": 5,
+      "untergruppe": 40,
       "schlagwort": "Gebietsabsicherung",
       "kategorie": "Sonstige",
       "stichwort": "RD SONSTIGE",
@@ -2862,6 +3576,8 @@
     },
     {
       "nr": 105,
+      "hauptgruppe": 5,
+      "untergruppe": 32,
       "schlagwort": "Betreuung von Personen Anzahl kleiner 50",
       "kategorie": "Sonstige",
       "stichwort": "RD BETREUUNG",
@@ -2870,6 +3586,8 @@
     },
     {
       "nr": 106,
+      "hauptgruppe": 5,
+      "untergruppe": 31,
       "schlagwort": "Betreuung von Personen Anzahl größer 50",
       "kategorie": "Sonstige",
       "stichwort": "RD BETREUUNG",
@@ -2878,6 +3596,8 @@
     },
     {
       "nr": 107,
+      "hauptgruppe": 8,
+      "untergruppe": 10,
       "schlagwort": "Hilfeleistung - nicht zeitkritisch",
       "kategorie": "Sonstige",
       "stichwort": "RD HILFE/SONSTIGE",
@@ -2886,6 +3606,8 @@
     },
     {
       "nr": 108,
+      "hauptgruppe": 8,
+      "untergruppe": 20,
       "schlagwort": "Lotsenfahrt durch RD-Fahrzeuge",
       "kategorie": "Sonstige",
       "stichwort": "RD HILFE/SONSTIGE",
@@ -2894,6 +3616,8 @@
     },
     {
       "nr": 109,
+      "hauptgruppe": 8,
+      "untergruppe": 30,
       "schlagwort": "Transport - von Transplantat / Organ / Blutkonserven / med. Gerät",
       "kategorie": "Sonstige",
       "stichwort": "RD HILFE/SONSTIGE",
@@ -2902,6 +3626,8 @@
     },
     {
       "nr": 110,
+      "hauptgruppe": 8,
+      "untergruppe": 32,
       "schlagwort": "Anforderung RD von Fremd-ILS Bayern",
       "kategorie": "Sonstige",
       "stichwort": "RD HILFE/SONSTIGE",
@@ -2910,6 +3636,8 @@
     },
     {
       "nr": 111,
+      "hauptgruppe": 8,
+      "untergruppe": 31,
       "schlagwort": "Anforderung RD von Fremd-ILS nicht Bayern",
       "kategorie": "Sonstige",
       "stichwort": "RD HILFE/SONSTIGE",
@@ -2918,6 +3646,8 @@
     },
     {
       "nr": 1,
+      "hauptgruppe": 1,
+      "untergruppe": 1,
       "schlagwort": "",
       "kategorie": "Sonstige",
       "stichwort": "SON BELEUCHTUNG",
@@ -2926,6 +3656,8 @@
     },
     {
       "nr": 2,
+      "hauptgruppe": 2,
+      "untergruppe": 1,
       "schlagwort": "",
       "kategorie": "Sonstige",
       "stichwort": "SON EINGLEISEN",
@@ -2934,6 +3666,8 @@
     },
     {
       "nr": 3,
+      "hauptgruppe": 3,
+      "untergruppe": 1,
       "schlagwort": "",
       "kategorie": "Sonstige",
       "stichwort": "SON HILFE/SONSTIGES FW",
@@ -2942,6 +3676,8 @@
     },
     {
       "nr": 4,
+      "hauptgruppe": 4,
+      "untergruppe": 1,
       "schlagwort": "",
       "kategorie": "Sonstige",
       "stichwort": "SON HUBSCHRAUBERLANDUNG",
@@ -2950,6 +3686,8 @@
     },
     {
       "nr": 5,
+      "hauptgruppe": 5,
+      "untergruppe": 1,
       "schlagwort": "Motorradstreife",
       "kategorie": "Sonstige",
       "stichwort": "SON MOTORRADSTREIFE",
@@ -2958,6 +3696,8 @@
     },
     {
       "nr": 6,
+      "hauptgruppe": 10,
+      "untergruppe": 1,
       "schlagwort": "Betroffene",
       "kategorie": "PSNV",
       "stichwort": "SON PSNV (B)",
@@ -2966,6 +3706,8 @@
     },
     {
       "nr": 7,
+      "hauptgruppe": 10,
+      "untergruppe": 2,
       "schlagwort": "Einsatzkräfte",
       "kategorie": "PSNV",
       "stichwort": "SON PSNV (E)",
@@ -2974,6 +3716,8 @@
     },
     {
       "nr": 8,
+      "hauptgruppe": 6,
+      "untergruppe": 1,
       "schlagwort": "",
       "kategorie": "",
       "stichwort": "SON THW BEREITSCHAFT",
@@ -2982,6 +3726,8 @@
     },
     {
       "nr": 9,
+      "hauptgruppe": 7,
+      "untergruppe": 1,
       "schlagwort": "Tragehilfe für den Rettungsdienst",
       "kategorie": "Sonstige",
       "stichwort": "SON TRAGEHILFE",
@@ -2990,6 +3736,8 @@
     },
     {
       "nr": 10,
+      "hauptgruppe": 8,
+      "untergruppe": 1,
       "schlagwort": "",
       "kategorie": "Sonstige",
       "stichwort": "SON ÜBERÖRTLICHER EINSATZ",
@@ -2998,6 +3746,8 @@
     },
     {
       "nr": 1,
+      "hauptgruppe": 10,
+      "untergruppe": 1,
       "schlagwort": "Abnahme BMA",
       "kategorie": "BMA",
       "stichwort": "INF ABNAHME BMA",
@@ -3006,6 +3756,8 @@
     },
     {
       "nr": 3,
+      "hauptgruppe": 12,
+      "untergruppe": 1,
       "schlagwort": "Apothekenauskunft",
       "kategorie": "Auskunft",
       "stichwort": "INF APOTHEKENAUSKUNFT",
@@ -3014,6 +3766,8 @@
     },
     {
       "nr": 4,
+      "hauptgruppe": 1,
+      "untergruppe": 10,
       "schlagwort": "Ausfall - Fahrzeugdefekt",
       "kategorie": "Ausfall",
       "stichwort": "INF AUSFALL",
@@ -3022,6 +3776,8 @@
     },
     {
       "nr": 5,
+      "hauptgruppe": 1,
+      "untergruppe": 11,
       "schlagwort": "Ausfall - Gerätedefekt",
       "kategorie": "Ausfall",
       "stichwort": "INF AUSFALL",
@@ -3030,6 +3786,8 @@
     },
     {
       "nr": 6,
+      "hauptgruppe": 1,
+      "untergruppe": 12,
       "schlagwort": "Ausfall - Eigenunfall",
       "kategorie": "Ausfall",
       "stichwort": "INF AUSFALL",
@@ -3038,6 +3796,8 @@
     },
     {
       "nr": 7,
+      "hauptgruppe": 1,
+      "untergruppe": 20,
       "schlagwort": "Ausfall - Planungsfehler",
       "kategorie": "Ausfall",
       "stichwort": "INF AUSFALL",
@@ -3046,6 +3806,8 @@
     },
     {
       "nr": 8,
+      "hauptgruppe": 1,
+      "untergruppe": 21,
       "schlagwort": "Ausfall - Personalausfall RD-Personal",
       "kategorie": "Ausfall",
       "stichwort": "INF AUSFALL",
@@ -3054,6 +3816,8 @@
     },
     {
       "nr": 9,
+      "hauptgruppe": 1,
+      "untergruppe": 22,
       "schlagwort": "Ausfall - Personalverschulden",
       "kategorie": "Ausfall",
       "stichwort": "INF AUSFALL",
@@ -3062,6 +3826,8 @@
     },
     {
       "nr": 10,
+      "hauptgruppe": 1,
+      "untergruppe": 30,
       "schlagwort": "Ausfall - Personalausfall Arzt",
       "kategorie": "Ausfall",
       "stichwort": "INF AUSFALL",
@@ -3070,6 +3836,8 @@
     },
     {
       "nr": 11,
+      "hauptgruppe": 1,
+      "untergruppe": 40,
       "schlagwort": "Ausfall - Witterung",
       "kategorie": "Ausfall",
       "stichwort": "INF AUSFALL",
@@ -3078,6 +3846,8 @@
     },
     {
       "nr": 12,
+      "hauptgruppe": 1,
+      "untergruppe": 50,
       "schlagwort": "Ausfall - Desinfektion",
       "kategorie": "Ausfall",
       "stichwort": "INF AUSFALL",
@@ -3086,6 +3856,8 @@
     },
     {
       "nr": 13,
+      "hauptgruppe": 13,
+      "untergruppe": 1,
       "schlagwort": "BMA Probe",
       "kategorie": "BMA",
       "stichwort": "INF BMA PROBE",
@@ -3094,6 +3866,8 @@
     },
     {
       "nr": 14,
+      "hauptgruppe": 13,
+      "untergruppe": 2,
       "schlagwort": "BMA Störung",
       "kategorie": "BMA",
       "stichwort": "INF BMA STÖRUNG",
@@ -3102,6 +3876,8 @@
     },
     {
       "nr": 15,
+      "hauptgruppe": 14,
+      "untergruppe": 1,
       "schlagwort": "Eigenunfall",
       "kategorie": "Benachrichtigung",
       "stichwort": "INF EIGENUNFALL",
@@ -3110,6 +3886,8 @@
     },
     {
       "nr": 16,
+      "hauptgruppe": 15,
+      "untergruppe": 1,
       "schlagwort": "Giftnotruf",
       "kategorie": "INF",
       "stichwort": "INF GIFTNOTRUF",
@@ -3118,6 +3896,8 @@
     },
     {
       "nr": 17,
+      "hauptgruppe": 16,
+      "untergruppe": 1,
       "schlagwort": "Hochwassermeldung",
       "kategorie": "Benachrichtigung",
       "stichwort": "INF HOCHWASSERMELDUNG",
@@ -3126,6 +3906,8 @@
     },
     {
       "nr": 18,
+      "hauptgruppe": 17,
+      "untergruppe": 1,
       "schlagwort": "Vermittlung KVB-Arzt",
       "kategorie": "Auskunft",
       "stichwort": "INF KASSENÄRZTLICHER BEREITSCHAFTSDIENST",
@@ -3134,6 +3916,8 @@
     },
     {
       "nr": 19,
+      "hauptgruppe": 18,
+      "untergruppe": 1,
       "schlagwort": "Luftbeobachtung",
       "kategorie": "Sonstiges",
       "stichwort": "INF LUFTBEOBACHTUNG",
@@ -3142,6 +3926,8 @@
     },
     {
       "nr": 20,
+      "hauptgruppe": 19,
+      "untergruppe": 1,
       "schlagwort": "Öffentlichkeitsarbeit",
       "kategorie": "Sonstiges",
       "stichwort": "INF ÖFFENTLICHKEITSARBEIT",
@@ -3150,6 +3936,8 @@
     },
     {
       "nr": 21,
+      "hauptgruppe": 20,
+      "untergruppe": 1,
       "schlagwort": "Probealarm",
       "kategorie": "Sonstiges",
       "stichwort": "INF PROBEALARM",
@@ -3158,6 +3946,8 @@
     },
     {
       "nr": 22,
+      "hauptgruppe": 21,
+      "untergruppe": 1,
       "schlagwort": "Sanitätsdienst",
       "kategorie": "Sonstiges",
       "stichwort": "INF SAN-DIENST",
@@ -3166,6 +3956,8 @@
     },
     {
       "nr": 23,
+      "hauptgruppe": 22,
+      "untergruppe": 1,
       "schlagwort": "Sicherheitswache",
       "kategorie": "Sonstiges",
       "stichwort": "INF SICHERHEITSWACHE",
@@ -3174,6 +3966,8 @@
     },
     {
       "nr": 24,
+      "hauptgruppe": 23,
+      "untergruppe": 1,
       "schlagwort": "Unwetterwarnung",
       "kategorie": "Benachrichtigung",
       "stichwort": "INF UNWETTERWARNUNG",
@@ -3182,6 +3976,8 @@
     },
     {
       "nr": 25,
+      "hauptgruppe": 24,
+      "untergruppe": 1,
       "schlagwort": "Verkehrssicherung",
       "kategorie": "Sonstiges",
       "stichwort": "INF VERKEHRSSICHERUNG",
@@ -3190,6 +3986,8 @@
     },
     {
       "nr": 26,
+      "hauptgruppe": 25,
+      "untergruppe": 1,
       "schlagwort": "Wachbesetzung",
       "kategorie": "Sonstiges",
       "stichwort": "INF WACHBESETZUNG",
@@ -3198,6 +3996,8 @@
     },
     {
       "nr": 27,
+      "hauptgruppe": 26,
+      "untergruppe": 1,
       "schlagwort": "Zahnarztnotdienst",
       "kategorie": "Auskunft",
       "stichwort": "INF ZAHNARZTNOTDIENST",
