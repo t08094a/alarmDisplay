@@ -9,6 +9,7 @@ import { MatTabsModule } from '@angular/material';
 
 import { AppComponent } from './app.component';
 import { AlarmInfoComponent } from './latest-alarm-view/alarm-info/alarm-info.component';
+import { AbekService } from './latest-alarm-view/alarm-info/services/abek.service';
 import { HydrantplanComponent } from './latest-alarm-view/hydrantplan/hydrantplan.component';
 import { CommonInfoComponent } from './common-info/common-info.component';
 import { NavigationComponent } from './latest-alarm-view/navigation/navigation.component';
@@ -42,7 +43,12 @@ import { EventService } from './common-info/termine-view/services/event-service'
         BrowserAnimationsModule,
         MatTabsModule
     ],
-    providers: [OverpassService, MarkerCreatorService, EventService],
+    providers: [
+        OverpassService,
+        MarkerCreatorService,
+        EventService,
+        AbekService
+    ],
     bootstrap: [AppComponent]
 })
 export class AppModule {}

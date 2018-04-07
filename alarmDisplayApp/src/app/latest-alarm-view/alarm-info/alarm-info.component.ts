@@ -1,5 +1,7 @@
+import { AbekService } from './services/abek.service';
 import { AlarmContent } from './alarm-content';
 import { Component, OnInit } from '@angular/core';
+import { AlarmItem } from './services/alarm-item';
 
 @Component({
     selector: 'app-alarm-info',
@@ -9,8 +11,9 @@ import { Component, OnInit } from '@angular/core';
 export class AlarmInfoComponent implements OnInit {
 
     public alarmInfo: AlarmContent;
+    public abekInfo: AlarmItem;
 
-    constructor() {}
+    constructor(private abekService: AbekService) {}
 
     ngOnInit() {
         this.alarmInfo = {
@@ -20,5 +23,11 @@ export class AlarmInfoComponent implements OnInit {
             Prioritaet: 1,
             Bemerkung: '51236122-03: 5.1.3 NEA Camp'
         };
+
+        this.abekService.getAlarmItem('#B1710#Meldeanlage#Brandmeldeanlage')
+                        .then(data => {
+                            this.abekInfo = data;
+                        })
+                        .catch(error => console.error(error));
     }
 }
