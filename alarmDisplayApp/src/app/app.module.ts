@@ -5,7 +5,7 @@ import { NgModule } from '@angular/core';
 import { AgmCoreModule } from '@agm/core';
 import { AgmDirectionModule } from 'agm-direction';
 import { LeafletModule } from '@asymmetrik/ngx-leaflet';
-import { MatTabsModule } from '@angular/material';
+import { MatTabsModule, MatGridListModule } from '@angular/material';
 
 import { AppComponent } from './app.component';
 import { AlarmInfoComponent } from './latest-alarm-view/alarm-info/alarm-info.component';
@@ -41,7 +41,8 @@ import { EventService } from './common-info/termine-view/services/event-service'
         AgmDirectionModule,
         LeafletModule.forRoot(),
         BrowserAnimationsModule,
-        MatTabsModule
+        MatTabsModule,
+        MatGridListModule
     ],
     providers: [
         OverpassService,

@@ -1,27 +1,34 @@
 <h1>Einsatzinfo</h1>
 
-<div *ngIf="alarmInfo">
-    <div *ngIf="alarmInfo.Alarmzeit">
-        Alarmzeit: {{alarmInfo.Alarmzeit | date: 'HH:mm'}} Uhr
-    </div>
+<mat-grid-list *ngIf="alarmInfo" cols="2" rowHeight="25px" role="list">
+    <mat-grid-tile style.background="lightblue" role="listitem">
+        <div *ngIf="alarmInfo.Alarmzeit">
+            Alarmzeit: {{alarmInfo.Alarmzeit | date: 'HH:mm'}} Uhr
+        </div>
+    </mat-grid-tile>
 
-    <div *ngIf="alarmInfo.Einsatzort">
-        Einsatzort: {{alarmInfo.Einsatzort}}
-    </div>
+    <mat-grid-tile style.background="lightgreen" role="listitem">
+        <div *ngIf="alarmInfo.Einsatzort">
+            Einsatzort: {{alarmInfo.Einsatzort}}
+        </div>
+    </mat-grid-tile>
 
-    <div *ngIf="alarmInfo.Schlagwort">
-        Schlagwort: {{alarmInfo.Schlagwort}}
-    </div>
+    <mat-grid-tile style.background="lightpink" role="listitem">
+        <div *ngIf="alarmInfo.Prioritaet">
+            Priorität: {{alarmInfo.Prioritaet}}
+        </div>
+    </mat-grid-tile>
 
-    <div *ngIf="alarmInfo.Prioritaet">
-        Priorität: {{alarmInfo.Prioritaet}}
-    </div>
+    <mat-grid-tile style.background="lightblue" role="listitem">
+        <div *ngIf="alarmInfo.Bemerkung">
+            Bemerkung: {{alarmInfo.Bemerkung}}
+        </div>
+    </mat-grid-tile>
 
-    <div *ngIf="alarmInfo.Bemerkung">
-        Bemerkung: {{alarmInfo.Bemerkung}}
-    </div>
+    <mat-grid-tile style.background="lightgreen" colspan="2" role="listitem">
+        <div *ngIf="abekInfo">
+            ABek: {{abekInfo.Schlagwort}} ({{abekInfo.Stichwort}}) {{abekInfo.Material}}
+        </div>
+    </mat-grid-tile>
 
-    <div *ngIf="abekInfo">
-        ABek: {{abekInfo.Schlagwort}} {{abekInfo.Kategorie}} ({{abekInfo.Stichwort}}) {{abekInfo.Material}}
-    </div>
-</div>
+</mat-grid-list>
