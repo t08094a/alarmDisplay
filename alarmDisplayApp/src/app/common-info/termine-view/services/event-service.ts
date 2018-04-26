@@ -23,7 +23,7 @@ export class EventService {
     public getEvents(startDate: Date, maxResults: number): Promise<EventItem[]> {
         // clear time and behold the date
         // tslint:disable-next-line:max-line-length
-        const todayAtMidn = new Date(startDate.getFullYear(), startDate.getMonth(), startDate.getDay(), 0, -1 * startDate.getTimezoneOffset(), 0);
+        const todayAtMidn = new Date(startDate.getFullYear(), startDate.getMonth(), startDate.getDate(), 0, -1 * startDate.getTimezoneOffset(), 0);
         const timeMin = encodeURIComponent(todayAtMidn.toISOString());
 
         // tslint:disable-next-line:max-line-length
