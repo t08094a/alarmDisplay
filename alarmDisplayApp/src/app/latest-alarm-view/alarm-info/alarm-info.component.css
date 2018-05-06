@@ -2,3 +2,7 @@ mat-grid-tile div {
     position: absolute;
     left: 0px;
 }
+
+.titleIcon {
+    margin-right: 20px;
+}
