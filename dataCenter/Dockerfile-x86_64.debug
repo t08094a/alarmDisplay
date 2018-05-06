@@ -1,0 +1,23 @@
+FROM node
+
+# install nodemon
+RUN npm install nodemon -g
+
+# create app directory
+WORKDIR /src
+
+# install app dependencies
+# a wildcard is used to ensure both package.json and package-lock.json are copied
+# where available (npm@5+)
+COPY package*.json ./
+
+RUN npm install
+
+# if you are building your code for production
+#RUN npm install --only=production
+
+# bundle app source in docker image
+COPY ./server /src/
+
+EXPOSE 3000
+ENTRYPOINT ["/bin/bash", "-c", "if [ -z \"$REMOTE_DEBUGGING\" ]; then nodemon -L --inspect; else nodemon -L --inspect-brk; fi"]

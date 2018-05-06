@@ -1,0 +1,45 @@
+version: '3'
+services:
+
+  datacenter-api:
+    build:
+      context: ./
+      dockerfile: Dockerfile-x86_64.debug
+    image: datacenter-api:debug
+    restart: always
+    depends_on:
+      - mongo
+    links:
+      - mongo:mongo
+    networks:
+      - alarmdisplay-net
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/src
+    environment:
+      - PORT=3000
+      - MONGO_DB_URI=mongodb://mongo_root:mongo_pwd@mongo:27017/admin
+      - REMOTE_DEBUGGING
+
+
+  mongo:
+    image: mongo
+    volumes:
+      - db_data:/data/db
+    restart: always
+    ports:
+      - "27017:27017"
+    networks:
+      - alarmdisplay-net
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=mongo_root
+      - MONGO_INITDB_ROOT_PASSWORD=mongo_pwd
+      - MONGO_INITDB_DATABASE=alarmdata
+
+volumes:
+  db_data:
+
+networks:
+  alarmdisplay-net:
+    driver: bridge
