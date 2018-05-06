@@ -1,0 +1,14 @@
+.title {
+    /* font-style: oblique;
+    font-weight: bold; */
+    vertical-align: middle;
+}
+
+.infoIcon div {
+    display: table;
+}
+
+.infoIcon i {
+    vertical-align: middle;
+    display: table-cell;
+}

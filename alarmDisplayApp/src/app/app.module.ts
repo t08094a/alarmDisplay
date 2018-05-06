@@ -6,6 +6,7 @@ import { AgmCoreModule } from '@agm/core';
 import { AgmDirectionModule } from 'agm-direction';
 import { LeafletModule } from '@asymmetrik/ngx-leaflet';
 import { MatTabsModule, MatGridListModule } from '@angular/material';
+import { CarouselModule } from 'primeng/components/carousel/carousel';
 
 import { AppComponent } from './app.component';
 import { AlarmInfoComponent } from './latest-alarm-view/alarm-info/alarm-info.component';
@@ -42,7 +43,8 @@ import { EventService } from './common-info/termine-view/services/event-service'
         LeafletModule.forRoot(),
         BrowserAnimationsModule,
         MatTabsModule,
-        MatGridListModule
+        MatGridListModule,
+        CarouselModule
     ],
     providers: [
         OverpassService,

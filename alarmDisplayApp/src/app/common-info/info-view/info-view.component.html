@@ -1,3 +1,20 @@
-<p>
-  info-view works!
-</p>
+<p-carousel [value]="items" headerText="wichtige Informationen" circular="circular" autoplayInterval="20000">
+    <ng-template let-item pTemplate="item">
+        <div class="ui-grid">
+            <div class="ui-grid-row">
+                <div class="ui-grid-col-2 infoIcon">
+                    <i class="fa fa-info-circle fa-4x infoIcon"></i>
+                </div>
+
+                <div class="ui-grid-col-10">
+                    <div class="ui-grid-row">
+                        <h2 class="ui-grid-col-12 title">{{item.title}}</h2>
+                    </div>
+                    <div class="ui-grid-row" *ngIf="item.description">
+                        <div class="ui-grid-col-12">{{item.description}}</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </ng-template>
+</p-carousel>
