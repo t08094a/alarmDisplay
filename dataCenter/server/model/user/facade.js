@@ -1,7 +1,7 @@
 const Facade = require('../../lib/facade');
-const userSchema = require('./schema');
+const accountSchema = require('./schema');
 
-class UserFacade extends Facade {
+class AccountFacade extends Facade {
   update(...args) {
     return this.model
       .update(...args)
@@ -9,4 +9,4 @@ class UserFacade extends Facade {
   }
 }
 
-module.exports = new UserFacade(userSchema);
+module.exports = new AccountFacade(accountSchema);

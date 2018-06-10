@@ -17,58 +17,35 @@ router.route('/:id')
   .get((...args) => controller.findById(...args))
   .delete((...args) => controller.remove(...args));
 
+router.get('/register', function(req, res) {
+    res.render('register', { });
+});
+router.post('/register', function(req, res) {
+  controller.register(new Account({ username : req.body.username }), req.body.password, function(err, account) {
+      if (err) {
+          return res.render('register', { account : account });
+      }
+
+      passport.authenticate('local')(req, res, function () {
+          res.redirect('/');
+      });
+  });
+});
+
 router.route('/auth/session')
-  .get(isLoggedIn, controller.getSession)
+  .get(isLoggedIn, controller.getSession);
 router.route('/auth/logout')
   .get(isLoggedIn, controller.logout);
 
-// Facebook Routes
-router.route('/auth/facebook/login')
-  .get(controller.authenticateFacebook);
-router.route('/auth/facebook/callback')
-  .get(controller.callbackAuthFacebook);
-router.route('/connect/facebook/login')
-  .get(controller.authorizeFacebook)
-router.route('/connect/facebook/callback')
-  .get(controller.callbackAuthzFacebook)
-router.route('/unlink/facebook')
-  .get((...args) => controller.unlinkFacebook(...args))
-
-// Twitter Routes
-router.route('/auth/twitter/login')
-  .get(controller.authenticateTwitter);
-router.route('/auth/twitter/callback')
-  .get(controller.callbackAuthTwitter);
-router.route('/connect/twitter/login')
-  .get(controller.authorizeTwitter)
-router.route('/connect/twitter/callback')
-  .get(controller.callbackAuthzTwitter)
-router.route('/unlink/twitter')
-  .get((...args) => controller.unlinkTwitter(...args))
-
-// Google Routes
-router.route('/auth/google/login')
-  .get(controller.authenticateGoogle);
-router.route('/auth/google/callback')
-  .get(controller.callbackAuthGoogle);
-router.route('/connect/google/login')
-  .get(controller.authorizeGoogle)
-router.route('/connect/google/callback')
-  .get(controller.callbackAuthzGoogle)
-router.route('/unlink/google')
-  .get((...args) => controller.unlinkGoogle(...args))
-
-// Github Routes
-router.route('/auth/github/login')
-  .get(controller.authenticateGithub);
-router.route('/auth/github/callback')
-  .get(controller.callbackAuthGithub);
-router.route('/connect/github/login')
-  .get(controller.authorizeGithub)
-router.route('/connect/github/callback')
-  .get(controller.callbackAuthzGithub)
-router.route('/unlink/github')
-  .get((...args) => controller.unlinkGithub(...args))
+// Local Routes
+router.route('/auth/login')
+  .get(controller.authenticateLocal);
+router.route('/auth/callback')
+  .get(controller.callbackAuthLocal);
+router.route('/connect/login')
+  .get(controller.authorizeLocal);
+router.route('/connect/callback')
+  .get(controller.callbackAuthzLocal);
 
 
 module.exports = router;
