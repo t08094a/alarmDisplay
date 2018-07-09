@@ -2,8 +2,8 @@ import { environment } from './../../../../environments/environment';
 import { EventItem } from './../event-item';
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { Observable } from 'rxjs/Observable';
-import 'rxjs/add/operator/map';
+import { map } from 'rxjs/operators';
+
 
 /**
  * Queries events form google calendar.
@@ -32,7 +32,7 @@ export class EventService {
 
         const promise = new Promise<EventItem[]>((resolve, reject) => {
             this.httpClient.get<EventItem[]>(url)
-                        .map(this.mapItems)
+                        .pipe(map(this.mapItems))
                         .toPromise()
                         .then(data => {
                             resolve(data);
