@@ -45,3 +45,7 @@ alarmDisplayApp/src/environments/environment.ts
 
 # PyCharm
 .idea/
+
+# maven
+!.mvn/wrapper/maven-wrapper.jar
+!maven-wrapper.jar

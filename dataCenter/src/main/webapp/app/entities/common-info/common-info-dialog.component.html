@@ -47,7 +47,7 @@
             <input type="checkbox" class="form-control" name="alarmRelevant" id="field_alarmRelevant"
                 [(ngModel)]="commonInfo.alarmRelevant" />
         </div>
-        <div class="form-group">
+        <div class="form-group" *ngIf="commonInfo.alarmRelevant">
             <label class="form-control-label" jhiTranslate="dataCenterApp.commonInfo.alarmRelevantStartDate" for="field_alarmRelevantStartDate">Alarm Relevant Start Date</label>
             <div class="input-group">
                 <input id="field_alarmRelevantStartDate" type="text" class="form-control" name="alarmRelevantStartDate" ngbDatepicker  #alarmRelevantStartDateDp="ngbDatepicker" [(ngModel)]="commonInfo.alarmRelevantStartDate"
@@ -57,10 +57,10 @@
                 </span>
             </div>
         </div>
-        <div class="form-group">
+        <div class="form-group" *ngIf="commonInfo.alarmRelevant">
             <label class="form-control-label" jhiTranslate="dataCenterApp.commonInfo.alarmRelevantEndDate" for="field_alarmRelevantEndDate">Alarm Relevant End Date</label>
             <div class="input-group">
-                <input id="field_alarmRelevantEndDate" type="text" class="form-control" name="alarmRelevantEndDate" ngbDatepicker  #alarmRelevantEndDateDp="ngbDatepicker" [(ngModel)]="commonInfo.alarmRelevantEndDate"
+                    <input id="field_alarmRelevantEndDate" type="text" class="form-control" name="alarmRelevantEndDate" ngbDatepicker  #alarmRelevantEndDateDp="ngbDatepicker" [(ngModel)]="commonInfo.alarmRelevantEndDate"
                 />
                 <span class="input-group-append">
                     <button type="button" class="btn btn-secondary" (click)="alarmRelevantEndDateDp.toggle()"><i class="fa fa-calendar"></i></button>

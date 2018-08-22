@@ -8,7 +8,7 @@
             "entities": {
                 "main": "Entitäten",
                 "alarmInfo": "Alarm Info",
-                "commonInfo": "Common Info",
+                "commonInfo": "Allgemeine Info",
                 "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
             },
             "account": {
