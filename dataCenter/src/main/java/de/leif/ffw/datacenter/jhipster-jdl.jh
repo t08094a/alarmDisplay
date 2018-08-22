@@ -1,0 +1,18 @@
+entity AlarmInfo {
+	time Instant,
+    location String,
+    geoposition String,
+    keywords String,
+    comment String,
+    priority Integer,
+}
+
+entity CommonInfo {
+	title String,
+    description String,
+    showStartDate LocalDate,
+    showEndDate LocalDate,
+    alarmRelevant Boolean,
+    alarmRelevantStartDate LocalDate,
+    alarmRelevantEndDate LocalDate
+}

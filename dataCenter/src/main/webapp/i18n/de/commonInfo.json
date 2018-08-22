@@ -1,0 +1,28 @@
+
+{
+    "dataCenterApp": {
+        "commonInfo" : {
+            "home": {
+                "title": "Allgemeine Infos",
+                "createLabel": "Allgemeine Info erstellen",
+                "createOrEditLabel": "Eine neue Allgemeine Info erstellen oder bearbeiten"
+            },
+            "created": "Allgemeine Info erstellt mit ID {{ param }}",
+            "updated": "Allgemeine Info aktualisiert mit ID {{ param }}",
+            "deleted": "Allgemeine Info gelöscht mit ID {{ param }}",
+            "delete": {
+                "question": "Soll die Allgemeine Info {{ id }} wirklich dauerhaft gelöscht werden?"
+            },
+            "detail": {
+                "title": "Allgemeine Info"
+            },
+            "title": "Titel",
+            "description": "Beschreibung",
+            "showStartDate": "Anzeige-Start",
+            "showEndDate": "Anzeige-Ende",
+            "alarmRelevant": "Ist relevant bei Alarmierung?",
+            "alarmRelevantStartDate": "Anzeige-Start wenn bei Alarmierung relevant",
+            "alarmRelevantEndDate": "Anzeige-Stop wenn bei Alarmierung relevant"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+
+<div *ngIf="alarmInfo">
+    <h2><span jhiTranslate="dataCenterApp.alarmInfo.detail.title">Alarm Info</span> {{alarmInfo.id}}</h2>
+    <hr>
+    <jhi-alert-error></jhi-alert-error>
+    <dl class="row-md jh-entity-details">
+        <dt><span jhiTranslate="dataCenterApp.alarmInfo.time">Time</span></dt>
+        <dd>
+            <span>{{alarmInfo.time | date:'medium'}}</span>
+        </dd>
+        <dt><span jhiTranslate="dataCenterApp.alarmInfo.location">Location</span></dt>
+        <dd>
+            <span>{{alarmInfo.location}}</span>
+        </dd>
+        <dt><span jhiTranslate="dataCenterApp.alarmInfo.geoposition">Geoposition</span></dt>
+        <dd>
+            <span>{{alarmInfo.geoposition}}</span>
+        </dd>
+        <dt><span jhiTranslate="dataCenterApp.alarmInfo.keywords">Keywords</span></dt>
+        <dd>
+            <span>{{alarmInfo.keywords}}</span>
+        </dd>
+        <dt><span jhiTranslate="dataCenterApp.alarmInfo.comment">Comment</span></dt>
+        <dd>
+            <span>{{alarmInfo.comment}}</span>
+        </dd>
+        <dt><span jhiTranslate="dataCenterApp.alarmInfo.priority">Priority</span></dt>
+        <dd>
+            <span>{{alarmInfo.priority}}</span>
+        </dd>
+    </dl>
+
+    <button type="submit"
+            (click)="previousState()"
+            class="btn btn-info">
+        <span class="fa fa-arrow-left"></span>&nbsp;<span jhiTranslate="entity.action.back"> Back</span>
+    </button>
+
+    <button type="button"
+            [routerLink]="['/', { outlets: { popup: 'alarm-info/'+ alarmInfo.id + '/edit'} }]"
+            replaceUrl="true"
+            queryParamsHandling="merge"
+            class="btn btn-primary">
+        <span class="fa fa-pencil"></span>&nbsp;<span jhiTranslate="entity.action.edit"> Edit</span>
+    </button>
+</div>

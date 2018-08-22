@@ -1,0 +1,18 @@
+#!/bin/bash
+
+default_profile="dev"
+profile=$default_profile
+
+if [ $# == 0 ] 
+then
+    echo "use default profile $default_profile"
+    profile=$default_profile
+elif [ $# == 1 ]
+then
+    profile=$1
+else
+    echo "usage: $0 [dev|prod]"
+    exit -1
+fi
+
+./mvnw package -P$profile dockerfile:build

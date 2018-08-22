@@ -1,0 +1,68 @@
+<div>
+    <h2>
+        <span jhiTranslate="dataCenterApp.alarmInfo.home.title">Alarm Infos</span>
+        <button class="btn btn-primary float-right jh-create-entity create-alarm-info" [routerLink]="['/', { outlets: { popup: ['alarm-info-new'] } }]">
+            <span class="fa fa-plus"></span>
+            <span  jhiTranslate="dataCenterApp.alarmInfo.home.createLabel">
+            Create new Alarm Info
+            </span>
+        </button>
+    </h2>
+    <jhi-alert></jhi-alert>
+    <div class="row">
+    </div>
+    <br/>
+    <div class="table-responsive" *ngIf="alarmInfos">
+        <table class="table table-striped">
+            <thead>
+            <tr>
+            <th><span jhiTranslate="global.field.id">ID</span></th>
+            <th><span jhiTranslate="dataCenterApp.alarmInfo.time">Time</span></th>
+            <th><span jhiTranslate="dataCenterApp.alarmInfo.location">Location</span></th>
+            <th><span jhiTranslate="dataCenterApp.alarmInfo.geoposition">Geoposition</span></th>
+            <th><span jhiTranslate="dataCenterApp.alarmInfo.keywords">Keywords</span></th>
+            <th><span jhiTranslate="dataCenterApp.alarmInfo.comment">Comment</span></th>
+            <th><span jhiTranslate="dataCenterApp.alarmInfo.priority">Priority</span></th>
+            <th></th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr *ngFor="let alarmInfo of alarmInfos ;trackBy: trackId">
+                <td><a [routerLink]="['../alarm-info', alarmInfo.id ]">{{alarmInfo.id}}</a></td>
+                <td>{{alarmInfo.time | date:'medium'}}</td>
+                <td>{{alarmInfo.location}}</td>
+                <td>{{alarmInfo.geoposition}}</td>
+                <td>{{alarmInfo.keywords}}</td>
+                <td>{{alarmInfo.comment}}</td>
+                <td>{{alarmInfo.priority}}</td>
+                <td class="text-right">
+                    <div class="btn-group flex-btn-group-container">
+                        <button type="submit"
+                                [routerLink]="['../alarm-info', alarmInfo.id ]"
+                                class="btn btn-info btn-sm">
+                            <span class="fa fa-eye"></span>
+                            <span class="d-none d-md-inline" jhiTranslate="entity.action.view">View</span>
+                        </button>
+                        <button type="submit"
+                                [routerLink]="['/', { outlets: { popup: 'alarm-info/'+ alarmInfo.id + '/edit'} }]"
+                                replaceUrl="true"
+                                queryParamsHandling="merge"
+                                class="btn btn-primary btn-sm">
+                            <span class="fa fa-pencil"></span>
+                            <span class="d-none d-md-inline" jhiTranslate="entity.action.edit">Edit</span>
+                        </button>
+                        <button type="submit"
+                                [routerLink]="['/', { outlets: { popup: 'alarm-info/'+ alarmInfo.id + '/delete'} }]"
+                                replaceUrl="true"
+                                queryParamsHandling="merge"
+                                class="btn btn-danger btn-sm">
+                            <span class="fa fa-remove"></span>
+                            <span class="d-none d-md-inline" jhiTranslate="entity.action.delete">Delete</span>
+                        </button>
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

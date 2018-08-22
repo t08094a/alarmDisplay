@@ -1,0 +1,50 @@
+
+<div *ngIf="commonInfo">
+    <h2><span jhiTranslate="dataCenterApp.commonInfo.detail.title">Common Info</span> {{commonInfo.id}}</h2>
+    <hr>
+    <jhi-alert-error></jhi-alert-error>
+    <dl class="row-md jh-entity-details">
+        <dt><span jhiTranslate="dataCenterApp.commonInfo.title">Title</span></dt>
+        <dd>
+            <span>{{commonInfo.title}}</span>
+        </dd>
+        <dt><span jhiTranslate="dataCenterApp.commonInfo.description">Description</span></dt>
+        <dd>
+            <span>{{commonInfo.description}}</span>
+        </dd>
+        <dt><span jhiTranslate="dataCenterApp.commonInfo.showStartDate">Show Start Date</span></dt>
+        <dd>
+            <span>{{commonInfo.showStartDate | date:'mediumDate'}}</span>
+        </dd>
+        <dt><span jhiTranslate="dataCenterApp.commonInfo.showEndDate">Show End Date</span></dt>
+        <dd>
+            <span>{{commonInfo.showEndDate | date:'mediumDate'}}</span>
+        </dd>
+        <dt><span jhiTranslate="dataCenterApp.commonInfo.alarmRelevant">Alarm Relevant</span></dt>
+        <dd>
+            <span>{{commonInfo.alarmRelevant}}</span>
+        </dd>
+        <dt><span jhiTranslate="dataCenterApp.commonInfo.alarmRelevantStartDate">Alarm Relevant Start Date</span></dt>
+        <dd>
+            <span>{{commonInfo.alarmRelevantStartDate | date:'mediumDate'}}</span>
+        </dd>
+        <dt><span jhiTranslate="dataCenterApp.commonInfo.alarmRelevantEndDate">Alarm Relevant End Date</span></dt>
+        <dd>
+            <span>{{commonInfo.alarmRelevantEndDate | date:'mediumDate'}}</span>
+        </dd>
+    </dl>
+
+    <button type="submit"
+            (click)="previousState()"
+            class="btn btn-info">
+        <span class="fa fa-arrow-left"></span>&nbsp;<span jhiTranslate="entity.action.back"> Back</span>
+    </button>
+
+    <button type="button"
+            [routerLink]="['/', { outlets: { popup: 'common-info/'+ commonInfo.id + '/edit'} }]"
+            replaceUrl="true"
+            queryParamsHandling="merge"
+            class="btn btn-primary">
+        <span class="fa fa-pencil"></span>&nbsp;<span jhiTranslate="entity.action.edit"> Edit</span>
+    </button>
+</div>
