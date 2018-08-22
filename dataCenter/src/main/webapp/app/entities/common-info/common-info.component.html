@@ -31,7 +31,7 @@
             <tr *ngFor="let commonInfo of commonInfos ;trackBy: trackId">
                 <td><a [routerLink]="['../common-info', commonInfo.id ]">{{commonInfo.id}}</a></td>
                 <td>{{commonInfo.title}}</td>
-                <td>{{commonInfo.description}}</td>
+                <td [innerHTML]="commonInfo.description"></td>
                 <td>{{commonInfo.showStartDate | date:'mediumDate'}}</td>
                 <td>{{commonInfo.showEndDate | date:'mediumDate'}}</td>
                 <td>{{commonInfo.alarmRelevant}}</td>

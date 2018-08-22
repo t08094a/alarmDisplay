@@ -15,4 +15,5 @@ else
     exit -1
 fi
 
+yarn
 ./mvnw package -P$profile dockerfile:build
