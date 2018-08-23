@@ -22,9 +22,15 @@ public class InitialSetupMigration {
     public void addAuthorities(MongoTemplate mongoTemplate) {
         Authority adminAuthority = new Authority();
         adminAuthority.setName(AuthoritiesConstants.ADMIN);
+
+        Authority roleManagerAuthority = new Authority();
+        roleManagerAuthority.setName(AuthoritiesConstants.MANAGER);
+
         Authority userAuthority = new Authority();
         userAuthority.setName(AuthoritiesConstants.USER);
+
         mongoTemplate.save(adminAuthority);
+        mongoTemplate.save(roleManagerAuthority);
         mongoTemplate.save(userAuthority);
     }
 
@@ -32,6 +38,10 @@ public class InitialSetupMigration {
     public void addUsers(MongoTemplate mongoTemplate) {
         Authority adminAuthority = new Authority();
         adminAuthority.setName(AuthoritiesConstants.ADMIN);
+
+        Authority roleManagerAuthority = new Authority();
+        roleManagerAuthority.setName(AuthoritiesConstants.MANAGER);
+
         Authority userAuthority = new Authority();
         userAuthority.setName(AuthoritiesConstants.USER);
 
@@ -43,10 +53,11 @@ public class InitialSetupMigration {
         systemUser.setLastName("System");
         systemUser.setEmail("system@localhost");
         systemUser.setActivated(true);
-        systemUser.setLangKey("en");
+        systemUser.setLangKey("de");
         systemUser.setCreatedBy(systemUser.getLogin());
         systemUser.setCreatedDate(Instant.now());
         systemUser.getAuthorities().add(adminAuthority);
+        systemUser.getAuthorities().add(roleManagerAuthority);
         systemUser.getAuthorities().add(userAuthority);
         mongoTemplate.save(systemUser);
 
@@ -58,7 +69,7 @@ public class InitialSetupMigration {
         anonymousUser.setLastName("User");
         anonymousUser.setEmail("anonymous@localhost");
         anonymousUser.setActivated(true);
-        anonymousUser.setLangKey("en");
+        anonymousUser.setLangKey("de");
         anonymousUser.setCreatedBy(systemUser.getLogin());
         anonymousUser.setCreatedDate(Instant.now());
         mongoTemplate.save(anonymousUser);
@@ -71,10 +82,11 @@ public class InitialSetupMigration {
         adminUser.setLastName("Administrator");
         adminUser.setEmail("admin@localhost");
         adminUser.setActivated(true);
-        adminUser.setLangKey("en");
+        adminUser.setLangKey("de");
         adminUser.setCreatedBy(systemUser.getLogin());
         adminUser.setCreatedDate(Instant.now());
         adminUser.getAuthorities().add(adminAuthority);
+        adminUser.getAuthorities().add(roleManagerAuthority);
         adminUser.getAuthorities().add(userAuthority);
         mongoTemplate.save(adminUser);
 
@@ -86,7 +98,7 @@ public class InitialSetupMigration {
         userUser.setLastName("User");
         userUser.setEmail("user@localhost");
         userUser.setActivated(true);
-        userUser.setLangKey("en");
+        userUser.setLangKey("de");
         userUser.setCreatedBy(systemUser.getLogin());
         userUser.setCreatedDate(Instant.now());
         userUser.getAuthorities().add(userAuthority);
