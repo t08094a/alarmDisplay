@@ -15,5 +15,6 @@ else
     exit -1
 fi
 
-yarn webpack:build
+#yarn webpack:build
+#./mvnw package -P$profile dockerfile:build
 ./mvnw package -P$profile dockerfile:build
