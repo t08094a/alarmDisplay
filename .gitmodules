@@ -1,3 +1,6 @@
 [submodule "dataCenter"]
 	path = dataCenter
 	url = https://github.com/t08094a/alarmDisplay-DataCenter.git
+[submodule "alarmDisplayApp"]
+	path = alarmDisplayApp
+	url = https://github.com/t08094a/alarmDisplay-App.git
