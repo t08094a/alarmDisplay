@@ -14,12 +14,12 @@ Es wird mindestens ein RaspberryPi für den Monitor benötigt. Auf diesem läuft
 # Submodule
 
 ## Klonen des Repositories
-- Klonen mit allen Submodulen
-git clone --recurse-submodules https://github.com/t08094a/alarmDisplay.git
+* Klonen mit allen Submodulen
+`git clone --recurse-submodules <https://github.com/t08094a/alarmDisplay.git>`
 
 - Nachträgliches Laden der Submodule
 Nach dem Klonen des Repositories müssen die Submodule noch geladen werden:
-git submodule init && git submodule update
+`git submodule init && git submodule update`
 
 ## Aktualisierung der Submodule
-git submodule update --remote
+`git submodule update --remote`
