@@ -1,0 +1,14 @@
+@lxpanel --profile LXDE-pi
+@pcmanfm --desktop --profile LXDE-pi
+@point-rpi
+
+# screensaver starten
+@xscreensaver -no-splash
+
+# disable HDMI output if screensaver gets active or enable HDMI if screensaver gets deactivated
+@alarmMonitor/kiosk/MonitorActivation/hdmioff.sh
+
+# Motion detection to activate monitor
+@alarmMonitor/kiosk/MonitorActivation/pir_monitor.sh
+
+@chromium-browser --noerrordialogs --disable-session-crashed-bubble --disable-infobars --incognito --kiosk http://black-pearl
