@@ -5,6 +5,12 @@ Zur Realisierung der Aktivierungsfunktion wird ein Bewegungsmelder eingesetzt. B
 
 Als Sensor wird ein HC-SR501 eingesetzt. Es ist jedoch auch jeder x-beliebige PIR Sensor möglich.
 
+## Requirements
+Install `cec-utils`:
+``` console
+sudo apt install cec-utils
+```
+
 ## Bewegungsmelder PIR
 
 ### PIR anschließen
@@ -26,4 +32,11 @@ Als Sensor wird ein HC-SR501 eingesetzt. Es ist jedoch auch jeder x-beliebige PI
 ## Programm in den Autostart legen
 ```
 python3 main.py
+```
+With raspberry pi's LXDE change following file:
+`~/.config/lxsession/LXDE-pi/autostart`
+with
+```
+# Motion detection to activate monitor
+@/home/pi/alarmMonitor/kiosk/MonitorActivation/main.py
 ```

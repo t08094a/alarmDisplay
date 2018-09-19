@@ -9,9 +9,10 @@ from RPi import GPIO
 # https://raspberry.tips/raspberrypi-tutorials/bewegungsmelder-am-raspberry-pi-auslesen/
 # https://tutorials-raspberrypi.de/raspberry-pi-bewegungsmelder-sensor-pir/
 
+LOGGER = logging.getLogger(__name__)
+
 class PirWatcher():
 
-    LOGGER = logging.getLogger(__name__)
     PIR_PIN = 8 # GPIO PIN: 14
     SHUTOFF_DELAY = 60
 
@@ -23,7 +24,7 @@ class PirWatcher():
         self.turned_off = False
         self.last_motion_time = time.time()
 
-        self.screen_activator = new screen_activator()
+        self.screen_activator = screen_activator.ScreenActivator()
 
     def motion_detected(self, channel):
         """
