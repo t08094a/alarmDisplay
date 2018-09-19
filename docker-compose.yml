@@ -1,0 +1,100 @@
+version: '2'
+services:
+    reverse-proxy:
+        image: traefik:alpine # The official Traefik docker image
+        command: --api --docker # Enables the web UI and tells Træfik to listen to docker
+        ports:
+        - "80:80"     # The HTTP port
+        - "8080:8080" # The Web UI (enabled by --api)
+        volumes:
+        - /var/run/docker.sock:/var/run/docker.sock # So that Traefik can listen to the Docker events
+        
+    ###############################################
+    # Content from alarmDisplayApp/Dockerfile.cross
+    ###############################################
+    alarmdisplay-app:
+        image: t08094a/alarmdisplay-app:latest
+        hostname: alarmdisplay-app
+        domainname: alarmdisplay-app.local
+        environment:
+            - DATACENTER_API=http://datacenter-app:9001/api
+        ports:
+            - "80:80"
+        networks:
+            - network_frontend
+        restart: on-failure
+
+    ################################################
+    # Content from dataCenter/src/app/docker/app.yml
+    ################################################
+    datacenter-app:
+        image: t08094a/alarmdisplay-datacenter:latest
+        hostname: alarmdisplay-datacenter
+        domainname: alarmdisplay-datacenter.local
+        environment:
+            - SPRING_PROFILES_ACTIVE=prod,swagger
+            - SPRING_DATA_MONGODB_URI=mongodb://mongodb:27017
+            - SPRING_DATA_MONGODB_DATABASE=dataCenter
+            - JHIPSTER_SLEEP=10 # gives time for the database to boot before the application
+            - SPRING_CLOUD_STREAM_KAFKA_BINDER_BROKERS=kafka
+            - SPRING_CLOUD_STREAM_KAFKA_BINDER_ZK_NODES=zookeeper
+        ports:
+            - "9001:8080"
+        networks:
+            - network_backend
+            - network_frontend
+        restart: on-failure
+                
+    mongodb:
+        image: mongo:3.4.10
+        ports:
+            - "27017:27017"
+        volumes:
+            - db_volume:/data/db/
+        networks:
+            - network_backend
+        restart: on-failure
+
+
+    zookeeper:
+        image: wurstmeister/zookeeper:3.4.6
+        ports:
+          - "2181:2181"
+        networks:
+            - network_backend
+
+    kafka:
+        image: wurstmeister/kafka:1.0.0
+        environment:
+            #KAFKA_ADVERTISED_HOST_NAME: localhost
+            KAFKA_ADVERTISED_HOST_NAME: kafka
+            KAFKA_ADVERTISED_PORT: 9092
+            KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+            KAFKA_CREATE_TOPICS: "topic-jhipster:1:1"
+        ports:
+            - "9092:9092"
+        networks:
+            - network_backend
+            - network_frontend
+
+    mqttserver:
+        image: rabbitmq:management-alpine
+        ports:
+            - "9002:5672"
+            - "9003:15672"
+        networks:
+            - network_backend
+        environment:
+            - RABBITMQ_DEFAULT_USER=admin
+            - RABBITMQ_DEFAULT_PASS=admin
+        volumes:
+            - rabbitmq_volume:/var/lib/rabbitmq
+        restart: on-failure
+                
+volumes:
+    db_volume:
+    rabbitmq_volume:
+
+networks:
+    network_backend:
+    network_frontend:
