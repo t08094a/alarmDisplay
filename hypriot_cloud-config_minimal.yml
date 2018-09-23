@@ -1,0 +1,44 @@
+#cloud-config
+# vim: syntax=yaml
+#
+hostname: alarmmonitor-display
+fqdn: alarmmonitor-display.local
+manage_etc_hosts: true
+
+users:
+  - name: odin
+    gecos: "Odin"
+    sudo: ALL=(ALL) NOPASSWD:ALL
+    shell: /bin/bash
+    groups: users,docker,video,adm,dialout
+    plain_text_passwd: joc04UiO33
+    lock_passwd: false
+    ssh_pwauth: true
+    chpasswd: { expire: false }
+
+locale: de_DE.UTF-8
+timezone: Europe/Berlin
+
+ntp:
+    pools:
+        - pool.ntp.org
+
+apt_preserve_sources_list: true
+package_update: true
+package_upgrade: true
+packages:
+    - vim-nox
+    - language-pack-de
+package_reboot_if_required: true
+
+
+# These commands will be ran once on first boot only
+runcmd:
+    - '[ sed, -i, -e, 's/"set background=dark/set background=dark/', /etc/vim/vimrc ]'
+    - '[ sed, -i, -e, 's/"if has("syntax") set background=dark/set background=dark/', /etc/vim/vimrc ]'
+    
+    - 'docker swarm init'
+    - 'docker volume create portainer_data'
+    - 'docker run -d -p 9000:9000 --name portainer --restart always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer'
+    - 'git clone https://github.com/t08094a/alarmDisplay.git /home/odin/alarmDisplay/ && cd /home/odin/alarmDisplay && git submodule init && git submodule update'
+
