@@ -1,0 +1,5 @@
+{
+    "python.jediEnabled": false,
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "/usr/bin/python3.7"
+}

@@ -23,3 +23,26 @@ Nach dem Klonen des Repositories müssen die Submodule noch geladen werden:
 
 ## Aktualisierung der Submodule
 `git submodule update --remote`
+
+
+# Betriebssystem für RaspberryPi um Docker Container auszuführen
+
+[resinOS](https://resinos.io/)
+[Getting Started](https://resinos.io/docs/raspberrypi3/gettingstarted/)
+
+# Verwaltung von Containern
+
+## Portainer
+
+**Image:** portainer/portainer:latest
+
+**Hilfe:** https://portainer.readthedocs.io/en/latest/deployment.html
+
+**Start:**
+Verwaltung lokaler Container
+```
+docker run -d -p 9000:9000 \
+-v /var/run/docker.sock:/var/run/docker.sock \
+-v /opt/dockerData/portainer/portainer \
+-H unix:///var/run/docker.sock
+```

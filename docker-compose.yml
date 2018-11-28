@@ -1,83 +1,96 @@
 version: '2'
 services:
-    reverse-proxy:
-        image: traefik:alpine # The official Traefik docker image
-        command: --api --docker --docker.domain=alarmmonitor.local # Enables the web UI and tells Træfik to listen to docker
-        ports:
-            - "80:80"     # The HTTP port
-            - "443:443"
-            - "8080:8080" # The Web UI (enabled by --api)
-        volumes:
-            - /var/run/docker.sock:/var/run/docker.sock # So that Traefik can listen to the Docker events
-            - ./traefik.toml:/traefik.toml
-            - ./acme.json:/acme.json
-        networks:
-            - proxy
-        labels:
-            - "traefik.frontend.rule=Host:traefik.alarmmonitor.local"
-            - "traefik.port=8080"
-        container_name: traefik
+    # reverse-proxy:
+    #     image: traefik:alpine # The official Traefik docker image
+    #     container_name: traefik
+    #     command: --api --docker --docker.domain=alarmmonitor.local # Enables the web UI and tells Træfik to listen to docker
+    #     ports:
+    #         - "80:80"     # The HTTP port
+    #         - "443:443"
+    #         - "8080:8080" # The Web UI (enabled by --api)
+    #     volumes:
+    #         - /var/run/docker.sock:/var/run/docker.sock # So that Traefik can listen to the Docker events
+    #         - ./traefik.toml:/traefik.toml
+    #         - ./acme.json:/acme.json
+    #     networks:
+    #         - proxy
+    #     labels:
+    #         - "traefik.frontend.rule=Host:traefik.alarmmonitor.local"
+    #         - "traefik.port=8080"
+        
         
     ###############################################
     # Content from alarmDisplayApp/Dockerfile.cross
     ###############################################
     alarmdisplay-app:
         image: t08094a/alarmdisplay-app:latest
-        hostname: alarmdisplay-app
-        domainname: alarmdisplay-app.local
+        container_name: alarmdisplay-app
+        # hostname: app
+        # domainname: alarmdisplay.local
         environment:
-            - DATACENTER_API=http://datacenter-app:9001/api
+            - DATASERVER_URL=http://datacenter-app
+            - DATASERVER_PORT=3000
         ports:
             - "9001:80"
-        networks:
-            - network_frontend
-        restart: on-failure
+        # networks:
+        #     - network_frontend
+        restart: unless-stopped
+        depends_on:
+            - datacenter-app
 
     ################################################
     # Content from dataCenter/src/app/docker/app.yml
     ################################################
     datacenter-app:
         image: t08094a/alarmdisplay-datacenter:latest
-        hostname: alarmdisplay-datacenter
-        domainname: alarmdisplay-datacenter.local
+        container_name: datacenter-app
+        # hostname: datacenter
+        # domainname: alarmdisplay.local
         environment:
-            # - _JAVA_OPTIONS=-Xmx512m -Xms256m
-            - SPRING_PROFILES_ACTIVE=prod,swagger
-            - SPRING_DATASOURCE_URL=jdbc:mariadb://datacenter-mariadb:3306/datacenter
-            - JHIPSTER_SLEEP=10 # gives time for the database to boot before the application
+            - START_SLEEP=10 # gives time for the database to boot before the application
+            #- MONGO_URL=mongodb://datacenter-mongodb/alarmdisplay-datacenter
         ports:
-            - "9002:8080"
-        networks:
-            - network_backend
-            - network_frontend
-        restart: on-failure
+            - "9002:3000"
+        # networks:
+        #     - network_backend
+        #     - network_frontend
+        restart: unless-stopped
+        depends_on:
+            - datacenter-mongodb
                 
-    datacenter-mariadb:
+    datacenter-mongodb:
         extends:
-            file: dataCenter/src/app/docker/mariadb.yml
-            service: datacenter-mariadb
+            file: dataCenter/docker/mongo.yml
+            service: datacenter-mongodb
+        container_name: datacenter-mongodb
         volumes:
-             - db_volume:/var/lib/mysql/
-        networks:
-            - network_backend
-        restart: on-failure
+            - datacenter-mongodb_volume:/data/db/
+        # networks:
+        #     - network_backend
+        restart: unless-stopped
     
-    adminer:
-        image: adminer
-        restart: on-failure
-        ports:
-            - "9003:8080"
-        networks:
-            - network_backend
-        links:
-            - datacenter-mariadb
+    # datacenter-mongodb-express:
+    #     extends:
+    #         file: dataCenter/docker/mongoexpress.yml
+    #         service: datacenter-mongodb-express
+    #     container_name: datacenter-mongodb-express
+    #     hostname: alarmdisplay-mongodb-express
+    #     domainname: alarmdisplay-mongodb-express.local
+    #     # environment:
+    #     ports:
+    #         - "9003:8081"
+    #     networks:
+    #         - network_backend
+    #     restart: unless-stopped
+    #     depends_on:
+    #         - datacenter-mongodb
     
                 
 volumes:
-    db_volume:
+    datacenter-mongodb_volume:
 
 networks:
     proxy:
-        external: true
+        # external: true
     network_backend:
     network_frontend:
