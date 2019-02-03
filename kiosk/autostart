@@ -6,7 +6,7 @@
 @xscreensaver -no-splash
 
 # disable HDMI output if screensaver gets active or enable HDMI if screensaver gets deactivated
-@alarmMonitor/kiosk/MonitorActivation/hdmioff.sh
+@alarmMonitor/kiosk/MonitorActivation/hdmi_on_off.sh
 
 # Motion detection to activate monitor
 @alarmMonitor/kiosk/MonitorActivation/pir_monitor.sh

@@ -8,7 +8,7 @@ import json
 import requests
 from requests import Response
 
-dataCenterUrl = 'http://localhost'
+dataCenterUrl = 'http://alarmmonitor-worker'
 dataCenterPort = 9002
 resource = 'alarm-info'
 
@@ -107,12 +107,12 @@ if __name__ == '__main__':
         geoXSub=geoX,
         geoYSub=geoY)
 
-    alarmContentJson: str = Template(alarmTemplateJson).substitute(substitutionDict)
-    data: object = json.loads(alarmContentJson)
+    alarmContentJson = Template(alarmTemplateJson).substitute(substitutionDict)
+    data = json.loads(alarmContentJson)
 
-    targetUrl: str = '{}:{}/{}'.format(dataCenterUrl, dataCenterPort, resource)
+    targetUrl = '{}:{}/{}'.format(dataCenterUrl, dataCenterPort, resource)
 
-    response: Response = requests.post(targetUrl, None, verify=False, json=data)
+    response = requests.post(targetUrl, None, verify=False, json=data)
 
     if response.status_code != 200:
         print('Fehler beim Senden der Nachricht!')

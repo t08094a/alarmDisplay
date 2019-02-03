@@ -61,10 +61,3 @@ class PirWatcher():
         self.stop_running = True
         GPIO.cleanup()
 
-    def turn_on(self):
-        call('vcgencmd display_power 1', shell=True)
-        self.turned_off = False
-
-    def turn_off(self):
-        call('vcgencmd display_power 0', shell=True)
-        self.turned_off = True
