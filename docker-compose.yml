@@ -1,22 +1,22 @@
 version: '2'
 services:
-    # reverse-proxy:
-    #     image: traefik:alpine # The official Traefik docker image
-    #     container_name: traefik
-    #     command: --api --docker --docker.domain=alarmmonitor.local # Enables the web UI and tells Træfik to listen to docker
-    #     ports:
-    #         - "80:80"     # The HTTP port
-    #         - "443:443"
-    #         - "8080:8080" # The Web UI (enabled by --api)
-    #     volumes:
-    #         - /var/run/docker.sock:/var/run/docker.sock # So that Traefik can listen to the Docker events
-    #         - ./traefik.toml:/traefik.toml
-    #         - ./acme.json:/acme.json
-    #     networks:
-    #         - proxy
-    #     labels:
-    #         - "traefik.frontend.rule=Host:traefik.alarmmonitor.local"
-    #         - "traefik.port=8080"
+    traefik:
+        image: traefik:alpine
+        container_name: traefik
+        command: --api --docker --docker.domain=alarmmonitor.local # Enables the web UI and tells Træfik to listen to docker
+        ports:
+            - "80:80"
+            - "443:443"
+            - "8080:8080" # The Web UI (enabled by --api)
+        volumes:
+            - /var/run/docker.sock:/var/run/docker.sock # So that Traefik can listen to the Docker events
+            - ./traefik/traefik.toml:/traefik.toml
+        networks:
+            - proxy
+        labels:
+            - "traefik.frontend.rule=Host:traefik.alarmmonitor.local"
+            - "traefik.port=8080" 
+        restart: unless-stopped
         
         
     ###############################################
@@ -27,11 +27,9 @@ services:
         container_name: alarmdisplay-app
         # hostname: app
         # domainname: alarmdisplay.local
-        environment:
-            - DATASERVER_URL=http://datacenter-app
-            - DATASERVER_PORT=3000
         ports:
             - "9001:80"
+        env_file: .env
         # networks:
         #     - network_frontend
         restart: unless-stopped
@@ -46,6 +44,7 @@ services:
         container_name: datacenter-app
         # hostname: datacenter
         # domainname: alarmdisplay.local
+        env_file: .env
         environment:
             - START_SLEEP=10 # gives time for the database to boot before the application
             #- MONGO_URL=mongodb://datacenter-mongodb/alarmdisplay-datacenter

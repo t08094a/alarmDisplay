@@ -46,3 +46,25 @@ docker run -d -p 9000:9000 \
 -v /opt/dockerData/portainer/portainer \
 -H unix:///var/run/docker.sock
 ```
+
+# Start containers with docker-compose
+
+## Configuration
+To configure the services you need to create a link to either `docker-compose.development.env` or `docker-compose.production.env` based on your system with
+```
+ln -s docker-compose.development.env .env
+```
+
+After that modify the values in the correct `*.env` file.
+
+To get a google key for the maps service use the following link:
+https://developers.google.com/maps/documentation/javascript/get-api-key
+
+- ADA_DATASERVER_URL
+  > Contains the server url of the `datacenter-app` service. If you are in development mode, this would be `localhost` otherwise the `hostname` of the host system running `docker-compose`, e.g. `http://alarmmonitor-worker`
+- ADA_DATASERVER_REST_RESOURCE_CURRENT_ALARM_INFO
+  > Defines the resource key to query a current active alarm info.
+    This value should not be changed. This must be the same value in both services `alarmdisplay-app` and `datacenter-app`
+- ADA_DATASERVER_WEBSOCKET_ALARM_INFO_EVENT_KEY
+  > Defines the websocket key to update alarm infos.
+    This value should not be changed. This must be the same value in both services `alarmdisplay-app` and `datacenter-app`
