@@ -68,3 +68,11 @@ https://developers.google.com/maps/documentation/javascript/get-api-key
 - ADA_DATASERVER_WEBSOCKET_ALARM_INFO_EVENT_KEY
   > Defines the websocket key to update alarm infos.
     This value should not be changed. This must be the same value in both services `alarmdisplay-app` and `datacenter-app`
+
+## Update images
+Go to the directory containing the `docker-compose.yml` and call
+```
+docker-compose pull
+docker-compose up -d --remove-orphans
+```
+This will update the images used in that Docker Compose setup and restart the container.
